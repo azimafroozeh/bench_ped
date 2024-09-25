@@ -81,7 +81,7 @@ include("${CMAKE_SOURCE_DIR}/tools/local.cmake")
 # ---------------------------------------------------------------------------
 
 # Tester does not link correctly because of tzt_stats
-#include("${CMAKE_SOURCE_DIR}/test/local.cmake")
+include("${CMAKE_SOURCE_DIR}/test/local.cmake")
 
 # ---------------------------------------------------------------------------
 # Benchmarks
@@ -123,10 +123,8 @@ FetchContent_Declare(
         GIT_TAG main #
 )
 
-enable_testing()
 FetchContent_MakeAvailable(alp_repo)
 include_directories(${alp_repo_SOURCE_DIR}/data/include)
-
 
 include("${CMAKE_SOURCE_DIR}/alp/manual/CMakeLists.txt")
 

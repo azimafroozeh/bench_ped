@@ -89,8 +89,16 @@ void setupSchemePool()
   }
 }
 
-TEST_F(ped_test, test_one_vector)
+void ped_test_test_one_vector()
 {
+  uint8_t* compressed_arr;
+  double* dbl_arr;
+  double* dec_dbl_arr;
+
+  dbl_arr = new double[1024];
+  dec_dbl_arr = new double[1024 * 100];
+  compressed_arr = new uint8_t[1024 * 1000000000];
+
   setupSchemePool();
   cengine::db::v2::d::Decimal pd;
   std::cout << pd.selfDescription() << std::endl;
@@ -139,10 +147,22 @@ TEST_F(ped_test, test_one_vector)
     std::cout << dataset.name << " : "
               << output_bytes / (1.0 * size * sizeof(double)) * 64 << std::endl;
   }
+
+  delete[] dbl_arr;
+  delete[] compressed_arr;
+  delete[] dec_dbl_arr;
 }
 
-TEST_F(ped_test, test_all_dataset)
+void ped_test_test_all_dataset()
 {
+  uint8_t* compressed_arr;
+  double* dbl_arr;
+  double* dec_dbl_arr;
+
+  dbl_arr = new double[1024];
+  dec_dbl_arr = new double[1024 * 100];
+  compressed_arr = new uint8_t[1024 * 1000000000];
+
   setupSchemePool();
   cengine::db::v2::d::Decimal pd;
   //	std::cout << pd.selfDescription() << std::endl;
@@ -179,4 +199,13 @@ TEST_F(ped_test, test_all_dataset)
     std::cout << dataset.name << " : "
               << output_bytes / (1.0 * size * sizeof(double)) * 64 << std::endl;
   }
+  delete[] dbl_arr;
+  delete[] compressed_arr;
+  delete[] dec_dbl_arr;
+}
+
+int main(int argc, char** argv)
+{
+  ped_test_test_all_dataset();
+  ped_test_test_one_vector();
 }
