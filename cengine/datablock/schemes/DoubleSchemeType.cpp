@@ -25,12 +25,10 @@ string ConvertSchemeTypeToString(DoubleSchemeType type)
          return "DICTIONARY_16";
       case DoubleSchemeType::UNCOMPRESSED:
          return "UNCOMPRESSED";
-      case DoubleSchemeType::DOUBLE_BP:
-         return "DOUBLE_BP";
       case DoubleSchemeType::X_FOR:
          return "X_FOR";
       default:
-         throw Generic_Exception("Unknown DoubleSchemeType");
+         throw Generic_Exception("Unknown IntegerSchemeType");
    }
 }
 // -------------------------------------------------------------------------------------

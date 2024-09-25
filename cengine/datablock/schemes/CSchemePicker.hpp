@@ -15,6 +15,8 @@ DECLARE_uint32(force_integer_scheme);
 DECLARE_uint32(force_double_scheme);
 DECLARE_uint32(force_string_scheme);
 // -------------------------------------------------------------------------------------
+DECLARE_bool(sampling_test_mode);
+// -------------------------------------------------------------------------------------
 namespace cengine {
 namespace db {
 // -------------------------------------------------------------------------------------
@@ -72,7 +74,38 @@ public:
       ThreadCache::get().compression_level++;
       StatsType stats = StatsType::generateStats(src, nullmap, tuple_count);
       SchemeType *preferred_scheme = nullptr;
-      if ((ThreadCache::get().estimation_level == 0 && ThreadCache::get().compression_level == 1) && (stats.null_count == stats.tuple_count || stats.unique_count == 1)) {
+
+      if (FLAGS_sampling_test_mode) {
+         if (allowed_cascading_level == 0 || tuple_count == 0) {
+            spdlog::debug(MyTypeWrapper::getTypeName() + ": UNCOMPRESSED");
+            preferred_scheme = &MyTypeWrapper::getScheme(SchemeCodeType::UNCOMPRESSED);
+            after_size = preferred_scheme->compress(src, nullmap, dest, stats, 0);
+            scheme_code = CB(preferred_scheme->schemeType());
+         } else {
+            auto tmp_dest = makeBytesArray(stats.total_size * 10);
+            u32 least_after_size = std::numeric_limits<u32>::max();
+            //SchemeType *preferred_scheme = nullptr;
+            for ( auto &scheme: MyTypeWrapper::getSchemes()) {
+               if ( scheme.second->expectedCompressionRatio(stats, allowed_cascading_level) > 0 ) {
+                  u32 after_size = scheme.second->compress(src, nullmap, tmp_dest.get(), stats, allowed_cascading_level);
+                  if ( after_size < least_after_size ) {
+                     least_after_size = after_size;
+                     preferred_scheme = scheme.second.get();
+                  }
+               }
+            }
+            die_if(preferred_scheme != nullptr);
+            scheme_code = CB(preferred_scheme->schemeType());
+            spdlog::debug((MyTypeWrapper::getTypeName() + ": {}").c_str(), scheme_code);
+            after_size = preferred_scheme->compress(src, nullmap, dest, stats, allowed_cascading_level);
+         }
+         ThreadCache::get().compression_level--;
+         return;
+      }
+
+	  // ALP_CHG
+	  // make the first condition always false to disable PED.
+      if ((ThreadCache::get().estimation_level == 0 && ThreadCache::get().compression_level == 1) && (stats.null_count == stats.tuple_count || stats.unique_count == 1) && false) {
          spdlog::debug(MyTypeWrapper::getTypeName() + ": ONE_VALUE");
          preferred_scheme = &MyTypeWrapper::getScheme(SchemeCodeType::ONE_VALUE);
          scheme_code = CB(preferred_scheme->schemeType());
@@ -91,7 +124,7 @@ public:
          if ( FLAGS_try_all_schemes ) {
             auto tmp_dest = makeBytesArray(stats.total_size * 10);
             u32 least_after_size = std::numeric_limits<u32>::max();
-            SchemeType *preferred_scheme = nullptr;
+            //SchemeType *preferred_scheme = nullptr;
             for ( auto &scheme: MyTypeWrapper::getSchemes()) {
                if ( scheme.second->expectedCompressionRatio(stats, allowed_cascading_level) > 0 ) {
                   u32 after_size = scheme.second->compress(src, nullmap, tmp_dest.get(), stats, allowed_cascading_level);
@@ -121,7 +154,7 @@ public:
          }
       }
       if ( ThreadCache::get().isOnHotPath()) {
-         if ( after_size > stats.total_size ) {
+         if ( (after_size > stats.total_size) ) {
             cerr << "!!! compressed is larger than raw: \nfor : " + comment + " - scheme = " + ConvertSchemeTypeToString(static_cast<SchemeCodeType>(scheme_code))
                  << " difference = " << after_size - stats.total_size << "."
                  << " Falling back to uncompressed."

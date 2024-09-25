@@ -11,9 +11,9 @@ enum class DoubleSchemeType : u8 {
    ONE_VALUE,
    DICTIONARY_8,
    DICTIONARY_16,
-   DOUBLE_BP,
    UNCOMPRESSED,
-   X_FOR // TODO: dirty hack
+   X_FOR, // TODO: dirty hack
+   DOUBLE_BP
 };
 string ConvertSchemeTypeToString(DoubleSchemeType type);
 // -------------------------------------------------------------------------------------

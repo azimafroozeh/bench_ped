@@ -66,7 +66,6 @@ u32 Decimal::compress(const DOUBLE *src, const BITMAP *, u8 *dest, DoubleStats &
 
     u32 exception_count = 0;
     u8 run_count = 0;
-    bool exception_print = true;
 
     Roaring exceptions_bitmap;
     const u32 num_blocks = (stats.tuple_count + (block_size-1)) / block_size;
@@ -107,13 +106,14 @@ u32 Decimal::compress(const DOUBLE *src, const BITMAP *, u8 *dest, DoubleStats &
             } else {
                 block_has_exception = true;
                 exception_count++;
-                if (exception_count > stats.tuple_count/2) {
-                    // This is a hacky way to avoid using Decimal in columns where there are many exceptions
-                    // Return a big number will make the selection process select uncompressed rather than Decimal
-                    // -- -don't do this if we're not in a cascade for the pseudodecimal_benchmark.
-                    //return stats.total_size + 1000;
-                    if (exception_print) { exception_print = false; std::cerr << "[decimal] high exception count, would switch to other scheme now." << std::endl;}
-                }
+				// ALP_CHG
+				// START
+//                if (exception_count > stats.tuple_count/2) {
+//                    // This is a hacky way to avoid using Decimal in columns where there are many exceptions
+//                    // Return a big number will make the selection process select uncompressed rather than Decimal
+//                    return stats.total_size + 1000;
+//                }
+				// FINISH
                 exponent_v.push_back(exponent_exception_code);
                 patches_v.push_back(src[row_i]);
             }
@@ -199,6 +199,7 @@ static inline void decompressExceptionBlock(DecimalIterateParam *param) {
     param->next_block_i++;
 }
 
+#ifdef BTR_USE_SIMD
 static inline void decompressAVXBlock4(DecimalIterateParam *param) {
     // Load numbers and convert to double
     __m128i numbers_int_0 = _mm_loadu_si128(reinterpret_cast<__m128i *>(param->numbers_ptr) + 0);
@@ -331,6 +332,7 @@ static inline void decompressAVXBlock(DecimalIterateParam *param, uint32_t limit
     // Write block with exception
     decompressExceptionBlock(param);
 }
+#endif //BTR_USE_SIMD
 
 void Decimal::decompress(DOUBLE *dest, BitmapWrapper *, const u8 *src, u32 tuple_count, u32 level)
 {
@@ -359,6 +361,7 @@ void Decimal::decompress(DOUBLE *dest, BitmapWrapper *, const u8 *src, u32 tuple
     patches_scheme.decompress(patches_v[level].data(), nullptr, col_struct.data + col_struct.patches_offset,
                         tuple_count - col_struct.converted_count, level+1);
 
+#ifdef BTR_USE_SIMD
     if (col_struct.variant_selector & do_iteration) {
         struct DecimalIterateParam param = {
             .next_block_i = 0,
@@ -381,7 +384,7 @@ void Decimal::decompress(DOUBLE *dest, BitmapWrapper *, const u8 *src, u32 tuple
 
             // Write remaining blocks
             decompressAVXBlockUnroll(&param, num_avx_blocks);
-            
+
         } else {
             exceptions_bitmap.iterate([](uint32_t value, void *param_void) {
                 auto param = reinterpret_cast<struct DecimalIterateParam *>(param_void);
@@ -407,6 +410,21 @@ void Decimal::decompress(DOUBLE *dest, BitmapWrapper *, const u8 *src, u32 tuple
             }
         }
     }
+#else // don't use SIMD
+    auto write_ptr = dest;
+    for (u32 row_i = 0; row_i < tuple_count; row_i++) {
+      INTEGER exponent = *exponents_ptr++;
+      if (exponent == exponent_exception_code) {
+        *write_ptr++ = *patches_ptr++;
+      } else {
+        auto number = *numbers_ptr++;
+        u8 exponent_index = exponent & decimal_index_mask;
+        DOUBLE original_double = static_cast<DOUBLE>(number) *
+                                 exact_fractions_of_ten[exponent_index];
+        *write_ptr++ = original_double;
+      }
+    }
+#endif
 }
 
 string Decimal::fullDescription(const u8 *src) {

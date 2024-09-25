@@ -145,6 +145,7 @@ bool OneValue::decompressNoCopy(u8 *dest, BitmapWrapper *nullmap, const u8 *src,
             .offset = static_cast<u32>(tuple_count * sizeof(StringPointerArrayViewer::View))
     };
 
+#ifdef BTR_USE_SIMD
     auto dest_view_simd = reinterpret_cast<__m256i *>(dest_views);
     auto *data = reinterpret_cast<long long *>(&view);
     __m256i data_v = _mm256_set1_epi64x(*data);
@@ -155,6 +156,9 @@ bool OneValue::decompressNoCopy(u8 *dest, BitmapWrapper *nullmap, const u8 *src,
         _mm256_storeu_si256(dest_view_simd + 3, data_v);
         dest_view_simd += 4;
     }
+#else
+    std::memset(dest_views, *reinterpret_cast<long long*>(&view), tuple_count * sizeof(long long));
+#endif
 
     auto dest_strings = reinterpret_cast<u8 *>(dest_views + tuple_count);
     std::memcpy(dest_strings, col_struct.data, col_struct.length);

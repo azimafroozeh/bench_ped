@@ -79,17 +79,25 @@ public:
         // Could maybe improve performance further by
         // - moving the loadu_si256
         // - replacing the loadu_ and the first 8 elements by a write to a vector register and a storu
+#ifdef BTR_USE_SIMD
         auto write_ptr = dest + 8;
+        auto *end = dest + n;
         const __m256i len_v = _mm256_set1_epi32(len*8);
         __m256i current = _mm256_loadu_si256(reinterpret_cast<__m256i *>(dest));
-        auto *end = dest + n;
         while (write_ptr < end) {
             current = _mm256_add_epi32(current, len_v);
             _mm256_storeu_si256(reinterpret_cast<__m256i *>(write_ptr), current);
             write_ptr += 8;
         }
-
         return end;
+#else
+        for (auto i = 8u; i != n; ++i) {
+          // could change multiplication to addition addition, but adds data dependency.
+          // let's trust the compiler to do the right thing.
+          dest[i] = start + i * len;
+        }
+        return dest + n;
+#endif
     }
 
     static inline void readFileToMemory(const std::string &path, std::vector<char> &target) {

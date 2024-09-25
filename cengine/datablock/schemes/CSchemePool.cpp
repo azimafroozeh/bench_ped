@@ -62,6 +62,7 @@ DEFINE_uint32(force_integer_scheme, 255, "");
 DEFINE_uint32(force_double_scheme, 255, "");
 // -------------------------------------------------------------------------------------
 DEFINE_bool(try_all_schemes, false, "");
+DEFINE_bool(sampling_test_mode, false, "");
 // -------------------------------------------------------------------------------------
 namespace cengine {
 namespace db {

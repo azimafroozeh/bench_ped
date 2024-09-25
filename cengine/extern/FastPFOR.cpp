@@ -1,19 +1,25 @@
 #include "FastPFOR.hpp"
+
+// fastpfor
+#include <headers/codecfactory.h>
+#include <headers/deltautil.h>
 #include <headers/blockpacking.h>
-#include <headers/simdbinarypacking.h>
+#include <headers/fastpfor.h>
+
 #include "Exceptions.hpp"
 
-#include "headers/codecfactory.h"
-#include "headers/deltautil.h"
 
 // -------------------------------------------------------------------------------------
 template<>
 struct LemiereImpl<FastPForCodec::FPF>::impl {
-    FastPForLib::CompositeCodec<FastPForLib::SIMDFastPFor<8>, FastPForLib::VariableByte> codec;
+    // using codec_t = BTR_IFELSESIMD(FastPForLib::SIMDFastPFor<8>, FastPForLib::FastPFor<8>);
+    using codec_t = FastPForLib::SIMDFastPFor<8>;
+    FastPForLib::CompositeCodec<codec_t, FastPForLib::VariableByte> codec;
 };
 // -------------------------------------------------------------------------------------
 template<>
 struct LemiereImpl<FastPForCodec::FBP>::impl {
+    // TODO Adnan did not use SIMDBinaryPacking in the original? ask him why
     FastPForLib::CompositeCodec<FastPForLib::FastBinaryPacking<32>, FastPForLib::VariableByte> codec;
 };
 // -------------------------------------------------------------------------------------

@@ -461,6 +461,7 @@ bool DynamicDictionary::decompressNoCopy(u8 *dest, BitmapWrapper *, const u8 *sr
         u32 runs_count = rle.decompressRuns(values_ptr, counts_ptr, nullptr, compressed_codes_ptr, tuple_count, level + 1);
 
         static_assert(sizeof(StringPointerArrayViewer::View) == 8);
+#ifdef BTR_USE_SIMD
         for (u32 run = 0; run < runs_count; run++) {
             INTEGER code = values_ptr[run];
             auto *data = reinterpret_cast<long long *>(views_ptr + code);
@@ -473,6 +474,14 @@ bool DynamicDictionary::decompressNoCopy(u8 *dest, BitmapWrapper *, const u8 *sr
             }
             dest_views += run_length;
         }
+#else
+        for (u32 run = 0; run < runs_count; run++) {
+            INTEGER code = values_ptr[run];
+            for (INTEGER repeat = 0; repeat < counts_ptr[run]; ++repeat) {
+                *dest_views++ = views_ptr[code];
+            }
+        }
+#endif
     } else {
         // Decompress codes
         thread_local std::vector<std::vector<INTEGER>> decompressed_codes_v;
@@ -481,9 +490,10 @@ bool DynamicDictionary::decompressNoCopy(u8 *dest, BitmapWrapper *, const u8 *sr
         IntegerScheme &codes_scheme = IntegerSchemePicker::MyTypeWrapper::getScheme(col_struct.codes_scheme);
         codes_scheme.decompress(decompressed_codes, nullptr, compressed_codes_ptr, tuple_count, level + 1);
 
+        u32 row_i = 0;
+#ifdef BTR_USE_SIMD
         static_assert(sizeof(*views_ptr) == 8);
         static_assert(SIMD_EXTRA_BYTES >= 4 * sizeof(__m256i));
-        u32 row_i = 0;
         if (tuple_count >= 16) {
             while (row_i < tuple_count-15) {
                 // We cannot write out of bounds here like we do for other dict implementations
@@ -512,6 +522,7 @@ bool DynamicDictionary::decompressNoCopy(u8 *dest, BitmapWrapper *, const u8 *sr
                 row_i += 16;
             }
         }
+#endif
 
         // Write remaining values (up to 15)
         while(row_i < tuple_count) {

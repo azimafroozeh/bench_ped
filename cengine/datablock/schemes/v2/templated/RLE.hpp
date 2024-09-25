@@ -130,6 +130,7 @@ inline void TRLE<INTEGER, IntegerScheme, SInteger32Stats, IntegerSchemeType>::de
     }
     // -------------------------------------------------------------------------------------
     auto write_ptr = dest;
+#ifdef BTR_USE_SIMD
     for ( u32 run_i = 0; run_i < col_struct.runs_count; run_i++ ) {
         auto target_ptr = write_ptr + counts[run_i];
 
@@ -147,6 +148,15 @@ inline void TRLE<INTEGER, IntegerScheme, SInteger32Stats, IntegerSchemeType>::de
         }
         write_ptr = target_ptr;
     }
+#else
+    for ( u32 run_i = 0; run_i < col_struct.runs_count; run_i++ ) {
+        auto val = values[run_i];
+        auto target_ptr = write_ptr + counts[run_i];
+        while (write_ptr != target_ptr) {
+           *write_ptr++ = val;
+        }
+    }
+#endif
 }
 
 template<>
@@ -173,6 +183,7 @@ inline void TRLE<DOUBLE, DoubleScheme, DoubleStats, DoubleSchemeType>::decompres
     }
     // -------------------------------------------------------------------------------------
     auto write_ptr = dest;
+#ifdef BTR_USE_SIMD
     for ( u32 run_i = 0; run_i < col_struct.runs_count; run_i++ ) {
         auto target_ptr = write_ptr + counts[run_i];
 
@@ -185,6 +196,15 @@ inline void TRLE<DOUBLE, DoubleScheme, DoubleStats, DoubleSchemeType>::decompres
         }
         write_ptr = target_ptr;
     }
+#else
+    for ( u32 run_i = 0; run_i < col_struct.runs_count; run_i++ ) {
+        auto val = values[run_i];
+        auto target_ptr = write_ptr + counts[run_i];
+        while (write_ptr != target_ptr) {
+           *write_ptr++ = val;
+        }
+    }
+#endif
 }
 }
 }
