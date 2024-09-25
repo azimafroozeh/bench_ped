@@ -115,6 +115,7 @@ message(STATUS "[TEST] settings")
 message(STATUS "    GTEST_INCLUDE_DIR           = ${GTEST_INCLUDE_DIR}")
 message(STATUS "    GTEST_LIBRARY_PATH          = ${GTEST_LIBRARY_PATH}")
 
+add_compile_definitions(CMAKE_SOURCE_DIR="${CMAKE_SOURCE_DIR}")
 include(FetchContent)
 FetchContent_Declare(
         alp_repo
@@ -122,8 +123,11 @@ FetchContent_Declare(
         GIT_TAG main #
 )
 
+enable_testing()
 FetchContent_MakeAvailable(alp_repo)
 include_directories(${alp_repo_SOURCE_DIR}/data/include)
 
 
 include("${CMAKE_SOURCE_DIR}/alp/manual/CMakeLists.txt")
+
+
