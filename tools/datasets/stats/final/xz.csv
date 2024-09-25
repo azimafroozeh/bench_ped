@@ -1,0 +1,2445 @@
+TrainsUK2;TrainsUK2_1;1_Actual Total Distance Miles;double;13457372
+TrainsUK2;TrainsUK2_1;16_Planned Total Distance Miles;double;13277048
+TrainsUK2;TrainsUK2_1;23_v_Dest Lateness (WTT);double;8723880
+Generico;Generico_1;22_InversionQ;double;12840604
+Generico;Generico_1;23_InversionUS;double;12872904
+Redfin1;Redfin1_1;39_sold_above_list;double;3356532
+Redfin1;Redfin1_1;34_price_drops_mom;double;1491276
+Redfin1;Redfin1_1;14_median_dom_yoy;double;3195596
+Redfin1;Redfin1_1;19_median_list_price_mom;double;9599456
+Redfin1;Redfin1_1;22_median_ppsf_mom;double;16915032
+Redfin1;Redfin1_1;13_median_dom_mom;double;2881524
+Redfin1;Redfin1_1;3_avg_sale_to_list_mom;double;17195932
+Redfin1;Redfin1_1;8_homes_sold_yoy;double;3965088
+Redfin1;Redfin1_1;4_avg_sale_to_list_yoy;double;17371048
+Redfin1;Redfin1_1;25_median_sale_price_mom;double;8914236
+Redfin1;Redfin1_1;28_new_listings_mom;double;4070884
+Redfin1;Redfin1_1;16_median_list_ppsf_mom;double;16850520
+Redfin1;Redfin1_1;23_median_ppsf_yoy;double;17529388
+Redfin1;Redfin1_1;17_median_list_ppsf_yoy;double;16857872
+Redfin1;Redfin1_1;11_inventory_yoy;double;4577960
+Redfin1;Redfin1_1;26_median_sale_price_yoy;double;9665060
+Redfin1;Redfin1_1;7_homes_sold_mom;double;3882808
+Redfin1;Redfin1_1;10_inventory_mom;double;4191724
+Redfin1;Redfin1_1;15_median_list_ppsf;double;13118940
+Redfin1;Redfin1_1;33_price_drops;double;856752
+Redfin1;Redfin1_1;35_price_drops_yoy;double;1282304
+Redfin1;Redfin1_1;41_sold_above_list_yoy;double;6312228
+Redfin1;Redfin1_1;29_new_listings_yoy;double;4060204
+Redfin1;Redfin1_1;24_median_sale_price;double;4953072
+Redfin1;Redfin1_1;2_avg_sale_to_list;double;14828500
+Redfin1;Redfin1_1;18_median_list_price;double;4809368
+Redfin1;Redfin1_1;12_median_dom;double;3146828
+Redfin1;Redfin1_1;40_sold_above_list_mom;double;6164656
+Redfin1;Redfin1_1;20_median_list_price_yoy;double;10224124
+Redfin1;Redfin1_1;21_median_ppsf;double;12962272
+Medicare2;Medicare2_1;3_average_Medicare_payment_amt;double;36263252
+Medicare2;Medicare2_1;2_average_Medicare_allowed_amt;double;23295900
+Medicare2;Medicare2_1;28_stdev_submitted_chrg_amt;double;21035700
+Medicare2;Medicare2_1;4_average_submitted_chrg_amt;double;22370936
+Medicare2;Medicare2_1;27_stdev_Medicare_payment_amt;double;48737848
+Medicare2;Medicare2_1;26_stdev_Medicare_allowed_amt;double;24187772
+Redfin3;Redfin3_1;14_median_dom_yoy;double;3418584
+Redfin3;Redfin3_1;19_median_list_price_mom;double;10256984
+Redfin3;Redfin3_1;44_sold_above_list_yoy;double;6754684
+Redfin3;Redfin3_1;27_months_of_supply;double;678660
+Redfin3;Redfin3_1;22_median_ppsf_mom;double;18114072
+Redfin3;Redfin3_1;13_median_dom_mom;double;3084336
+Redfin3;Redfin3_1;3_avg_sale_to_list_mom;double;18150048
+Redfin3;Redfin3_1;8_homes_sold_yoy;double;4260964
+Redfin3;Redfin3_1;4_avg_sale_to_list_yoy;double;18408776
+Redfin3;Redfin3_1;25_median_sale_price_mom;double;9523040
+Redfin3;Redfin3_1;16_median_list_ppsf_mom;double;18036880
+Redfin3;Redfin3_1;23_median_ppsf_yoy;double;18812580
+Redfin3;Redfin3_1;43_sold_above_list_mom;double;6573992
+Redfin3;Redfin3_1;17_median_list_ppsf_yoy;double;18109916
+Redfin3;Redfin3_1;42_sold_above_list;double;3597728
+Redfin3;Redfin3_1;11_inventory_yoy;double;4864512
+Redfin3;Redfin3_1;26_median_sale_price_yoy;double;10344644
+Redfin3;Redfin3_1;37_price_drops_mom;double;1605416
+Redfin3;Redfin3_1;36_price_drops;double;921068
+Redfin3;Redfin3_1;7_homes_sold_mom;double;4167956
+Redfin3;Redfin3_1;10_inventory_mom;double;4457520
+Redfin3;Redfin3_1;28_months_of_supply_mom;double;692444
+Redfin3;Redfin3_1;31_new_listings_mom;double;4347912
+Redfin3;Redfin3_1;15_median_list_ppsf;double;14015380
+Redfin3;Redfin3_1;38_price_drops_yoy;double;1396716
+Redfin3;Redfin3_1;29_months_of_supply_yoy;double;683916
+Redfin3;Redfin3_1;24_median_sale_price;double;5287588
+Redfin3;Redfin3_1;2_avg_sale_to_list;double;15621064
+Redfin3;Redfin3_1;18_median_list_price;double;5165052
+Redfin3;Redfin3_1;12_median_dom;double;3374064
+Redfin3;Redfin3_1;32_new_listings_yoy;double;4344632
+Redfin3;Redfin3_1;20_median_list_price_yoy;double;10960140
+Redfin3;Redfin3_1;21_median_ppsf;double;13865060
+SalariesFrance;SalariesFrance_1;16_APPRENTI;double;7775036
+SalariesFrance;SalariesFrance_1;28_EMBAUCHE_CDD;double;8034556
+SalariesFrance;SalariesFrance_1;7_ADECCO_NB_CANDIDATS;double;740304
+SalariesFrance;SalariesFrance_1;12_AG_40_49;double;6128620
+SalariesFrance;SalariesFrance_1;9_ADECCO_SALAIRES_BRUTS;double;1256084
+SalariesFrance;SalariesFrance_1;11_AG_30_39;double;5736732
+SalariesFrance;SalariesFrance_1;27_EMBAUCHES_NP1;double;7474764
+SalariesFrance;SalariesFrance_1;26_EMBAUCHES_NM1;double;7382932
+SalariesFrance;SalariesFrance_1;15_AG_P55;double;5294980
+SalariesFrance;SalariesFrance_1;34_INTERIM_NM1;double;3644464
+SalariesFrance;SalariesFrance_1;35_INTERIM_NP1;double;3706204
+SalariesFrance;SalariesFrance_1;51_SALAIRE_BRUT;double;1525056
+SalariesFrance;SalariesFrance_1;23_Calculation_392657618632466432;double;7883980
+SalariesFrance;SalariesFrance_1;13_AG_50_54;double;5152464
+SalariesFrance;SalariesFrance_1;33_HOMMES;double;7813380
+SalariesFrance;SalariesFrance_1;10_AG_25_29;double;4452500
+SalariesFrance;SalariesFrance_1;31_EMPSAL_NP1;double;7858320
+SalariesFrance;SalariesFrance_1;24_Calculation_393783518250995712;double;1468384
+SalariesFrance;SalariesFrance_1;52_SALAIRE_VF;double;1316100
+SalariesFrance;SalariesFrance_1;32_FEMMES;double;7753648
+SalariesFrance;SalariesFrance_1;18_BMO_INTENTIONS;double;6779372
+SalariesFrance;SalariesFrance_1;17_BMO_DIFFICILE;double;5576788
+SalariesFrance;SalariesFrance_1;40_Latitude;double;3178536
+SalariesFrance;SalariesFrance_1;19_BMO_SAISON;double;3464712
+SalariesFrance;SalariesFrance_1;30_EMPSAL_NM1;double;7605884
+SalariesFrance;SalariesFrance_1;29_EMBAUCHE_CDI;double;8091240
+SalariesFrance;SalariesFrance_1;41_Longitude;double;3383076
+SalariesFrance;SalariesFrance_1;25_EMBAUCHES_GLOBAL;double;8387320
+SalariesFrance;SalariesFrance_1;14_AG_M25;double;4090356
+SalariesFrance;SalariesFrance_1;8_ADECCO_NB_CAND_METIERS_PROCHES;double;768156
+CMSprovider;CMSprovider_1;26_STDEV_SUBMITTED_CHRG_AMT;double;21447624
+CMSprovider;CMSprovider_1;9_LINE_SRVC_CNT;double;10323008
+CMSprovider;CMSprovider_1;25_STDEV_MEDICARE_PAYMENT_AMT;double;57157536
+CMSprovider;CMSprovider_1;24_STDEV_MEDICARE_ALLOWED_AMT;double;23525384
+CMSprovider;CMSprovider_1;2_AVERAGE_MEDICARE_PAYMENT_AMT;double;38468804
+CMSprovider;CMSprovider_1;1_AVERAGE_MEDICARE_ALLOWED_AMT;double;20089216
+CMSprovider;CMSprovider_1;3_AVERAGE_SUBMITTED_CHRG_AMT;double;20969388
+CommonGovernment;CommonGovernment_1;32_gwacs;double;155676
+CommonGovernment;CommonGovernment_1;39_obligatedamount_1;double;13380
+CommonGovernment;CommonGovernment_1;26_ftsdollar;double;193856
+CommonGovernment;CommonGovernment_1;30_gsadollar;double;4533276
+CommonGovernment;CommonGovernment_1;37_nongsadollar;double;24374908
+CommonGovernment;CommonGovernment_1;10_baseandalloptionsvalue;double;28806120
+CommonGovernment;CommonGovernment_1;31_gsaotherdollar;double;1432916
+CommonGovernment;CommonGovernment_1;38_obligatedamount;double;29821592
+CommonGovernment;CommonGovernment_1;11_baseandexercisedoptionsvalue;double;29173232
+CommonGovernment;CommonGovernment_1;40_pbsdollar;double;408148
+Euro2016;Euro2016_1;9_subjectivity_confidence;double;7604936
+Euro2016;Euro2016_1;7_polarity_confidence;double;11301984
+MedPayment1;MedPayment1_1;3_average_Medicare_payment_amt;double;36398052
+MedPayment1;MedPayment1_1;2_average_Medicare_allowed_amt;double;23309072
+MedPayment1;MedPayment1_1;28_stdev_submitted_chrg_amt;double;21045084
+MedPayment1;MedPayment1_1;9_line_srvc_cnt;double;10386100
+MedPayment1;MedPayment1_1;4_average_submitted_chrg_amt;double;22254284
+MedPayment1;MedPayment1_1;27_stdev_Medicare_payment_amt;double;48784560
+MedPayment1;MedPayment1_1;26_stdev_Medicare_allowed_amt;double;24206404
+Arade;Arade_1;9_F9;double;29565220
+Arade;Arade_1;4_F4;double;30511264
+Arade;Arade_1;8_F8;double;29530140
+Arade;Arade_1;5_F5;double;31020484
+Telco;Telco_1;167_TOTAL_VAS_REV_P1;double;5263932
+Telco;Telco_1;15_CHRGD_CALLS_P3;double;2345972
+Telco;Telco_1;171_TOTAL_VAS_REV_P6;double;5853916
+Telco;Telco_1;53_IDD_MINS_P6;double;1034444
+Telco;Telco_1;143_TOTAL_INCOMING_MIN_P2;double;6926656
+Telco;Telco_1;122_RECHRG_TOTAL_TRANS_P2;double;1751756
+Telco;Telco_1;69_LAST_RCHRG_AMT;double;1334012
+Telco;Telco_1;39_FREE_SMS_P1;double;2914812
+Telco;Telco_1;57_IDD_REV_P4;double;494224
+Telco;Telco_1;129_REVENUE_SMS_P4;double;2187860
+Telco;Telco_1;107_RECHRG_INC_MIN_USED_P2;double;7589812
+Telco;Telco_1;127_REVENUE_SMS_P2;double;3270680
+Telco;Telco_1;21_CHRGD_MINS_P4;double;4269692
+Telco;Telco_1;90_ONNET_CALLS_P2;double;2979224
+Telco;Telco_1;41_FREE_SMS_P3;double;2146116
+Telco;Telco_1;153_TOTAL_MINS_P2;double;6242188
+Telco;Telco_1;74_OFFNET_CALLS_P1;double;2864436
+Telco;Telco_1;140_TOTAL_CALLS_REV_P4;double;4109440
+Telco;Telco_1;7_BALANCE_END_P2;double;3745624
+Telco;Telco_1;115_RECHRG_TOTAL_LOAD_P6;double;4234152
+Telco;Telco_1;134_TOTAL_CALLS_P3;double;2610312
+Telco;Telco_1;95_ONNET_MINS_P2;double;5806536
+Telco;Telco_1;2_ARPU_P1;double;9001264
+Telco;Telco_1;109_RECHRG_INC_MIN_USED_P4;double;6075828
+Telco;Telco_1;135_TOTAL_CALLS_P4;double;2474604
+Telco;Telco_1;158_TOTAL_OUTGOING_MIN_P2;double;6192236
+Telco;Telco_1;89_ONNET_CALLS_P1;double;3023220
+Telco;Telco_1;96_ONNET_MINS_P3;double;4440000
+Telco;Telco_1;8_CHARGD_SMS_P1;double;2273344
+Telco;Telco_1;120_RECHRG_TOTAL_SUBS_P6;double;413988
+Telco;Telco_1;20_CHRGD_MINS_P3;double;4419808
+Telco;Telco_1;145_TOTAL_INCOMING_MIN_P4;double;5367532
+Telco;Telco_1;130_REVENUE_SMS_P6;double;4018284
+Telco;Telco_1;99_ONNET_REV_P1;double;4848692
+Telco;Telco_1;126_REVENUE_SMS_P1;double;3305760
+Telco;Telco_1;62_INCOMING_INC_REV_P4;double;4228512
+Telco;Telco_1;80_OFFNET_MINS_P2;double;5213956
+Telco;Telco_1;66_INCOMING_TOTAL_CALLS_P3;double;2789932
+Telco;Telco_1;146_TOTAL_INCOMING_MIN_P6;double;8211432
+Telco;Telco_1;174_TOTA_OUTGOING_REV_P3;double;5712920
+Telco;Telco_1;12_CHARGD_SMS_P6;double;2742068
+Telco;Telco_1;37_FREE_MINS_P4;double;2895672
+Telco;Telco_1;46_IDD_CALLS_P3;double;367172
+Telco;Telco_1;154_TOTAL_MINS_P3;double;4908432
+Telco;Telco_1;113_RECHRG_TOTAL_LOAD_P3;double;2549808
+Telco;Telco_1;93_ONNET_CALLS_P6;double;2964868
+Telco;Telco_1;49_IDD_MINS_P1;double;1110556
+Telco;Telco_1;161_TOTAL_OUTGOING_MIN_P6;double;7202592
+Telco;Telco_1;125_RECHRG_TOTAL_TRANS_P6;double;2265716
+Telco;Telco_1;98_ONNET_MINS_P6;double;5804764
+Telco;Telco_1;168_TOTAL_VAS_REV_P2;double;4877052
+Telco;Telco_1;108_RECHRG_INC_MIN_USED_P3;double;6191360
+Telco;Telco_1;164_TOTAL_SMS_P3;double;2489452
+Telco;Telco_1;151_TOTAL_INCOMING_REV_P6;double;5773640
+Telco;Telco_1;11_CHARGD_SMS_P4;double;1538916
+Telco;Telco_1;54_IDD_REV_P1;double;806628
+Telco;Telco_1;114_RECHRG_TOTAL_LOAD_P4;double;2298904
+Telco;Telco_1;163_TOTAL_SMS_P2;double;3363388
+Telco;Telco_1;14_CHRGD_CALLS_P2;double;3039916
+Telco;Telco_1;23_CHRGD_REV_P1;double;5667016
+Telco;Telco_1;22_CHRGD_MINS_P6;double;5623004
+Telco;Telco_1;102_ONNET_REV_P4;double;3400300
+Telco;Telco_1;123_RECHRG_TOTAL_TRANS_P3;double;1302904
+Telco;Telco_1;83_OFFNET_MINS_P6;double;5209828
+Telco;Telco_1;139_TOTAL_CALLS_REV_P3;double;4269384
+Telco;Telco_1;144_TOTAL_INCOMING_MIN_P3;double;5511388
+Telco;Telco_1;179_UNIQUE_SUBS_SMS_P3;double;1641656
+Telco;Telco_1;78_OFFNET_CALLS_P6;double;2794932
+Telco;Telco_1;47_IDD_CALLS_P4;double;382936
+Telco;Telco_1;17_CHRGD_CALLS_P6;double;3026144
+Telco;Telco_1;43_FREE_SMS_P6;double;3537340
+Telco;Telco_1;88_OFFNET_REV_P6;double;4052108
+Telco;Telco_1;38_FREE_MINS_P6;double;4295612
+Telco;Telco_1;103_ONNET_REV_P6;double;4703140
+Telco;Telco_1;157_TOTAL_OUTGOING_MIN_P1;double;6678240
+Telco;Telco_1;91_ONNET_CALLS_P3;double;2267440
+Telco;Telco_1;173_TOTA_OUTGOING_REV_P2;double;6868060
+Telco;Telco_1;136_TOTAL_CALLS_P6;double;3336156
+Telco;Telco_1;81_OFFNET_MINS_P3;double;4014056
+Telco;Telco_1;25_CHRGD_REV_P3;double;4269384
+Telco;Telco_1;48_IDD_CALLS_P6;double;573728
+Telco;Telco_1;86_OFFNET_REV_P3;double;3138232
+Telco;Telco_1;55_IDD_REV_P2;double;752548
+Telco;Telco_1;132_TOTAL_CALLS_P1;double;3397416
+Telco;Telco_1;5_ARPU_P4;double;6275772
+Telco;Telco_1;141_TOTAL_CALLS_REV_P6;double;5491460
+Telco;Telco_1;94_ONNET_MINS_P1;double;5879048
+Telco;Telco_1;30_FREE_CALLS_P2;double;2356296
+Telco;Telco_1;44_IDD_CALLS_P1;double;614636
+Telco;Telco_1;112_RECHRG_TOTAL_LOAD_P2;double;3415548
+Telco;Telco_1;152_TOTAL_MINS_P1;double;6323528
+Telco;Telco_1;77_OFFNET_CALLS_P4;double;2035708
+Telco;Telco_1;165_TOTAL_SMS_P4;double;2433784
+Telco;Telco_1;101_ONNET_REV_P3;double;3501824
+Telco;Telco_1;172_TOTA_OUTGOING_REV_P1;double;7314292
+Telco;Telco_1;31_FREE_CALLS_P3;double;1700704
+Telco;Telco_1;27_CHRGD_REV_P6;double;5491460
+Telco;Telco_1;10_CHARGD_SMS_P3;double;1592220
+Telco;Telco_1;131_STATUS_END_P2;double;263416
+Telco;Telco_1;124_RECHRG_TOTAL_TRANS_P4;double;1068284
+Telco;Telco_1;117_RECHRG_TOTAL_SUBS_P2;double;358552
+Telco;Telco_1;162_TOTAL_SMS_P1;double;3334164
+Telco;Telco_1;56_IDD_REV_P3;double;469204
+Telco;Telco_1;169_TOTAL_VAS_REV_P3;double;3758640
+Telco;Telco_1;42_FREE_SMS_P4;double;2097236
+Telco;Telco_1;138_TOTAL_CALLS_REV_P2;double;5490588
+Telco;Telco_1;9_CHARGD_SMS_P2;double;2267420
+Telco;Telco_1;50_IDD_MINS_P2;double;1036704
+Telco;Telco_1;181_UNIQUE_SUBS_SMS_P6;double;2735184
+Telco;Telco_1;4_ARPU_P3;double;6768376
+Telco;Telco_1;149_TOTAL_INCOMING_REV_P3;double;3896708
+Telco;Telco_1;79_OFFNET_MINS_P1;double;5343440
+Telco;Telco_1;170_TOTAL_VAS_REV_P4;double;3641356
+Telco;Telco_1;180_UNIQUE_SUBS_SMS_P4;double;1605292
+Telco;Telco_1;84_OFFNET_REV_P1;double;4264388
+Telco;Telco_1;178_UNIQUE_SUBS_SMS_P2;double;2313496
+Telco;Telco_1;19_CHRGD_MINS_P2;double;5626500
+Telco;Telco_1;175_TOTA_OUTGOING_REV_P4;double;7314292
+Telco;Telco_1;155_TOTAL_MINS_P4;double;4737412
+Telco;Telco_1;29_FREE_CALLS_P1;double;2406180
+Telco;Telco_1;110_RECHRG_INC_MIN_USED_P6;double;8720096
+Telco;Telco_1;36_FREE_MINS_P3;double;2942520
+Telco;Telco_1;65_INCOMING_TOTAL_CALLS_P2;double;3469308
+Telco;Telco_1;133_TOTAL_CALLS_P2;double;3340688
+Telco;Telco_1;100_ONNET_REV_P2;double;4711372
+Telco;Telco_1;106_RECHRG_INC_MIN_USED_P1;double;7902060
+Telco;Telco_1;166_TOTAL_SMS_P6;double;3951120
+Telco;Telco_1;24_CHRGD_REV_P2;double;5490588
+Telco;Telco_1;87_OFFNET_REV_P4;double;3025500
+Telco;Telco_1;159_TOTAL_OUTGOING_MIN_P3;double;5111360
+Telco;Telco_1;35_FREE_MINS_P2;double;4301792
+Telco;Telco_1;121_RECHRG_TOTAL_TRANS_P1;double;1980364
+Telco;Telco_1;68_INCOMING_TOTAL_CALLS_P6;double;4008560
+Telco;Telco_1;72_MSISDN;double;9959176
+Telco;Telco_1;148_TOTAL_INCOMING_REV_P2;double;4900880
+Telco;Telco_1;137_TOTAL_CALLS_REV_P1;double;5667016
+Telco;Telco_1;92_ONNET_CALLS_P4;double;2174212
+Telco;Telco_1;59_INCOMING_INC_REV_P1;double;5461736
+Telco;Telco_1;6_ARPU_P6;double;9610264
+Telco;Telco_1;128_REVENUE_SMS_P3;double;2244168
+Telco;Telco_1;118_RECHRG_TOTAL_SUBS_P3;double;436756
+Telco;Telco_1;60_INCOMING_INC_REV_P2;double;5249088
+Telco;Telco_1;45_IDD_CALLS_P2;double;578428
+Telco;Telco_1;61_INCOMING_INC_REV_P3;double;4281348
+Telco;Telco_1;67_INCOMING_TOTAL_CALLS_P4;double;2718828
+Telco;Telco_1;82_OFFNET_MINS_P4;double;3900244
+Telco;Telco_1;32_FREE_CALLS_P4;double;1642612
+Telco;Telco_1;176_TOTA_OUTGOING_REV_P6;double;7904680
+Telco;Telco_1;16_CHRGD_CALLS_P4;double;2225644
+Telco;Telco_1;26_CHRGD_REV_P4;double;4109440
+Telco;Telco_1;75_OFFNET_CALLS_P2;double;2812332
+Telco;Telco_1;64_INCOMING_TOTAL_CALLS_P1;double;3581544
+Telco;Telco_1;85_OFFNET_REV_P2;double;4057456
+Telco;Telco_1;76_OFFNET_CALLS_P3;double;2126544
+Telco;Telco_1;33_FREE_CALLS_P6;double;2331452
+Telco;Telco_1;111_RECHRG_TOTAL_LOAD_P1;double;3737096
+Telco;Telco_1;52_IDD_MINS_P4;double;669584
+Telco;Telco_1;13_CHRGD_CALLS_P1;double;3095096
+Telco;Telco_1;150_TOTAL_INCOMING_REV_P4;double;3823864
+Telco;Telco_1;119_RECHRG_TOTAL_SUBS_P4;double;260544
+Telco;Telco_1;156_TOTAL_MINS_P6;double;6238952
+Telco;Telco_1;3_ARPU_P2;double;8443520
+Telco;Telco_1;51_IDD_MINS_P3;double;625544
+Telco;Telco_1;58_IDD_REV_P6;double;754228
+Telco;Telco_1;34_FREE_MINS_P1;double;4459840
+Telco;Telco_1;18_CHRGD_MINS_P1;double;5692796
+Telco;Telco_1;177_UNIQUE_SUBS_SMS_P1;double;2290056
+Telco;Telco_1;160_TOTAL_OUTGOING_MIN_P4;double;4937220
+Telco;Telco_1;142_TOTAL_INCOMING_MIN_P1;double;7380072
+Telco;Telco_1;63_INCOMING_INC_REV_P6;double;6005632
+Telco;Telco_1;147_TOTAL_INCOMING_REV_P1;double;5198372
+Telco;Telco_1;116_RECHRG_TOTAL_SUBS_P1;double;528760
+Telco;Telco_1;40_FREE_SMS_P2;double;2960740
+Telco;Telco_1;97_ONNET_MINS_P4;double;4319968
+MLB;MLB_68;27_theta;double;7469568
+MLB;MLB_68;20_our.x;double;3525516
+MLB;MLB_68;24_r;double;7149432
+MLB;MLB_68;21_our.y;double;3215460
+Redfin2;Redfin2_1;39_sold_above_list;double;3359864
+Redfin2;Redfin2_1;34_price_drops_mom;double;1489768
+Redfin2;Redfin2_1;14_median_dom_yoy;double;3197144
+Redfin2;Redfin2_1;19_median_list_price_mom;double;9600200
+Redfin2;Redfin2_1;22_median_ppsf_mom;double;16916560
+Redfin2;Redfin2_1;13_median_dom_mom;double;2877992
+Redfin2;Redfin2_1;3_avg_sale_to_list_mom;double;17190792
+Redfin2;Redfin2_1;8_homes_sold_yoy;double;3964428
+Redfin2;Redfin2_1;4_avg_sale_to_list_yoy;double;17378200
+Redfin2;Redfin2_1;25_median_sale_price_mom;double;8914504
+Redfin2;Redfin2_1;28_new_listings_mom;double;4069796
+Redfin2;Redfin2_1;16_median_list_ppsf_mom;double;16849240
+Redfin2;Redfin2_1;23_median_ppsf_yoy;double;17528728
+Redfin2;Redfin2_1;17_median_list_ppsf_yoy;double;16859904
+Redfin2;Redfin2_1;11_inventory_yoy;double;4577788
+Redfin2;Redfin2_1;26_median_sale_price_yoy;double;9664748
+Redfin2;Redfin2_1;7_homes_sold_mom;double;3882656
+Redfin2;Redfin2_1;10_inventory_mom;double;4190776
+Redfin2;Redfin2_1;15_median_list_ppsf;double;13098812
+Redfin2;Redfin2_1;33_price_drops;double;855084
+Redfin2;Redfin2_1;35_price_drops_yoy;double;1283272
+Redfin2;Redfin2_1;41_sold_above_list_yoy;double;6312588
+Redfin2;Redfin2_1;29_new_listings_yoy;double;4061424
+Redfin2;Redfin2_1;24_median_sale_price;double;4938160
+Redfin2;Redfin2_1;2_avg_sale_to_list;double;14828508
+Redfin2;Redfin2_1;18_median_list_price;double;4822068
+Redfin2;Redfin2_1;12_median_dom;double;3160508
+Redfin2;Redfin2_1;40_sold_above_list_mom;double;6164432
+Redfin2;Redfin2_1;20_median_list_price_yoy;double;10224928
+Redfin2;Redfin2_1;21_median_ppsf;double;12967336
+NYC;NYC_1;26_Latitude;double;15595808
+NYC;NYC_1;29_Longitude;double;15492888
+PanCreactomy2;PanCreactomy2_1;9_LINE_SRVC_CNT;double;10354440
+PanCreactomy2;PanCreactomy2_1;28_STDEV_MEDICARE_PAYMENT_AMT;double;48561528
+PanCreactomy2;PanCreactomy2_1;2_AVERAGE_MEDICARE_PAYMENT_AMT;double;36130836
+PanCreactomy2;PanCreactomy2_1;1_AVERAGE_MEDICARE_ALLOWED_AMT;double;23075000
+PanCreactomy2;PanCreactomy2_1;3_AVERAGE_SUBMITTED_CHRG_AMT;double;22152624
+PanCreactomy2;PanCreactomy2_1;27_STDEV_MEDICARE_ALLOWED_AMT;double;23971300
+PanCreactomy2;PanCreactomy2_1;29_STDEV_SUBMITTED_CHRG_AMT;double;21021380
+Motos;Motos_1;22_InversionQ;double;8566636
+Motos;Motos_1;23_InversionUS;double;8958692
+Bimbo;Bimbo_1;11_Venta_hoy;double;77928656
+Bimbo;Bimbo_1;5_Dev_proxima;double;8085404
+Food;Food_1;6_volume_total_bytes;double;16217788
+Medicare1;Medicare1_1;7_Calculation_9030826185528129;double;54137104
+Medicare1;Medicare1_1;4_Calculation_3170826185336909;double;19667848
+Medicare1;Medicare1_1;23_TOTAL_DRUG_COST;double;23815228
+Medicare1;Medicare1_1;24_TOTAL_DRUG_COST_GE65;double;14116124
+Medicare1;Medicare1_1;6_Calculation_7130826185400024;double;31089400
+Medicare1;Medicare1_1;5_Calculation_3170826185505725;double;30780512
+Wins;Wins_1;82_nKMS;double;714264
+Wins;Wins_1;93_nLDIST;double;249496
+Wins;Wins_1;52_nFR2;double;1230544
+Wins;Wins_1;81_nKLINE;double;874452
+Wins;Wins_1;257_xWIN;double;168784
+Wins;Wins_1;180_nVEL;double;547136
+Wins;Wins_1;156_nSUPERF;double;278920
+Wins;Wins_1;51_nFR1;double;1244808
+Wins;Wins_1;166_nTOPPER;double;1079712
+Wins;Wins_1;168_nTOPSHF;double;455048
+Wins;Wins_1;75_nK2;double;1476012
+Wins;Wins_1;79_nKGAPX;double;1632068
+Wins;Wins_1;83_nKMSeCHART;double;653920
+Wins;Wins_1;254_xPLA;double;238708
+Wins;Wins_1;188_nWMAR;double;137772
+Wins;Wins_1;164_nTOPPAC;double;1115684
+Wins;Wins_1;87_nK;double;1406096
+Wins;Wins_1;106_nLPER;double;1173032
+Wins;Wins_1;4_nABL2;double;413380
+Wins;Wins_1;176_nTRN_ROIX;double;678744
+Wins;Wins_1;34_nDIST;double;123400
+Wins;Wins_1;179_nVBET;double;874452
+Wins;Wins_1;171_nTRI;double;273696
+Wins;Wins_1;256_xSHO;double;272480
+Wins;Wins_1;3_nABL1;double;411708
+Wins;Wins_1;37_nEEN;double;708308
+Wins;Wins_1;194_nXSELL;double;497588
+Wins;Wins_1;102_nLODDS;double;698368
+Wins;Wins_1;11_nAODD;double;675476
+Wins;Wins_1;43_nEXA;double;253092
+Wins;Wins_1;53_nFR3;double;1271032
+Wins;Wins_1;138_nPSCN;double;1370876
+Wins;Wins_1;187_nWKSC;double;1139072
+Wins;Wins_1;5_nABLF;double;505696
+Wins;Wins_1;193_nXPROB;double;513996
+Wins;Wins_1;191_nXBUY;double;500892
+Wins;Wins_1;130_nPDIF;double;1227904
+Wins;Wins_1;121_nMLO;double;306880
+RealEstate2;RealEstate2_1;8_Latitude;double;34647984
+RealEstate2;RealEstate2_1;10_Longitude;double;37209188
+TrainsUK1;TrainsUK1_4;4_Calculation_3330422103625946;double;5705436
+TrainsUK1;TrainsUK1_4;11_Performance Allowance (mins);double;228340
+TrainsUK1;TrainsUK1_4;7_Median Lateness;double;2185864
+TrainsUK1;TrainsUK1_4;1_Average Lateness;double;9286264
+TrainsUK1;TrainsUK1_4;2_Calculation_2040623161253421;double;1729788
+TrainsUK1;TrainsUK1_4;10_Pathing Allowance (mins);double;390456
+TrainsUK1;TrainsUK1_4;15_RT%;double;7284568
+TrainsUK1;TrainsUK1_4;19_Time-to-10%;double;4544364
+TrainsUK1;TrainsUK1_4;20_Time-to-2%;double;6911540
+TrainsUK1;TrainsUK1_4;21_Time-to-5%;double;5857776
+Physicians;Physicians_1;3_average_Medicare_payment_amt;double;36386192
+Physicians;Physicians_1;2_average_Medicare_allowed_amt;double;23303640
+Physicians;Physicians_1;28_stdev_submitted_chrg_amt;double;21051436
+Physicians;Physicians_1;9_line_srvc_cnt;double;10378200
+Physicians;Physicians_1;4_average_submitted_chrg_amt;double;22283544
+Physicians;Physicians_1;27_stdev_Medicare_payment_amt;double;48783980
+Physicians;Physicians_1;26_stdev_Medicare_allowed_amt;double;24206928
+HashTags;HashTags_1;55_twitter#user#id_str;double;1137116
+HashTags;HashTags_1;54_twitter#user#id;double;1128248
+HashTags;HashTags_1;11_interaction#geo#latitude;double;172168
+HashTags;HashTags_1;26_twitter#geo#latitude;double;172168
+HashTags;HashTags_1;12_interaction#geo#longitude;double;172204
+HashTags;HashTags_1;31_twitter#in_reply_to_status_id;double;191012
+HashTags;HashTags_1;4_interaction#author#id;double;1128248
+HashTags;HashTags_1;27_twitter#geo#longitude;double;172204
+HashTags;HashTags_1;18_interaction#received_at;double;1218620
+HashTags;HashTags_1;29_twitter#id;double;2227576
+Romance;Romance_1;8_lng;double;998024
+Romance;Romance_1;6_lat;double;772544
+Medicare3;Medicare3_1;9_LINE_SRVC_CNT;double;10461728
+Medicare3;Medicare3_1;28_STDEV_MEDICARE_PAYMENT_AMT;double;57968008
+Medicare3;Medicare3_1;2_AVERAGE_MEDICARE_PAYMENT_AMT;double;40014600
+Medicare3;Medicare3_1;1_AVERAGE_MEDICARE_ALLOWED_AMT;double;22910144
+Medicare3;Medicare3_1;3_AVERAGE_SUBMITTED_CHRG_AMT;double;22612596
+Medicare3;Medicare3_1;27_STDEV_MEDICARE_ALLOWED_AMT;double;24118528
+Medicare3;Medicare3_1;29_STDEV_SUBMITTED_CHRG_AMT;double;21639544
+CityMaxCapita;CityMaxCapita_1;14_LPF;double;1156668
+CityMaxCapita;CityMaxCapita_1;6_FF Ratio;double;625012
+CityMaxCapita;CityMaxCapita_1;16_Lat;double;1508368
+CityMaxCapita;CityMaxCapita_1;4_Created Date_Time;double;3072764
+CityMaxCapita;CityMaxCapita_1;19_Long;double;1480844
+CityMaxCapita;CityMaxCapita_1;5_Date Joined;double;2076056
+Provider;Provider_1;3_average_Medicare_payment_amt;double;36268548
+Provider;Provider_1;2_average_Medicare_allowed_amt;double;23297208
+Provider;Provider_1;28_stdev_submitted_chrg_amt;double;21034552
+Provider;Provider_1;4_average_submitted_chrg_amt;double;22382236
+Provider;Provider_1;27_stdev_Medicare_payment_amt;double;48736148
+Provider;Provider_1;26_stdev_Medicare_allowed_amt;double;24187248
+MedPayment2;MedPayment2_1;3_average_Medicare_payment_amt;double;36391616
+MedPayment2;MedPayment2_1;29_Calculation_0820513143749095;double;36391616
+MedPayment2;MedPayment2_1;2_average_Medicare_allowed_amt;double;23305588
+MedPayment2;MedPayment2_1;28_stdev_submitted_chrg_amt;double;21052532
+MedPayment2;MedPayment2_1;9_line_srvc_cnt;double;10406820
+MedPayment2;MedPayment2_1;4_average_submitted_chrg_amt;double;22281652
+MedPayment2;MedPayment2_1;27_stdev_Medicare_payment_amt;double;48786060
+MedPayment2;MedPayment2_1;26_stdev_Medicare_allowed_amt;double;24207108
+PanCreactomy1;PanCreactomy1_1;9_LINE_SRVC_CNT;double;10344772
+PanCreactomy1;PanCreactomy1_1;28_STDEV_MEDICARE_PAYMENT_AMT;double;48563432
+PanCreactomy1;PanCreactomy1_1;2_AVERAGE_MEDICARE_PAYMENT_AMT;double;36148792
+PanCreactomy1;PanCreactomy1_1;1_AVERAGE_MEDICARE_ALLOWED_AMT;double;23077260
+PanCreactomy1;PanCreactomy1_1;3_AVERAGE_SUBMITTED_CHRG_AMT;double;22154768
+PanCreactomy1;PanCreactomy1_1;27_STDEV_MEDICARE_ALLOWED_AMT;double;23977164
+PanCreactomy1;PanCreactomy1_1;29_STDEV_SUBMITTED_CHRG_AMT;double;21019988
+TableroSistemaPenal;TableroSistemaPenal_1;4_COD DELITO;double;680232
+TableroSistemaPenal;TableroSistemaPenal_1;16_Ingresos _ Garantia (copy);double;66260
+TableroSistemaPenal;TableroSistemaPenal_1;11_Calculation_7430825124450529;double;1028036
+TableroSistemaPenal;TableroSistemaPenal_1;15_INGRESOS;double;1085372
+Rentabilidad;Rentabilidad_1;1_AUTOPREVENTA_Costo Fijo;double;68792
+Rentabilidad;Rentabilidad_1;77_OP. DISTRIBUIDORES_NO GVF;double;9704
+Rentabilidad;Rentabilidad_1;134_VENTA_Costo Total Mercaderistas;double;6776
+Rentabilidad;Rentabilidad_1;60_MERCADEO_Costo Refrigeración;double;331988
+Rentabilidad;Rentabilidad_1;130_VENTA_MERMA DE VENTA;double;709864
+Rentabilidad;Rentabilidad_1;86_Precio Prom. CU;double;2447292
+Rentabilidad;Rentabilidad_1;85_Precio Prom. CF;double;2349664
+Rentabilidad;Rentabilidad_1;74_OP. DISTRIBUIDORES_Costo Variable;double;497528
+Rentabilidad;Rentabilidad_1;90_REPARTO_Costo de Mantenimiento;double;481988
+Rentabilidad;Rentabilidad_1;78_OP. DISTRIBUIDORES_Prorrateo Visitas;double;549340
+Rentabilidad;Rentabilidad_1;121_TOTAL BODEGA C_ARRIENDOS;double;1963120
+Rentabilidad;Rentabilidad_1;114_T1_Distruidor Tercero;double;604332
+Rentabilidad;Rentabilidad_1;120_TELEVENTA_Tiempos de Venta Televenta Normal;double;6436
+Rentabilidad;Rentabilidad_1;4_AUTOPREVENTA_Tiempos de Venta + Traslado Autopreventa Normal;double;33600
+Rentabilidad;Rentabilidad_1;8_AUTOVENTA_Tiempos de Venta + Traslado Autoventa Normal;double;30128
+Rentabilidad;Rentabilidad_1;5_AUTOVENTA_Carga Paseante;double;138252
+Rentabilidad;Rentabilidad_1;47_IN;double;1116212
+Rentabilidad;Rentabilidad_1;57_Longitud AUTO PREV;double;1028072
+Rentabilidad;Rentabilidad_1;133_VENTA_Costo Renta de Equipo Televenta Normal;double;23512
+Rentabilidad;Rentabilidad_1;2_AUTOPREVENTA_Costo Variable;double;240228
+Rentabilidad;Rentabilidad_1;14_CF;double;1001212
+Rentabilidad;Rentabilidad_1;88_REPARTO_Costo de Bodegas Secundarias;double;135288
+Rentabilidad;Rentabilidad_1;10_BODEGA_Costo Arriendo Terceros;double;418708
+Rentabilidad;Rentabilidad_1;97_REPARTO_Tiempos de Reparto Fijo + Variable;double;1049176
+Rentabilidad;Rentabilidad_1;9_BODEGA_CEDIS Propio- Costos Bodega;double;1449088
+Rentabilidad;Rentabilidad_1;64_MERCADEO_Prorrateo Mercaderistas;double;6784
+Rentabilidad;Rentabilidad_1;61_MERCADEO_PDE;double;102256
+Rentabilidad;Rentabilidad_1;53_Latitud AUTO PREV;double;1168312
+Rentabilidad;Rentabilidad_1;73_OP. DISTRIBUIDORES_Costo Fijo;double;626556
+Rentabilidad;Rentabilidad_1;12_BODEGA_Distribuidores- Costos Fijos y Variables;double;498844
+Rentabilidad;Rentabilidad_1;87_REPARTO_Costo Supervisores;double;1210404
+Rentabilidad;Rentabilidad_1;135_VENTA_Costo de Handheld Rutas Autoventa;double;68348
+Rentabilidad;Rentabilidad_1;7_AUTOVENTA_Costo Variable;double;157532
+Rentabilidad;Rentabilidad_1;15_CU;double;1501704
+Rentabilidad;Rentabilidad_1;76_OP. DISTRIBUIDORES_Mayoristas;double;1272
+Rentabilidad;Rentabilidad_1;89_REPARTO_Costo de Depreciación;double;1741232
+Rentabilidad;Rentabilidad_1;126_Total CdS;double;2707100
+Rentabilidad;Rentabilidad_1;80_PREVENTA NCB_Costo de Prevendedor NCB;double;7248
+Rentabilidad;Rentabilidad_1;16_Calculation_1880818214638259;double;1081560
+Rentabilidad;Rentabilidad_1;95_REPARTO_Rutas Fijas- Costos Fijos;double;333208
+Rentabilidad;Rentabilidad_1;92_REPARTO_Merma de Ruta;double;1462660
+Rentabilidad;Rentabilidad_1;125_TOTAL VENTA;double;1311592
+Rentabilidad;Rentabilidad_1;100_Rentabilidad;double;2770952
+Rentabilidad;Rentabilidad_1;123_TOTAL REPARTO;double;1915684
+Rentabilidad;Rentabilidad_1;122_TOTAL MERCADEO;double;1059212
+Rentabilidad;Rentabilidad_1;129_Util. Bruta;double;1379664
+Rentabilidad;Rentabilidad_1;137_VENTA_Costo de Handheld Rutas Preventa;double;135104
+Rentabilidad;Rentabilidad_1;93_REPARTO_Rutas Dinamicas- Costos Fijos;double;1129164
+Rentabilidad;Rentabilidad_1;3_AUTOPREVENTA_Costo de Devoluciones;double;88664
+Rentabilidad;Rentabilidad_1;136_VENTA_Costo de Handheld Rutas NCBs;double;6520
+Rentabilidad;Rentabilidad_1;91_REPARTO_Devoluciones;double;1458940
+Rentabilidad;Rentabilidad_1;113_T1_Cedis Propio;double;1887440
+Rentabilidad;Rentabilidad_1;82_PREVENTA_Costo de Prevendedor Normal;double;141636
+Rentabilidad;Rentabilidad_1;138_VENTA_Costos EDI;double;1392
+Rentabilidad;Rentabilidad_1;6_AUTOVENTA_Costo Fijo;double;64112
+Rentabilidad;Rentabilidad_1;94_REPARTO_Rutas Dinamicas- Costos Variables;double;1075500
+Rentabilidad;Rentabilidad_1;96_REPARTO_Rutas Fijas- Costos Variables;double;305576
+Rentabilidad;Rentabilidad_1;79_OTROS VENTA_Costo de Rotación Pre_Televendedores;double;4136
+Rentabilidad;Rentabilidad_1;43_GERENTES VENTA_Coordinadores Bronces;double;2932
+Rentabilidad;Rentabilidad_1;44_GERENTES VENTA_Costo Gerente de Ventas Normal;double;90152
+Rentabilidad;Rentabilidad_1;83_PREVENTA_Tiempos de Venta + Traslado Preventa Normal;double;27800
+Rentabilidad;Rentabilidad_1;81_PREVENTA NCB_Tiempos de Venta + Traslado Preventa NCB;double;1912
+Rentabilidad;Rentabilidad_1;118_TELEVENTA_Costo de Televendedor Normal;double;19844
+Rentabilidad;Rentabilidad_1;124_TOTAL T1;double;2489952
+RealEstate1;RealEstate1_1;28_average monthly price per km2 (copy);double;281908
+RealEstate1;RealEstate1_1;25_Calculation_2630509165701334;double;28301024
+RealEstate1;RealEstate1_1;9_Longitude;double;52457452
+RealEstate1;RealEstate1_1;7_Latitude;double;52103740
+Taxpayer;Taxpayer_1;3_average_Medicare_payment_amt;double;36260868
+Taxpayer;Taxpayer_1;2_average_Medicare_allowed_amt;double;23297044
+Taxpayer;Taxpayer_1;28_stdev_submitted_chrg_amt;double;21032588
+Taxpayer;Taxpayer_1;4_average_submitted_chrg_amt;double;22368536
+Taxpayer;Taxpayer_1;27_stdev_Medicare_payment_amt;double;48738696
+Taxpayer;Taxpayer_1;26_stdev_Medicare_allowed_amt;double;24186620
+Redfin4;Redfin4_1;14_median_dom_yoy;double;3418372
+Redfin4;Redfin4_1;19_median_list_price_mom;double;10257440
+Redfin4;Redfin4_1;30_months_of_supply_yoy;double;690184
+Redfin4;Redfin4_1;26_median_sale_price_mom;double;9526400
+Redfin4;Redfin4_1;22_median_ppsf_mom;double;18117548
+Redfin4;Redfin4_1;13_median_dom_mom;double;3086308
+Redfin4;Redfin4_1;27_median_sale_price_yoy;double;10345904
+Redfin4;Redfin4_1;3_avg_sale_to_list_mom;double;18183400
+Redfin4;Redfin4_1;8_homes_sold_yoy;double;4261916
+Redfin4;Redfin4_1;4_avg_sale_to_list_yoy;double;18411376
+Redfin4;Redfin4_1;16_median_list_ppsf_mom;double;18036604
+Redfin4;Redfin4_1;23_median_ppsf_yoy;double;18812420
+Redfin4;Redfin4_1;17_median_list_ppsf_yoy;double;18111428
+Redfin4;Redfin4_1;45_sold_above_list_yoy;double;6755944
+Redfin4;Redfin4_1;29_months_of_supply_mom;double;693272
+Redfin4;Redfin4_1;11_inventory_yoy;double;4865200
+Redfin4;Redfin4_1;33_new_listings_yoy;double;4347420
+Redfin4;Redfin4_1;7_homes_sold_mom;double;4167508
+Redfin4;Redfin4_1;10_inventory_mom;double;4458656
+Redfin4;Redfin4_1;15_median_list_ppsf;double;14001292
+Redfin4;Redfin4_1;37_price_drops;double;922344
+Redfin4;Redfin4_1;32_new_listings_mom;double;4347668
+Redfin4;Redfin4_1;44_sold_above_list_mom;double;6574572
+Redfin4;Redfin4_1;24_median_sale_price;double;5288612
+Redfin4;Redfin4_1;2_avg_sale_to_list;double;15624632
+Redfin4;Redfin4_1;18_median_list_price;double;5164304
+Redfin4;Redfin4_1;25_Calculation_875105747585536000;double;9526400
+Redfin4;Redfin4_1;12_median_dom;double;3357092
+Redfin4;Redfin4_1;43_sold_above_list;double;3598864
+Redfin4;Redfin4_1;38_price_drops_mom;double;1606148
+Redfin4;Redfin4_1;28_months_of_supply;double;678448
+Redfin4;Redfin4_1;39_price_drops_yoy;double;1394344
+Redfin4;Redfin4_1;20_median_list_price_yoy;double;10956420
+Redfin4;Redfin4_1;21_median_ppsf;double;13875768
+IGlocations2;IGlocations2_1;20_Calculation_9330724145728972;double;1065540
+IGlocations2;IGlocations2_1;16_Calculation_1750724145742463;double;1150152
+IGlocations2;IGlocations2_1;10_longitude;double;6537332
+IGlocations2;IGlocations2_1;7_latitude;double;6520364
+TrainsUK2;TrainsUK2_1;4_Number of Records;integer;9188
+TrainsUK2;TrainsUK2_1;22_v_Dest Lateness (GBTT);integer;7897516
+TrainsUK2;TrainsUK2_1;36_Calculation_9230610113105724;integer;1265480
+TrainsUK2;TrainsUK2_1;26_v_Origin Lateness (WTT);integer;3192340
+TrainsUK2;TrainsUK2_1;27_v_PPM Pass Flag;integer;1415572
+TrainsUK2;TrainsUK2_1;25_v_Origin Lateness (GBTT);integer;2981108
+TrainsUK2;TrainsUK2_1;32_Calculation_2510610113130467;integer;590964
+TrainsUK2;TrainsUK2_1;21_v_CaSL Flag;integer;758536
+TrainsUK2;TrainsUK2_1;19_TSC;integer;11889504
+TrainsUK2;TrainsUK2_1;28_v_RT Flag;integer;2190204
+TrainsUK2;TrainsUK2_1;24_v_Full Cancellation Flag;integer;425428
+TrainsUK2;TrainsUK2_1;9_Planned Dest Stanox;integer;11837800
+TrainsUK2;TrainsUK2_1;12_Planned Orig Stanox;integer;11702828
+Generico;Generico_1;30_Posicion_Edicion;integer;7752752
+Generico;Generico_1;33_SEMANA;integer;25744
+Generico;Generico_1;13_Dia_Semana;integer;95868
+Generico;Generico_1;27_NumAnuncios;integer;12308
+Generico;Generico_1;11_Corte;integer;7460088
+Generico;Generico_1;8_Cols;integer;250188
+Generico;Generico_1;29_Plgs;integer;285156
+Generico;Generico_1;7_Codigo;integer;10591908
+Generico;Generico_1;15_Duracion;integer;6996276
+Generico;Generico_1;14_Disco;integer;4065068
+Generico;Generico_1;3_A�o;integer;12456
+Generico;Generico_1;12_De_Npags;integer;7589144
+Generico;Generico_1;28_Number of Records;integer;12156
+Generico;Generico_1;21_Hora_Pagina;integer;21857328
+Redfin1;Redfin1_1;9_inventory;integer;2564508
+Redfin1;Redfin1_1;27_new_listings;integer;2484544
+Redfin1;Redfin1_1;31_period_duration;integer;3776
+Redfin1;Redfin1_1;44_table_id;integer;513908
+Redfin1;Redfin1_1;1_Number of Records;integer;1896
+Redfin1;Redfin1_1;6_homes_sold;integer;2350768
+Medicare2;Medicare2_1;6_bene_unique_cnt;integer;7536636
+Medicare2;Medicare2_1;5_bene_day_srvc_cnt;integer;8853416
+Medicare2;Medicare2_1;1_Number of Records;integer;5460
+Medicare2;Medicare2_1;11_npi;integer;10344852
+Medicare2;Medicare2_1;9_line_srvc_cnt;integer;9155112
+Medicare2;Medicare2_1;23_nppes_provider_zip;integer;8695372
+Medicare2;Medicare2_1;7_hcpcs_code;integer;2946664
+Redfin3;Redfin3_1;9_inventory;integer;2743716
+Redfin3;Redfin3_1;47_table_id;integer;545064
+Redfin3;Redfin3_1;1_Number of Records;integer;2036
+Redfin3;Redfin3_1;34_period_duration;integer;4016
+Redfin3;Redfin3_1;6_homes_sold;integer;2528096
+Redfin3;Redfin3_1;30_new_listings;integer;2653648
+SalariesFrance;SalariesFrance_1;48_REPERE1 (copie);integer;916
+SalariesFrance;SalariesFrance_1;22_Calculation_163536984210948109;integer;916
+SalariesFrance;SalariesFrance_1;43_NB_ETS;integer;586968
+SalariesFrance;SalariesFrance_1;45_Number of Records;integer;916
+SalariesFrance;SalariesFrance_1;42_NB_DE_PE;integer;733608
+SalariesFrance;SalariesFrance_1;53_TK_SIRET;integer;291428
+CMSprovider;CMSprovider_1;4_BENE_DAY_SRVC_CNT;integer;9557260
+CMSprovider;CMSprovider_1;11_NPI;integer;11088864
+CMSprovider;CMSprovider_1;21_Number of Records;integer;5536
+CMSprovider;CMSprovider_1;20_NPPES_PROVIDER_ZIP;integer;7154972
+CMSprovider;CMSprovider_1;5_BENE_UNIQUE_CNT;integer;8742972
+CommonGovernment;CommonGovernment_1;9_award_type_key;integer;12508
+CommonGovernment;CommonGovernment_1;21_count_fetched;integer;5057600
+CommonGovernment;CommonGovernment_1;6_ase_rowid;integer;6598792
+CommonGovernment;CommonGovernment_1;22_count_total;integer;5057600
+CommonGovernment;CommonGovernment_1;46_psc_key;integer;2871784
+CommonGovernment;CommonGovernment_1;1_Number of Records;integer;6756
+CommonGovernment;CommonGovernment_1;28_funding_agency_key;integer;205932
+CommonGovernment;CommonGovernment_1;25_fk_rec_mat;integer;666912
+CommonGovernment;CommonGovernment_1;24_fk_epa_des_prod;integer;696796
+Euro2016;Euro2016_1;1_Number of Records;integer;1324
+Euro2016;Euro2016_1;2_id;integer;2063840
+MedPayment1;MedPayment1_1;6_bene_unique_cnt;integer;8825624
+MedPayment1;MedPayment1_1;5_bene_day_srvc_cnt;integer;9633024
+MedPayment1;MedPayment1_1;1_Number of Records;integer;5460
+MedPayment1;MedPayment1_1;11_npi;integer;8583776
+MedPayment1;MedPayment1_1;23_nppes_provider_zip;integer;6958572
+Arade;Arade_1;11_WNET (bin);integer;2368204
+Arade;Arade_1;10_Number of Records;integer;5884
+Telco;Telco_1;73_Number of Records;integer;1828
+MLB;MLB_68;9_day;integer;9588
+MLB;MLB_68;28_year;integer;1960
+MLB;MLB_68;19_o;integer;746532
+MLB;MLB_68;1_Number of Records;integer;1832
+MLB;MLB_68;14_inning;integer;1326600
+MLB;MLB_68;4_b;integer;597180
+MLB;MLB_68;18_month;integer;2684
+MLB;MLB_68;25_s;integer;513364
+Redfin2;Redfin2_1;9_inventory;integer;2563588
+Redfin2;Redfin2_1;27_new_listings;integer;2479424
+Redfin2;Redfin2_1;31_period_duration;integer;3732
+Redfin2;Redfin2_1;44_table_id;integer;513744
+Redfin2;Redfin2_1;1_Number of Records;integer;1896
+Redfin2;Redfin2_1;6_homes_sold;integer;2353768
+NYC;NYC_1;54_Y Coordinate (State Plane);integer;9792876
+NYC;NYC_1;53_X Coordinate (State Plane);integer;9764248
+NYC;NYC_1;51_Unique Key;integer;28041860
+NYC;NYC_1;30_Number of Records;integer;5736
+Corporations;Corporations_1;1_Id1;integer;1845148
+Corporations;Corporations_1;22_score;integer;519220
+Corporations;Corporations_1;2_Number of Records;integer;568
+Corporations;Corporations_1;20_num_employees;integer;256668
+Corporations;Corporations_1;25_total_funding;integer;22772
+Corporations;Corporations_1;12_id;integer;1865032
+Eixo;Eixo_1;14_co_matricula_estudante;integer;15027240
+Eixo;Eixo_1;9_ch_da_oferta;integer;1611540
+Eixo;Eixo_1;19_codigo_do_curso;integer;3160088
+Eixo;Eixo_1;10_ch_max_financiavel;integer;1102004
+Eixo;Eixo_1;16_cod_ibge_da_ue;integer;2481320
+Eixo;Eixo_1;18_codigo_da_oferta;integer;4340700
+Eixo;Eixo_1;7_Number of Records;integer;4532
+Eixo;Eixo_1;11_ch_maxima_permitida;integer;1021252
+Eixo;Eixo_1;12_ch_min_financiavel;integer;1100140
+Eixo;Eixo_1;73_total_freq_aluno;integer;1294688
+Eixo;Eixo_1;79_vagas;integer;1846016
+Eixo;Eixo_1;13_ch_minima_do_curso;integer;1022464
+PanCreactomy2;PanCreactomy2_1;23_NPPES_PROVIDER_ZIP;integer;7318652
+PanCreactomy2;PanCreactomy2_1;4_BENE_DAY_SRVC_CNT;integer;9615704
+PanCreactomy2;PanCreactomy2_1;11_NPI;integer;9088140
+PanCreactomy2;PanCreactomy2_1;24_Number of Records;integer;5460
+PanCreactomy2;PanCreactomy2_1;5_BENE_UNIQUE_CNT;integer;8810256
+Motos;Motos_1;30_Posicion_Edicion;integer;5327800
+Motos;Motos_1;33_SEMANA;integer;17756
+Motos;Motos_1;13_Dia_Semana;integer;47032
+Motos;Motos_1;27_NumAnuncios;integer;8432
+Motos;Motos_1;11_Corte;integer;5108320
+Motos;Motos_1;8_Cols;integer;177880
+Motos;Motos_1;29_Plgs;integer;204032
+Motos;Motos_1;7_Codigo;integer;7193680
+Motos;Motos_1;15_Duracion;integer;4833112
+Motos;Motos_1;14_Disco;integer;2591132
+Motos;Motos_1;3_A�o;integer;8548
+Motos;Motos_1;12_De_Npags;integer;5217124
+Motos;Motos_1;28_Number of Records;integer;8336
+Motos;Motos_1;21_Hora_Pagina;integer;15040192
+MulheresMil;MulheresMil_1;14_co_matricula_estudante;integer;15031364
+MulheresMil;MulheresMil_1;9_ch_da_oferta;integer;1612056
+MulheresMil;MulheresMil_1;19_codigo_do_curso;integer;3163308
+MulheresMil;MulheresMil_1;10_ch_max_financiavel;integer;1101976
+MulheresMil;MulheresMil_1;16_cod_ibge_da_ue;integer;2484504
+MulheresMil;MulheresMil_1;18_codigo_da_oferta;integer;4339020
+MulheresMil;MulheresMil_1;7_Number of Records;integer;4536
+MulheresMil;MulheresMil_1;11_ch_maxima_permitida;integer;1021384
+MulheresMil;MulheresMil_1;12_ch_min_financiavel;integer;1100516
+MulheresMil;MulheresMil_1;73_total_freq_aluno;integer;1297116
+MulheresMil;MulheresMil_1;79_vagas;integer;1846312
+MulheresMil;MulheresMil_1;13_ch_minima_do_curso;integer;1022516
+Bimbo;Bimbo_1;2_Canal_ID;integer;87196
+Bimbo;Bimbo_1;3_Cliente_ID;integer;29626908
+Bimbo;Bimbo_1;12_Venta_uni_hoy;integer;38210492
+Bimbo;Bimbo_1;10_Semana;integer;178344
+Bimbo;Bimbo_1;6_Dev_uni_proxima;integer;4762544
+Bimbo;Bimbo_1;8_Producto_ID;integer;34533868
+Bimbo;Bimbo_1;7_Number of Records;integer;43296
+Bimbo;Bimbo_1;1_Agencia_ID;integer;227040
+Bimbo;Bimbo_1;9_Ruta_SAK;integer;979444
+Bimbo;Bimbo_1;4_Demanda_uni_equil;integer;38650080
+Food;Food_1;5_subscribers;integer;1281224
+Food;Food_1;2_activity_sec;integer;6663980
+Food;Food_1;1_Number of Records;integer;3164
+Medicare1;Medicare1_1;26_Avg Day Supply_Bene (bin);integer;4713132
+Medicare1;Medicare1_1;25_Calculation_6710826185428006;integer;49092
+Medicare1;Medicare1_1;2_BENE_COUNT_GE65;integer;1394904
+Medicare1;Medicare1_1;1_BENE_COUNT;integer;5912532
+Medicare1;Medicare1_1;17_Number of Records;integer;5164
+Medicare1;Medicare1_1;20_TOTAL_CLAIM_COUNT_GE65;integer;5154496
+Medicare1;Medicare1_1;22_TOTAL_DAY_SUPPLY_GE65;integer;8246696
+Medicare1;Medicare1_1;21_TOTAL_DAY_SUPPLY;integer;14051268
+Medicare1;Medicare1_1;12_NPI;integer;13705564
+Medicare1;Medicare1_1;19_TOTAL_CLAIM_COUNT;integer;8532188
+USCensus;USCensus_1;519_Agep (bin);integer;948976
+USCensus;USCensus_1;4_ADJINC;integer;1956
+USCensus;USCensus_1;391_pwgtp40;integer;3409348
+USCensus;USCensus_1;420_pwgtp67;integer;3401972
+USCensus;USCensus_1;224_MIGSP;integer;597596
+USCensus;USCensus_1;169_FVALP;integer;236132
+USCensus;USCensus_1;96_FINCP;integer;4301504
+USCensus;USCensus_1;363_pwgtp15;integer;3396800
+USCensus;USCensus_1;176_FWRKP;integer;16100
+USCensus;USCensus_1;95_FIBEROP;integer;427824
+USCensus;USCensus_1;284_RAC1P;integer;401096
+USCensus;USCensus_1;432_pwgtp78;integer;3405064
+USCensus;USCensus_1;139_FRACP;integer;72560
+USCensus;USCensus_1;207_JWDP;integer;1186620
+USCensus;USCensus_1;287_RACAIAN;integer;86480
+USCensus;USCensus_1;326_SRNT;integer;353328
+USCensus;USCensus_1;438_wgtp10;integer;3213188
+USCensus;USCensus_1;137_FPRIVCOVP;integer;125168
+USCensus;USCensus_1;393_pwgtp42;integer;3401216
+USCensus;USCensus_1;161_FSTOVP;integer;60828
+USCensus;USCensus_1;267_PERNP;integer;1941324
+USCensus;USCensus_1;63_FDREMP;integer;88436
+USCensus;USCensus_1;196_HINS6;integer;96176
+USCensus;USCensus_1;209_JWRIP;integer;366952
+USCensus;USCensus_1;513_wgtp79;integer;3208372
+USCensus;USCensus_1;264_PAOC;integer;480848
+USCensus;USCensus_1;474_wgtp43;integer;3212956
+USCensus;USCensus_1;517_wgtp9;integer;3177352
+USCensus;USCensus_1;338_TYPE;integer;16200
+USCensus;USCensus_1;180_GCL;integer;342084
+USCensus;USCensus_1;147_FRWATP;integer;39520
+USCensus;USCensus_1;235_MLPK;integer;4024
+USCensus;USCensus_1;413_pwgtp60;integer;3413888
+USCensus;USCensus_1;320_SINK;integer;21824
+USCensus;USCensus_1;7_AGS;integer;434396
+USCensus;USCensus_1;300_RETP;integer;651244
+USCensus;USCensus_1;17_CIT;integer;291980
+USCensus;USCensus_1;467_wgtp37;integer;3217584
+USCensus;USCensus_1;162_FS;integer;165412
+USCensus;USCensus_1;270_POBP;integer;2212988
+USCensus;USCensus_1;286_RAC3P;integer;494644
+USCensus;USCensus_1;144_FRNTMP;integer;36204
+USCensus;USCensus_1;487_wgtp55;integer;3205352
+USCensus;USCensus_1;515_wgtp80;integer;3212260
+USCensus;USCensus_1;307_RWAT;integer;27732
+USCensus;USCensus_1;14_BROADBND;integer;454768
+USCensus;USCensus_1;377_pwgtp28;integer;3403992
+USCensus;USCensus_1;423_pwgtp6;integer;3413108
+USCensus;USCensus_1;114_FMHP;integer;70484
+USCensus;USCensus_1;502_wgtp69;integer;3205700
+USCensus;USCensus_1;128_FOIP;integer;142876
+USCensus;USCensus_1;112_FMARHYP;integer;135432
+USCensus;USCensus_1;510_wgtp76;integer;3211500
+USCensus;USCensus_1;2_ACR;integer;604004
+USCensus;USCensus_1;330_ST;integer;1703208
+USCensus;USCensus_1;426_pwgtp72;integer;3402564
+USCensus;USCensus_1;263_OTHSVCEX;integer;314560
+USCensus;USCensus_1;37_ESP;integer;267528
+USCensus;USCensus_1;335_TEL;integer;119516
+USCensus;USCensus_1;412_pwgtp5;integer;3406108
+USCensus;USCensus_1;134_FPLMP;integer;72688
+USCensus;USCensus_1;83_FHINCP;integer;325636
+USCensus;USCensus_1;70_FFERP;integer;49984
+USCensus;USCensus_1;404_pwgtp52;integer;3399936
+USCensus;USCensus_1;468_wgtp38;integer;3208760
+USCensus;USCensus_1;189_HICOV;integer;178172
+USCensus;USCensus_1;310_SCHL;integer;1363476
+USCensus;USCensus_1;491_wgtp59;integer;3209612
+USCensus;USCensus_1;350_WKEXREL;integer;1381096
+USCensus;USCensus_1;58_FDISP;integer;94944
+USCensus;USCensus_1;45_FBDSP;integer;99040
+USCensus;USCensus_1;6_AGEP;integer;2214844
+USCensus;USCensus_1;84_FHINS1P;integer;109720
+USCensus;USCensus_1;35_ELEP;integer;2080692
+USCensus;USCensus_1;443_wgtp15;integer;3203128
+USCensus;USCensus_1;396_pwgtp45;integer;3402888
+USCensus;USCensus_1;451_wgtp22;integer;3208836
+USCensus;USCensus_1;352_WKL;integer;245508
+USCensus;USCensus_1;488_wgtp56;integer;3207964
+USCensus;USCensus_1;501_wgtp68;integer;3206696
+USCensus;USCensus_1;136_FPOWSP;integer;124852
+USCensus;USCensus_1;450_wgtp21;integer;3206192
+USCensus;USCensus_1;216_MARHD;integer;342216
+USCensus;USCensus_1;337_TOIL;integer;23492
+USCensus;USCensus_1;354_WORKSTAT;integer;1134168
+USCensus;USCensus_1;76_FGASP;integer;260544
+USCensus;USCensus_1;109_FMARHMP;integer;102652
+USCensus;USCensus_1;81_FHANDHELDP;integer;150156
+USCensus;USCensus_1;259_OCCP;integer;171804
+USCensus;USCensus_1;274_PRIVCOV;integer;225868
+USCensus;USCensus_1;273_POWSP;integer;989644
+USCensus;USCensus_1;253_NWAB;integer;370120
+USCensus;USCensus_1;127_FOD2P;integer;192076
+USCensus;USCensus_1;179_GASP;integer;1637880
+USCensus;USCensus_1;328_SSMC;integer;30044
+USCensus;USCensus_1;178_FYOEP;integer;2068
+USCensus;USCensus_1;403_pwgtp51;integer;3403040
+USCensus;USCensus_1;212_LANP;integer;576836
+USCensus;USCensus_1;163_FTAXP;integer;291352
+USCensus;USCensus_1;123_FMRGXP;integer;84532
+USCensus;USCensus_1;226_MIL;integer;280436
+USCensus;USCensus_1;308_SATELLITE;integer;401520
+USCensus;USCensus_1;281_R18;integer;336500
+USCensus;USCensus_1;30_DRATX;integer;225664
+USCensus;USCensus_1;150_FSCHLP;integer;122696
+USCensus;USCensus_1;245_NATIVITY;integer;181856
+USCensus;USCensus_1;315_SERIALNO;integer;8082636
+USCensus;USCensus_1;8_ANC1P;integer;2056316
+USCensus;USCensus_1;356_YBL;integer;1376148
+USCensus;USCensus_1;342_VALP;integer;2530596
+USCensus;USCensus_1;248_NPF;integer;1020264
+USCensus;USCensus_1;121_FMRGP;integer;198168
+USCensus;USCensus_1;299_RESMODE;integer;600724
+USCensus;USCensus_1;220_MARHYP;integer;1761272
+USCensus;USCensus_1;285_RAC2P;integer;486824
+USCensus;USCensus_1;370_pwgtp21;integer;3403796
+USCensus;USCensus_1;129_FOTHSVCEXP;integer;176724
+USCensus;USCensus_1;113_FMARP;integer;97664
+USCensus;USCensus_1;494_wgtp61;integer;3216912
+USCensus;USCensus_1;329_SSP;integer;967040
+USCensus;USCensus_1;11_BATH;integer;22124
+USCensus;USCensus_1;79_FGCRP;integer;22840
+USCensus;USCensus_1;141_FRELP;integer;42452
+USCensus;USCensus_1;249_NPP;integer;54968
+USCensus;USCensus_1;437_pwgtp9;integer;3404912
+USCensus;USCensus_1;257_NWRE;integer;246688
+USCensus;USCensus_1;278_PUMA1;integer;3712784
+USCensus;USCensus_1;470_wgtp3;integer;3216092
+USCensus;USCensus_1;172_FWATP;integer;236608
+USCensus;USCensus_1;156_FSMP;integer;177172
+USCensus;USCensus_1;1_ACCESS;integer;328576
+USCensus;USCensus_1;424_pwgtp70;integer;3405644
+USCensus;USCensus_1;115_FMIGP;integer;119952
+USCensus;USCensus_1;66_FENGP;integer;30988
+USCensus;USCensus_1;32_DREM;integer;136024
+USCensus;USCensus_1;298_RELP;integer;788188
+USCensus;USCensus_1;143_FRMSP;integer;143920
+USCensus;USCensus_1;49_FCITP;integer;64324
+USCensus;USCensus_1;19_CONP;integer;227228
+USCensus;USCensus_1;154_FSINKP;integer;58868
+USCensus;USCensus_1;321_SMOCP;integer;3650568
+USCensus;USCensus_1;436_pwgtp8;integer;3415388
+USCensus;USCensus_1;439_wgtp11;integer;3215156
+USCensus;USCensus_1;361_pwgtp13;integer;3399340
+USCensus;USCensus_1;138_FPUBCOVP;integer;127652
+USCensus;USCensus_1;85_FHINS2P;integer;117600
+USCensus;USCensus_1;414_pwgtp61;integer;3400772
+USCensus;USCensus_1;130_FPAP;integer;141068
+USCensus;USCensus_1;69_FES;integer;1015944
+USCensus;USCensus_1;425_pwgtp71;integer;3402348
+USCensus;USCensus_1;88_FHINS4C;integer;84924
+USCensus;USCensus_1;444_wgtp16;integer;3207832
+USCensus;USCensus_1;193_HINS3;integer;185228
+USCensus;USCensus_1;456_wgtp27;integer;3208288
+USCensus;USCensus_1;146_FRWATPRP;integer;1948
+USCensus;USCensus_1;181_GCM;integer;78864
+USCensus;USCensus_1;411_pwgtp59;integer;3399972
+USCensus;USCensus_1;64_FDSLP;integer;176760
+USCensus;USCensus_1;297_REGION;integer;795432
+USCensus;USCensus_1;365_pwgtp17;integer;3409708
+USCensus;USCensus_1;56_FDEYEP;integer;81684
+USCensus;USCensus_1;184_GRPIP;integer;977736
+USCensus;USCensus_1;483_wgtp51;integer;3208424
+USCensus;USCensus_1;211_KIT;integer;47704
+USCensus;USCensus_1;125_FOCCP;integer;119776
+USCensus;USCensus_1;473_wgtp42;integer;3209236
+USCensus;USCensus_1;250_NP;integer;1024480
+USCensus;USCensus_1;466_wgtp36;integer;3209288
+USCensus;USCensus_1;68_FESRP;integer;95500
+USCensus;USCensus_1;265_PAP;integer;126068
+USCensus;USCensus_1;107_FLAPTOPP;integer;146644
+USCensus;USCensus_1;27_DIVISION;integer;1179740
+USCensus;USCensus_1;229_MLPCD;integer;97676
+USCensus;USCensus_1;53_FCOWP;integer;95656
+USCensus;USCensus_1;15_BUS;integer;301948
+USCensus;USCensus_1;469_wgtp39;integer;3211792
+USCensus;USCensus_1;282_R60;integer;516504
+USCensus;USCensus_1;22_DEAR;integer;44608
+USCensus;USCensus_1;383_pwgtp33;integer;3404512
+USCensus;USCensus_1;312_SCIENGP;integer;382904
+USCensus;USCensus_1;402_pwgtp50;integer;3406316
+USCensus;USCensus_1;38_ESR;integer;366924
+USCensus;USCensus_1;277_PUMA;integer;3712784
+USCensus;USCensus_1;92_FHINS6P;integer;127592
+USCensus;USCensus_1;73_FFODP;integer;68092
+USCensus;USCensus_1;213_LANX;integer;326876
+USCensus;USCensus_1;155_FSMOCP;integer;360168
+USCensus;USCensus_1;28_DOUT;integer;138192
+USCensus;USCensus_1;122_FMRGTP;integer;192128
+USCensus;USCensus_1;140_FREFRP;integer;65656
+USCensus;USCensus_1;5_ADJINC1;integer;1956
+USCensus;USCensus_1;498_wgtp65;integer;3208460
+USCensus;USCensus_1;449_wgtp20;integer;3208488
+USCensus;USCensus_1;10_ANC;integer;615384
+USCensus;USCensus_1;247_NOP;integer;249592
+USCensus;USCensus_1;446_wgtp18;integer;3207764
+USCensus;USCensus_1;344_VPS;integer;281008
+USCensus;USCensus_1;457_wgtp28;integer;3210800
+USCensus;USCensus_1;44_FBATHP;integer;57416
+USCensus;USCensus_1;152_FSEMP;integer;126900
+USCensus;USCensus_1;291_RACNUM;integer;107816
+USCensus;USCensus_1;258_Number of Records;integer;1952
+USCensus;USCensus_1;175_FWKWP;integer;123344
+USCensus;USCensus_1;387_pwgtp37;integer;3403024
+USCensus;USCensus_1;206_JWAP;integer;1407128
+USCensus;USCensus_1;170_FVEHP;integer;63296
+USCensus;USCensus_1;233_MLPI;integer;13824
+USCensus;USCensus_1;454_wgtp25;integer;3205896
+USCensus;USCensus_1;21_DDRS;integer;108164
+USCensus;USCensus_1;417_pwgtp64;integer;3401952
+USCensus;USCensus_1;372_pwgtp23;integer;3406488
+USCensus;USCensus_1;331_STOV;integer;36904
+USCensus;USCensus_1;430_pwgtp76;integer;3402572
+USCensus;USCensus_1;217_MARHM;integer;359332
+USCensus;USCensus_1;42_FAGSP;integer;58624
+USCensus;USCensus_1;398_pwgtp47;integer;3403384
+USCensus;USCensus_1;40_FACRP;integer;132680
+USCensus;USCensus_1;149_FSCHGP;integer;56228
+USCensus;USCensus_1;346_WAOB;integer;321780
+USCensus;USCensus_1;465_wgtp35;integer;3206436
+USCensus;USCensus_1;260_OCPIP;integer;1959500
+USCensus;USCensus_1;43_FANCP;integer;1948
+USCensus;USCensus_1;276_PUBCOV;integer;221652
+USCensus;USCensus_1;472_wgtp41;integer;3212776
+USCensus;USCensus_1;493_wgtp60;integer;3218240
+USCensus;USCensus_1;191_HINS1;integer;234860
+USCensus;USCensus_1;145_FRNTP;integer;91472
+USCensus;USCensus_1;435_pwgtp80;integer;3407380
+USCensus;USCensus_1;427_pwgtp73;integer;3400024
+USCensus;USCensus_1;67_FER;integer;315324
+USCensus;USCensus_1;415_pwgtp62;integer;3401428
+USCensus;USCensus_1;225_MIG;integer;351636
+USCensus;USCensus_1;74_FFSP;integer;54928
+USCensus;USCensus_1;167_FULP;integer;636828
+USCensus;USCensus_1;504_wgtp70;integer;3207916
+USCensus;USCensus_1;100_FJWDP;integer;136116
+USCensus;USCensus_1;13_BLD;integer;708244
+USCensus;USCensus_1;382_pwgtp32;integer;3403032
+USCensus;USCensus_1;46_FBLDP;integer;54836
+USCensus;USCensus_1;301_RMSP;integer;1297004
+USCensus;USCensus_1;505_wgtp71;integer;3210580
+USCensus;USCensus_1;158_FSMXSP;integer;84396
+USCensus;USCensus_1;120_FMRGIP;integer;197828
+USCensus;USCensus_1;481_wgtp4;integer;3211772
+USCensus;USCensus_1;334_TAXP;integer;1986352
+USCensus;USCensus_1;177_FYBLP;integer;2496
+USCensus;USCensus_1;419_pwgtp66;integer;3406000
+USCensus;USCensus_1;289_RACBLK;integer;210396
+USCensus;USCensus_1;133_FPINCP;integer;184908
+USCensus;USCensus_1;200_HUPAC;integer;625632
+USCensus;USCensus_1;294_RACWHT;integer;258992
+USCensus;USCensus_1;348_WGTP;integer;3121448
+USCensus;USCensus_1;503_wgtp6;integer;3210248
+USCensus;USCensus_1;460_wgtp30;integer;3218084
+USCensus;USCensus_1;98_FINSP;integer;327048
+USCensus;USCensus_1;369_pwgtp20;integer;3409092
+USCensus;USCensus_1;188_HHT;integer;738784
+USCensus;USCensus_1;397_pwgtp46;integer;3401776
+USCensus;USCensus_1;366_pwgtp18;integer;3403472
+USCensus;USCensus_1;124_FMVP;integer;92680
+USCensus;USCensus_1;71_FFIBEROPP;integer;176724
+USCensus;USCensus_1;34_DSL;integer;484636
+USCensus;USCensus_1;362_pwgtp14;integer;3402888
+USCensus;USCensus_1;97_FINDP;integer;112292
+USCensus;USCensus_1;190_HINCP;integer;4744968
+USCensus;USCensus_1;292_RACPI;integer;18836
+USCensus;USCensus_1;461_wgtp31;integer;3209444
+USCensus;USCensus_1;268_PINCP;integer;3149744
+USCensus;USCensus_1;271_POVPIP;integer;2949348
+USCensus;USCensus_1;3_ADJHSG;integer;1956
+USCensus;USCensus_1;428_pwgtp74;integer;3406344
+USCensus;USCensus_1;506_wgtp72;integer;3216276
+USCensus;USCensus_1;223_MIGPUMA;integer;769748
+USCensus;USCensus_1;448_wgtp1;integer;3211920
+USCensus;USCensus_1;91_FHINS5P;integer;126708
+USCensus;USCensus_1;401_pwgtp4;integer;3412596
+USCensus;USCensus_1;290_RACNH;integer;16856
+USCensus;USCensus_1;441_wgtp13;integer;3185576
+USCensus;USCensus_1;336_TEN;integer;618300
+USCensus;USCensus_1;82_FHFLP;integer;147204
+USCensus;USCensus_1;119_FMODEMP;integer;176724
+USCensus;USCensus_1;160_FSSP;integer;151124
+USCensus;USCensus_1;251_NRC;integer;739188
+USCensus;USCensus_1;322_SMP;integer;533468
+USCensus;USCensus_1;59_FDOUTP;integer;87156
+USCensus;USCensus_1;26_DIS;integer;69540
+USCensus;USCensus_1;24_DEYE;integer;38540
+USCensus;USCensus_1;353_WKW;integer;481816
+USCensus;USCensus_1;452_wgtp23;integer;3205020
+USCensus;USCensus_1;492_wgtp5;integer;3195620
+USCensus;USCensus_1;110_FMARHTP;integer;110160
+USCensus;USCensus_1;311_SCH;integer;376516
+USCensus;USCensus_1;325_SPORDER;integer;779880
+USCensus;USCensus_1;349_WIF;integer;739616
+USCensus;USCensus_1;106_FLANXP;integer;97372
+USCensus;USCensus_1;218_MARHT;integer;567396
+USCensus;USCensus_1;256_NWLK;integer;391888
+USCensus;USCensus_1;266_PARTNER;integer;274840
+USCensus;USCensus_1;355_WRK;integer;356468
+USCensus;USCensus_1;489_wgtp57;integer;3212716
+USCensus;USCensus_1;126_FOD1P;integer;899540
+USCensus;USCensus_1;332_ST1;integer;1703208
+USCensus;USCensus_1;518_Wagp (bin);integer;565364
+USCensus;USCensus_1;252_NR;integer;303624
+USCensus;USCensus_1;174_FWKLP;integer;126864
+USCensus;USCensus_1;500_wgtp67;integer;3215388
+USCensus;USCensus_1;293_RACSOR;integer;125208
+USCensus;USCensus_1;514_wgtp7;integer;3213672
+USCensus;USCensus_1;242_MULTG;integer;231056
+USCensus;USCensus_1;238_MRGP;integer;1763552
+USCensus;USCensus_1;62_FDRATXP;integer;27324
+USCensus;USCensus_1;148_FSATELLITEP;integer;176724
+USCensus;USCensus_1;395_pwgtp44;integer;3409760
+USCensus;USCensus_1;195_HINS5;integer;94428
+USCensus;USCensus_1;16_CITWP;integer;327908
+USCensus;USCensus_1;484_wgtp52;integer;3206840
+USCensus;USCensus_1;314_SEMP;integer;344748
+USCensus;USCensus_1;80_FGRNTP;integer;184272
+USCensus;USCensus_1;359_pwgtp11;integer;3413600
+USCensus;USCensus_1;416_pwgtp63;integer;3403236
+USCensus;USCensus_1;65_FELEP;integer;209824
+USCensus;USCensus_1;364_pwgtp16;integer;3402792
+USCensus;USCensus_1;104_FKITP;integer;94108
+USCensus;USCensus_1;157_FSMXHP;integer;95152
+USCensus;USCensus_1;368_pwgtp1;integer;3409588
+USCensus;USCensus_1;422_pwgtp69;integer;3405724
+USCensus;USCensus_1;309_SCHG;integer;582312
+USCensus;USCensus_1;389_pwgtp39;integer;3403336
+USCensus;USCensus_1;317_SEX;integer;277488
+USCensus;USCensus_1;241_MSP;integer;659048
+USCensus;USCensus_1;101_FJWMNP;integer;122700
+USCensus;USCensus_1;357_YOEP;integer;563144
+USCensus;USCensus_1;421_pwgtp68;integer;3403828
+USCensus;USCensus_1;232_MLPH;integer;45148
+USCensus;USCensus_1;385_pwgtp35;integer;3401452
+USCensus;USCensus_1;306_RWATPR;integer;2268
+USCensus;USCensus_1;462_wgtp32;integer;3215552
+USCensus;USCensus_1;407_pwgtp55;integer;3403312
+USCensus;USCensus_1;499_wgtp66;integer;3209284
+USCensus;USCensus_1;87_FHINS3P;integer;113340
+USCensus;USCensus_1;132_FPERNP;integer;180936
+USCensus;USCensus_1;151_FSCHP;integer;105864
+USCensus;USCensus_1;345_WAGP;integer;1832692
+USCensus;USCensus_1;379_pwgtp2;integer;3401980
+USCensus;USCensus_1;164_FTELP;integer;68088
+USCensus;USCensus_1;47_FBROADBNDP;integer;336420
+USCensus;USCensus_1;23_DECADE;integer;361364
+USCensus;USCensus_1;89_FHINS4P;integer;125852
+USCensus;USCensus_1;86_FHINS3C;integer;69168
+USCensus;USCensus_1;475_wgtp44;integer;3205428
+USCensus;USCensus_1;246_NOC;integer;689400
+USCensus;USCensus_1;381_pwgtp31;integer;3411980
+USCensus;USCensus_1;183_GRNTP;integer;1468356
+USCensus;USCensus_1;94_FHISP;integer;75860
+USCensus;USCensus_1;390_pwgtp3;integer;3406392
+USCensus;USCensus_1;471_wgtp40;integer;3205016
+USCensus;USCensus_1;90_FHINS5C;integer;3552
+USCensus;USCensus_1;477_wgtp46;integer;3210916
+USCensus;USCensus_1;9_ANC2P;integer;1004068
+USCensus;USCensus_1;61_FDRATP;integer;4232
+USCensus;USCensus_1;205_INTP;integer;743644
+USCensus;USCensus_1;447_wgtp19;integer;3200532
+USCensus;USCensus_1;279_PWGTP;integer;3320044
+USCensus;USCensus_1;29_DPHY;integer;143164
+USCensus;USCensus_1;479_wgtp48;integer;3210520
+USCensus;USCensus_1;31_DRAT;integer;90000
+USCensus;USCensus_1;50_FCITWP;integer;31748
+USCensus;USCensus_1;210_JWTR;integer;403580
+USCensus;USCensus_1;78_FGCMP;integer;13872
+USCensus;USCensus_1;36_ENG;integer;433568
+USCensus;USCensus_1;18_COMPOTHX;integer;171404
+USCensus;USCensus_1;358_pwgtp10;integer;3410516
+USCensus;USCensus_1;222_MHP;integer;251680
+USCensus;USCensus_1;318_SFN;integer;121712
+USCensus;USCensus_1;482_wgtp50;integer;3210572
+USCensus;USCensus_1;283_R65;integer;429848
+USCensus;USCensus_1;431_pwgtp77;integer;3410912
+USCensus;USCensus_1;20_COW;integer;335052
+USCensus;USCensus_1;497_wgtp64;integer;3210472
+USCensus;USCensus_1;165_FTENP;integer;56024
+USCensus;USCensus_1;406_pwgtp54;integer;3402272
+USCensus;USCensus_1;360_pwgtp12;integer;3401820
+USCensus;USCensus_1;386_pwgtp36;integer;3408768
+USCensus;USCensus_1;512_wgtp78;integer;3208144
+USCensus;USCensus_1;48_FBUSP;integer;106732
+USCensus;USCensus_1;231_MLPFG;integer;60812
+USCensus;USCensus_1;202_HUPARC;integer;621348
+USCensus;USCensus_1;254_NWAV;integer;323364
+USCensus;USCensus_1;280_QTRBIR;integer;836976
+USCensus;USCensus_1;262_OIP;integer;439596
+USCensus;USCensus_1;153_FSEXP;integer;8324
+USCensus;USCensus_1;55_FDEARP;integer;77324
+USCensus;USCensus_1;275_PSF;integer;209852
+USCensus;USCensus_1;142_FRETP;integer;145604
+USCensus;USCensus_1;323_SMX;integer;604952
+USCensus;USCensus_1;445_wgtp17;integer;3210428
+USCensus;USCensus_1;72_FFINCP;integer;337076
+USCensus;USCensus_1;516_wgtp8;integer;3210868
+USCensus;USCensus_1;508_wgtp74;integer;3210672
+USCensus;USCensus_1;243_MV;integer;1063892
+USCensus;USCensus_1;313_SCIENGRLP;integer;331208
+USCensus;USCensus_1;269_PLM;integer;34160
+USCensus;USCensus_1;57_FDIALUPP;integer;176540
+USCensus;USCensus_1;418_pwgtp65;integer;3400276
+USCensus;USCensus_1;463_wgtp33;integer;3209940
+USCensus;USCensus_1;237_MRGI;integer;595128
+USCensus;USCensus_1;240_MRGX;integer;608212
+USCensus;USCensus_1;485_wgtp53;integer;3204736
+USCensus;USCensus_1;118_FMILSP;integer;108840
+USCensus;USCensus_1;166_FTOILP;integer;52884
+USCensus;USCensus_1;186_HFL;integer;788372
+USCensus;USCensus_1;185_HANDHELD;integer;365140
+USCensus;USCensus_1;93_FHINS7P;integer;129028
+USCensus;USCensus_1;230_MLPE;integer;119668
+USCensus;USCensus_1;380_pwgtp30;integer;3402952
+USCensus;USCensus_1;159_FSSIP;integer;139492
+USCensus;USCensus_1;111_FMARHWP;integer;107452
+USCensus;USCensus_1;288_RACASN;integer;144704
+USCensus;USCensus_1;405_pwgtp53;integer;3402564
+USCensus;USCensus_1;434_pwgtp7;integer;3405884
+USCensus;USCensus_1;108_FMARHDP;integer;107204
+USCensus;USCensus_1;302_RNTM;integer;358816
+USCensus;USCensus_1;215_LNGI;integer;142156
+USCensus;USCensus_1;102_FJWRIP;integer;109964
+USCensus;USCensus_1;105_FLANP;integer;44472
+USCensus;USCensus_1;116_FMIGSP;integer;72520
+USCensus;USCensus_1;480_wgtp49;integer;3212356
+USCensus;USCensus_1;507_wgtp73;integer;3209868
+USCensus;USCensus_1;511_wgtp77;integer;3210324
+USCensus;USCensus_1;495_wgtp62;integer;3177852
+USCensus;USCensus_1;171_FWAGP;integer;180656
+USCensus;USCensus_1;201_HUPAOC;integer;579332
+USCensus;USCensus_1;458_wgtp29;integer;3209264
+USCensus;USCensus_1;373_pwgtp24;integer;3412980
+USCensus;USCensus_1;182_GCR;integer;131272
+USCensus;USCensus_1;33_DRIVESP;integer;366252
+USCensus;USCensus_1;272_POWPUMA;integer;1447644
+USCensus;USCensus_1;51_FCOMPOTHXP;integer;159180
+USCensus;USCensus_1;453_wgtp24;integer;3210356
+USCensus;USCensus_1;394_pwgtp43;integer;3406472
+USCensus;USCensus_1;39_FACCESSP;integer;171352
+USCensus;USCensus_1;388_pwgtp38;integer;3402220
+USCensus;USCensus_1;198_HISP;integer;438164
+USCensus;USCensus_1;371_pwgtp22;integer;3410852
+USCensus;USCensus_1;374_pwgtp25;integer;3401480
+USCensus;USCensus_1;429_pwgtp75;integer;3438388
+USCensus;USCensus_1;204_INSP;integer;2014268
+USCensus;USCensus_1;478_wgtp47;integer;3204704
+USCensus;USCensus_1;25_DIALUP;integer;334088
+USCensus;USCensus_1;410_pwgtp58;integer;3415540
+USCensus;USCensus_1;227_MLPA;integer;54808
+USCensus;USCensus_1;192_HINS2;integer;191076
+USCensus;USCensus_1;255_NWLA;integer;365336
+USCensus;USCensus_1;392_pwgtp41;integer;3403096
+USCensus;USCensus_1;75_FFULP;integer;247184
+USCensus;USCensus_1;41_FAGEP;integer;33612
+USCensus;USCensus_1;221_MAR;integer;588232
+USCensus;USCensus_1;490_wgtp58;integer;3209256
+USCensus;USCensus_1;117_FMILPP;integer;38312
+USCensus;USCensus_1;234_MLPJ;integer;31104
+USCensus;USCensus_1;60_FDPHYP;integer;87512
+USCensus;USCensus_1;442_wgtp14;integer;3214580
+USCensus;USCensus_1;208_JWMNP;integer;945724
+USCensus;USCensus_1;316_SERIALNO1;integer;8082636
+USCensus;USCensus_1;219_MARHW;integer;336504
+USCensus;USCensus_1;194_HINS4;integer;175692
+USCensus;USCensus_1;319_SFR;integer;144508
+USCensus;USCensus_1;509_wgtp75;integer;3206184
+USCensus;USCensus_1;384_pwgtp34;integer;3410168
+USCensus;USCensus_1;214_LAPTOP;integer;277468
+USCensus;USCensus_1;261_OC;integer;65544
+USCensus;USCensus_1;135_FPOBP;integer;143596
+USCensus;USCensus_1;236_MODEM;integer;555252
+USCensus;USCensus_1;476_wgtp45;integer;3204712
+USCensus;USCensus_1;455_wgtp26;integer;3212372
+USCensus;USCensus_1;486_wgtp54;integer;3208904
+USCensus;USCensus_1;303_RNTP;integer;1118456
+USCensus;USCensus_1;347_WATP;integer;2340892
+USCensus;USCensus_1;199_HUGCL;integer;229300
+USCensus;USCensus_1;173_FWKHP;integer;130956
+USCensus;USCensus_1;327_SSIP;integer;190040
+USCensus;USCensus_1;228_MLPB;integer;73656
+USCensus;USCensus_1;333_SVAL;integer;391504
+USCensus;USCensus_1;376_pwgtp27;integer;3401296
+USCensus;USCensus_1;168_FVACSP;integer;1948
+USCensus;USCensus_1;187_HHL;integer;503124
+USCensus;USCensus_1;464_wgtp34;integer;3204692
+USCensus;USCensus_1;54_FDDRSP;integer;84936
+USCensus;USCensus_1;409_pwgtp57;integer;3401360
+USCensus;USCensus_1;103_FJWTRP;integer;107368
+USCensus;USCensus_1;378_pwgtp29;integer;3443084
+USCensus;USCensus_1;459_wgtp2;integer;3208184
+USCensus;USCensus_1;400_pwgtp49;integer;3404004
+USCensus;USCensus_1;440_wgtp12;integer;3211968
+USCensus;USCensus_1;77_FGCLP;integer;34216
+USCensus;USCensus_1;351_WKHP;integer;948392
+USCensus;USCensus_1;239_MRGT;integer;588292
+USCensus;USCensus_1;52_FCONP;integer;35508
+USCensus;USCensus_1;12_BDSP;integer;877268
+USCensus;USCensus_1;408_pwgtp56;integer;3410272
+USCensus;USCensus_1;343_VEH;integer;877464
+USCensus;USCensus_1;433_pwgtp79;integer;3398940
+USCensus;USCensus_1;99_FINTP;integer;139220
+USCensus;USCensus_1;203_INDP;integer;18876
+USCensus;USCensus_1;296_REFR;integer;26736
+USCensus;USCensus_1;197_HINS7;integer;39120
+USCensus;USCensus_1;131_FPARC;integer;759452
+USCensus;USCensus_1;367_pwgtp19;integer;3400188
+USCensus;USCensus_1;399_pwgtp48;integer;3404544
+USCensus;USCensus_1;375_pwgtp26;integer;3406460
+USCensus;USCensus_1;295_RC;integer;69596
+USCensus;USCensus_1;496_wgtp63;integer;3210800
+Wins;Wins_1;152_nSEX;integer;48912
+Wins;Wins_1;32_nCOUPLED;integer;15216
+Wins;Wins_1;143_nQPC;integer;340416
+Wins;Wins_1;144_nQP;integer;240520
+Wins;Wins_1;184_nWGTCH;integer;249360
+Wins;Wins_1;224_rPFIG;integer;231364
+Wins;Wins_1;201_rEPSLIFE;integer;238552
+Wins;Wins_1;134_nPNT;integer;45236
+Wins;Wins_1;21_nC90;integer;442640
+Wins;Wins_1;76_nKAT;integer;228952
+Wins;Wins_1;19_nBUGBOY;integer;60900
+Wins;Wins_1;113_nLWD;integer;428320
+Wins;Wins_1;105_nLONG;integer;155980
+Wins;Wins_1;132_nPER;integer;368600
+Wins;Wins_1;192_nXFAV;integer;33840
+Wins;Wins_1;31_nCONT;integer;83428
+Wins;Wins_1;197_rAP;integer;238220
+Wins;Wins_1;63_nIMP1;integer;433540
+Wins;Wins_1;148_nRS;integer;167900
+Wins;Wins_1;186_nWINTYPE;integer;94448
+Wins;Wins_1;57_nGELDING;integer;14404
+Wins;Wins_1;167_nTOPSHFAGO;integer;636136
+Wins;Wins_1;182_nVK1;integer;858340
+Wins;Wins_1;255_xPL;integer;460
+Wins;Wins_1;174_nTRN;integer;655804
+Wins;Wins_1;120_nMLFAV;integer;80260
+Wins;Wins_1;61_nHTR;integer;446840
+Wins;Wins_1;86_nKPROB3;integer;316132
+Wins;Wins_1;28_nCLCH;integer;311408
+Wins;Wins_1;9_nAFIN;integer;238220
+Wins;Wins_1;59_nH4C;integer;149452
+Wins;Wins_1;29_nCLMVALUE;integer;132496
+Wins;Wins_1;119_nMAXWINSX;integer;109976
+Wins;Wins_1;215_rKMS;integer;206148
+Wins;Wins_1;123_nOD_PICK;integer;105556
+Wins;Wins_1;146_nRACE;integer;97012
+Wins;Wins_1;85_nKPROB2;integer;355808
+Wins;Wins_1;139_nPSF;integer;38944
+Wins;Wins_1;128_nPACE;integer;75216
+Wins;Wins_1;137_nPROB;integer;380568
+Wins;Wins_1;13_nBADFAV;integer;13436
+Wins;Wins_1;20_nC90X;integer;51116
+Wins;Wins_1;205_rFR2;integer;239444
+Wins;Wins_1;223_rPER;integer;248288
+Wins;Wins_1;65_nIMP3;integer;401756
+Wins;Wins_1;116_nLoneDD;integer;40628
+Wins;Wins_1;124_nOD_SCORE;integer;450396
+Wins;Wins_1;253_xFIN;integer;145464
+Wins;Wins_1;90_nLAY;integer;378796
+Wins;Wins_1;198_rC90;integer;236640
+Wins;Wins_1;133_nPFIG;integer;367832
+Wins;Wins_1;80_nKGAP;integer;431244
+Wins;Wins_1;185_nWINDAYSX;integer;132280
+Wins;Wins_1;158_nSURF;integer;60844
+Wins;Wins_1;74_nK2LINE;integer;460
+Wins;Wins_1;110_nLSURF;integer;124188
+Wins;Wins_1;122_nNEG;integer;206336
+Wins;Wins_1;149_nRULE50;integer;5408
+Wins;Wins_1;69_nJ14WN;integer;276868
+Wins;Wins_1;30_nCLM;integer;101852
+Wins;Wins_1;112_nLUCK;integer;93216
+Wins;Wins_1;210_rIMP2;integer;246844
+Wins;Wins_1;118_nLoneLUCK;integer;35392
+Wins;Wins_1;216_rK;integer;225460
+Wins;Wins_1;47_nFIRST_TAG;integer;26216
+Wins;Wins_1;126_nOTX;integer;32812
+Wins;Wins_1;25_nCLASSX;integer;83488
+Wins;Wins_1;160_nTJ;integer;285440
+Wins;Wins_1;89_nLAYZONE;integer;130680
+Wins;Wins_1;109_nLSHOCK;integer;19668
+Wins;Wins_1;10_nAGE;integer;31116
+Wins;Wins_1;211_rIMP3;integer;247888
+Wins;Wins_1;12_nBADCLASS;integer;61784
+Wins;Wins_1;199_rCLASS;integer;225812
+Wins;Wins_1;165_nTOPPERAGO;integer;636848
+Wins;Wins_1;7_nACL;integer;332052
+Wins;Wins_1;92_nLCSF;integer;469636
+Wins;Wins_1;155_nSTR;integer;15456
+Wins;Wins_1;227_rSP;integer;239304
+Wins;Wins_1;208_rHTR;integer;244116
+Wins;Wins_1;108_nLRACE;integer;248728
+Wins;Wins_1;45_nFAV2;integer;69316
+Wins;Wins_1;219_rMLO;integer;232064
+Wins;Wins_1;36_nEDIF;integer;433504
+Wins;Wins_1;2_Number of Records;integer;460
+Wins;Wins_1;127_nOUTLOOK;integer;82504
+Wins;Wins_1;136_nPRICEPLAY;integer;49296
+Wins;Wins_1;55_nFTS;integer;43032
+Wins;Wins_1;177_nTopKAT;integer;61360
+Wins;Wins_1;229_rVEL;integer;239192
+Wins;Wins_1;209_rIMP1;integer;238996
+Wins;Wins_1;203_rFC;integer;239484
+Wins;Wins_1;35_nDS;integer;73532
+Wins;Wins_1;8_nAE;integer;10080
+Wins;Wins_1;42_nESHOCK;integer;9320
+Wins;Wins_1;71_nJKYHST;integer;210304
+Wins;Wins_1;114_nLWINF;integer;85276
+Wins;Wins_1;142_nQFLAG;integer;41060
+Wins;Wins_1;150_nRUNKS;integer;52164
+Wins;Wins_1;64_nIMP2;integer;433264
+Wins;Wins_1;72_nJKYHW;integer;106040
+Wins;Wins_1;225_rPROB;integer;225460
+Wins;Wins_1;39_nEPR_PAC;integer;120436
+Wins;Wins_1;244_tPGM;integer;254340
+Wins;Wins_1;41_nEPSLIFE;integer;941360
+Wins;Wins_1;125_nOFFGRASS;integer;9732
+Wins;Wins_1;217_rLCSF;integer;235124
+Wins;Wins_1;140_nPURS;integer;131536
+Wins;Wins_1;27_nCLA;integer;71176
+Wins;Wins_1;200_rEPS365D;integer;237688
+Wins;Wins_1;67_nIMPROVE;integer;149156
+Wins;Wins_1;151_nSCRATCHES;integer;74184
+Wins;Wins_1;159_nTAN;integer;87576
+Wins;Wins_1;48_nFIT;integer;21556
+Wins;Wins_1;91_nLCLAS;integer;120904
+Wins;Wins_1;17_nBLOWOUT;integer;25440
+Wins;Wins_1;214_rK2;integer;224956
+Wins;Wins_1;190_nXADJ;integer;323184
+Wins;Wins_1;77_nKENTENDER;integer;23836
+Wins;Wins_1;68_nJ14ST;integer;441548
+Wins;Wins_1;100_nLIVEP;integer;213748
+Wins;Wins_1;101_nLIVES;integer;159148
+Wins;Wins_1;222_rPED;integer;227856
+Wins;Wins_1;26_nCLASS;integer;340628
+Wins;Wins_1;107_nLPOS1;integer;258192
+Wins;Wins_1;24_nCLASSFIT;integer;140388
+Wins;Wins_1;163_nTOPPACAGO;integer;640564
+Wins;Wins_1;153_nSLASH;integer;68968
+Wins;Wins_1;46_nFC;integer;319772
+Wins;Wins_1;96_nLFST;integer;404216
+Wins;Wins_1;147_nRAZOR;integer;39372
+Wins;Wins_1;15_nBEATCLM;integer;40924
+Wins;Wins_1;170_nTRCH;integer;125876
+Wins;Wins_1;173_nTRNHW;integer;158508
+Wins;Wins_1;117_nLoneKAT6;integer;43956
+Wins;Wins_1;206_rFR3;integer;239304
+Wins;Wins_1;60_nHAG;integer;176780
+Wins;Wins_1;88_nLAY90;integer;92292
+Wins;Wins_1;84_nKPROB1;integer;380568
+Wins;Wins_1;218_rLP;integer;238224
+Wins;Wins_1;33_nCOURSE;integer;49940
+Wins;Wins_1;131_nPED;integer;678048
+Wins;Wins_1;135_nPPO;integer;239596
+Wins;Wins_1;228_rTRN;integer;228280
+Wins;Wins_1;70_nJKCH;integer;119116
+Wins;Wins_1;98_nLIVEA;integer;46128
+Wins;Wins_1;22_nCHAOS;integer;8292
+Wins;Wins_1;38_nEPR;integer;122384
+Wins;Wins_1;111_nLTOP;integer;114908
+Wins;Wins_1;54_nFTI;integer;114704
+Wins;Wins_1;169_nTOUR;integer;74404
+Wins;Wins_1;220_rOTX;integer;18076
+Wins;Wins_1;145_nQT3;integer;116248
+Wins;Wins_1;103_nLONERAZOR;integer;23784
+Wins;Wins_1;23_nCHG;integer;81592
+Wins;Wins_1;40_nEPS365D;integer;932532
+Wins;Wins_1;202_rEP;integer;239020
+Wins;Wins_1;195_rACL;integer;245288
+Wins;Wins_1;212_rIMP4;integer;245420
+Wins;Wins_1;115_nLWINS;integer;181772
+Wins;Wins_1;50_nFPSX;integer;126120
+Wins;Wins_1;226_rPSCN;integer;238368
+Wins;Wins_1;44_nFAV1;integer;77116
+Wins;Wins_1;172_nTRNHST;integer;347052
+Wins;Wins_1;207_rFX;integer;237788
+Wins;Wins_1;161_nTL30S;integer;438760
+Wins;Wins_1;49_nFLD;integer;85744
+Wins;Wins_1;78_nKEY;integer;72808
+Wins;Wins_1;104_nLONESP;integer;10860
+Wins;Wins_1;14_nBARN;integer;444528
+Wins;Wins_1;213_rJKY;integer;227688
+Wins;Wins_1;154_nSTB;integer;33732
+Wins;Wins_1;204_rFR1;integer;238968
+Wins;Wins_1;73_nJKY;integer;640180
+Wins;Wins_1;181_nVI;integer;124764
+Wins;Wins_1;6_nABOUT;integer;12020
+Wins;Wins_1;189_nWSR;integer;143452
+Wins;Wins_1;95_nLFIN;integer;254736
+Wins;Wins_1;18_nBTL;integer;55216
+Wins;Wins_1;162_nTL30W;integer;256700
+Wins;Wins_1;99_nLIVEL;integer;105396
+Wins;Wins_1;183_nWEIGHT;integer;215504
+Wins;Wins_1;58_nGOODIES;integer;158728
+Wins;Wins_1;175_nTRN_BUZZ;integer;81832
+Wins;Wins_1;66_nIMP4;integer;501672
+Wins;Wins_1;141_nQFIVES;integer;91568
+Wins;Wins_1;221_rPAC;integer;247688
+Wins;Wins_1;129_nPAC;integer;382532
+Wins;Wins_1;16_nBIGLOSER;integer;50732
+Wins;Wins_1;230_rWKSC;integer;227072
+Wins;Wins_1;94_nLDR;integer;70400
+Wins;Wins_1;196_rAODD;integer;239132
+Wins;Wins_1;178_nUNK;integer;36660
+Wins;Wins_1;97_nLFWP;integer;311776
+Wins;Wins_1;56_nGATEBRK;integer;122012
+Wins;Wins_1;157_nSUPERS;integer;55056
+RealEstate2;RealEstate2_1;17_Price;integer;12858432
+RealEstate2;RealEstate2_1;12_Number of Records;integer;5656
+TrainsUK1;TrainsUK1_4;5_Engineering Allowance (mins);integer;276324
+TrainsUK1;TrainsUK1_4;16_Ranking;integer;1535880
+TrainsUK1;TrainsUK1_4;14_Punctuality Threshold;integer;246688
+TrainsUK1;TrainsUK1_4;23_Train Count;integer;3082316
+Physicians;Physicians_1;6_bene_unique_cnt;integer;8817860
+Physicians;Physicians_1;5_bene_day_srvc_cnt;integer;9635380
+Physicians;Physicians_1;1_Number of Records;integer;5460
+Physicians;Physicians_1;11_npi;integer;8580540
+Physicians;Physicians_1;23_nppes_provider_zip;integer;6955668
+HashTags;HashTags_1;95_Contains_Castle (copy 2);integer;5460
+HashTags;HashTags_1;80_Contains_Scandal (copy 2);integer;4332
+HashTags;HashTags_1;19_interaction#schema#version;integer;428
+HashTags;HashTags_1;84_Contains_RookieBlue (copy 4);integer;35908
+HashTags;HashTags_1;76_Contains_TheNeighbors (copy 2);integer;4804
+HashTags;HashTags_1;97_Contains_AFV (copy);integer;28900
+HashTags;HashTags_1;74_Contains_TheNeighbors (copy);integer;4748
+HashTags;HashTags_1;78_Contains_Scandal (copy);integer;5204
+HashTags;HashTags_1;86_Contains_RookieBlue (copy 2);integer;12596
+HashTags;HashTags_1;90_Contains_KillerWomen (copy);integer;2832
+HashTags;HashTags_1;73_Contains_lastmanstanding (copy);integer;5388
+HashTags;HashTags_1;81_Contains_RookieBlue (copy);integer;25248
+HashTags;HashTags_1;88_Contains_Motive (copy);integer;1180
+HashTags;HashTags_1;69_Contains_Castle (copy);integer;1296
+HashTags;HashTags_1;94_Calculation_6220303224029615;integer;4848
+HashTags;HashTags_1;71_Contains_nashville (copy);integer;1692
+HashTags;HashTags_1;68_Contains_suburgatory (copy);integer;5572
+HashTags;HashTags_1;75_Contains_TheNeighbors (copy 3);integer;5240
+HashTags;HashTags_1;63_twitter#user#statuses_count;integer;838948
+HashTags;HashTags_1;51_twitter#user#followers_count;integer;517876
+HashTags;HashTags_1;89_Contains_Motive (copy 2);integer;13624
+HashTags;HashTags_1;82_Contains_RookieBlue (copy 6);integer;1452
+HashTags;HashTags_1;57_twitter#user#listed_count;integer;135660
+HashTags;HashTags_1;99_Contains_ABC2020 (copy);integer;1152
+HashTags;HashTags_1;1_Number of Records;integer;428
+HashTags;HashTags_1;92_Contains_GreysAnatomy (copy);integer;1820
+HashTags;HashTags_1;72_Contains_modernfamily (copy);integer;5624
+HashTags;HashTags_1;50_twitter#user#favourites_count;integer;573556
+HashTags;HashTags_1;70_Contains_revenge (copy);integer;4148
+HashTags;HashTags_1;93_Contains_GreysAnatomy (copy 2);integer;4840
+HashTags;HashTags_1;52_twitter#user#friends_count;integer;466196
+HashTags;HashTags_1;85_Contains_RookieBlue (copy 3);integer;11448
+HashTags;HashTags_1;79_Contains_Scandal (copy 3);integer;32060
+HashTags;HashTags_1;98_Contains_AFV (copy 2);integer;10692
+HashTags;HashTags_1;101_Contains_TheMiddle (copy);integer;2224
+HashTags;HashTags_1;87_Contains_OnceUponATime (copy);integer;1052
+HashTags;HashTags_1;96_Contains_AgentsofSHIELD (copy);integer;3596
+HashTags;HashTags_1;91_Contains_KillerWomen (copy 2);integer;5372
+HashTags;HashTags_1;77_Contains_suburgatory (copy 2);integer;11976
+HashTags;HashTags_1;66_twitter#user#utc_offset;integer;27440
+HashTags;HashTags_1;83_Contains_RookieBlue (copy 5);integer;21756
+Romance;Romance_1;4_created_time;integer;774648
+Romance;Romance_1;1_F1;integer;3922588
+Romance;Romance_1;2_Number of Records;integer;1060
+Uberlandia;Uberlandia_1;8_ch_catalogo_guia;integer;1100032
+Uberlandia;Uberlandia_1;14_co_matricula_estudante;integer;15028400
+Uberlandia;Uberlandia_1;9_ch_da_oferta;integer;1612136
+Uberlandia;Uberlandia_1;19_codigo_do_curso;integer;3164772
+Uberlandia;Uberlandia_1;10_ch_max_financiavel;integer;1103840
+Uberlandia;Uberlandia_1;17_cod_ibge_do_local_da_oferta;integer;2687880
+Uberlandia;Uberlandia_1;16_cod_ibge_da_ue;integer;2481852
+Uberlandia;Uberlandia_1;18_codigo_da_oferta;integer;4351392
+Uberlandia;Uberlandia_1;7_Number of Records;integer;4532
+Uberlandia;Uberlandia_1;11_ch_maxima_permitida;integer;1020684
+Uberlandia;Uberlandia_1;12_ch_min_financiavel;integer;1101004
+Uberlandia;Uberlandia_1;15_cod_da_unidade_de_ensino;integer;2702880
+Uberlandia;Uberlandia_1;73_total_freq_aluno;integer;1294776
+Uberlandia;Uberlandia_1;79_vagas;integer;1846844
+Uberlandia;Uberlandia_1;13_ch_minima_do_curso;integer;1022828
+Medicare3;Medicare3_1;23_NPPES_PROVIDER_ZIP;integer;7439184
+Medicare3;Medicare3_1;4_BENE_DAY_SRVC_CNT;integer;9735892
+Medicare3;Medicare3_1;11_NPI;integer;9272844
+Medicare3;Medicare3_1;24_Number of Records;integer;5536
+Medicare3;Medicare3_1;5_BENE_UNIQUE_CNT;integer;8914548
+CityMaxCapita;CityMaxCapita_1;12_Influencer?;integer;65640
+CityMaxCapita;CityMaxCapita_1;17_Listed Number;integer;229048
+CityMaxCapita;CityMaxCapita_1;26_Tweets;integer;1768720
+CityMaxCapita;CityMaxCapita_1;10_Following;integer;1138480
+CityMaxCapita;CityMaxCapita_1;7_Favorites;integer;1393208
+CityMaxCapita;CityMaxCapita_1;20_Number of Records;integer;664
+CityMaxCapita;CityMaxCapita_1;9_Followers;integer;1232320
+Provider;Provider_1;6_bene_unique_cnt;integer;7537144
+Provider;Provider_1;5_bene_day_srvc_cnt;integer;8852528
+Provider;Provider_1;1_Number of Records;integer;5460
+Provider;Provider_1;11_npi;integer;10439596
+Provider;Provider_1;9_line_srvc_cnt;integer;9152468
+Provider;Provider_1;23_nppes_provider_zip;integer;8700108
+Provider;Provider_1;7_hcpcs_code;integer;2947244
+MedPayment2;MedPayment2_1;6_bene_unique_cnt;integer;8834536
+MedPayment2;MedPayment2_1;5_bene_day_srvc_cnt;integer;9633104
+MedPayment2;MedPayment2_1;1_Number of Records;integer;5460
+MedPayment2;MedPayment2_1;11_npi;integer;8579240
+MedPayment2;MedPayment2_1;23_nppes_provider_zip;integer;6958112
+PanCreactomy1;PanCreactomy1_1;23_NPPES_PROVIDER_ZIP;integer;7318076
+PanCreactomy1;PanCreactomy1_1;4_BENE_DAY_SRVC_CNT;integer;9599760
+PanCreactomy1;PanCreactomy1_1;11_NPI;integer;9088984
+PanCreactomy1;PanCreactomy1_1;24_Number of Records;integer;5460
+PanCreactomy1;PanCreactomy1_1;5_BENE_UNIQUE_CNT;integer;8814120
+YaleLanguages;YaleLanguages_1;3_BIB_ID;integer;1608700
+YaleLanguages;YaleLanguages_1;15_ID1;integer;466284
+YaleLanguages;YaleLanguages_1;24_PATRON_GROUP_ID1;integer;168288
+YaleLanguages;YaleLanguages_1;14_ID;integer;533252
+YaleLanguages;YaleLanguages_1;23_PATRON_GROUP_ID;integer;168288
+YaleLanguages;YaleLanguages_1;19_MFHD_ID;integer;1608924
+YaleLanguages;YaleLanguages_1;29_RENEWAL_COUNT;integer;47208
+YaleLanguages;YaleLanguages_1;20_Number of Records;integer;660
+TableroSistemaPenal;TableroSistemaPenal_1;21_Number of Records;integer;1444
+TableroSistemaPenal;TableroSistemaPenal_1;26_TIP_TRIB;integer;1632
+TableroSistemaPenal;TableroSistemaPenal_1;5_COD. REGIÓN;integer;34476
+TableroSistemaPenal;TableroSistemaPenal_1;12_Cod. Tribunal;integer;448196
+Rentabilidad;Rentabilidad_1;34_Fx Entrega Total NCB;integer;1216
+Rentabilidad;Rentabilidad_1;117_TELEVENTA_Costo Televendedor NCB;integer;432
+Rentabilidad;Rentabilidad_1;98_REPARTO_Visitas de Reparto Acumulado Ene-May;integer;256952
+Rentabilidad;Rentabilidad_1;132_VENTA_Costo Renta Equipo Televenta NCB;integer;428
+Rentabilidad;Rentabilidad_1;39_Fx TA;integer;6068
+Rentabilidad;Rentabilidad_1;131_VENTA_Coord, OL, Merc. 14;integer;3500
+Rentabilidad;Rentabilidad_1;62_MERCADEO_PDV- Descuentos Habituales;integer;59268
+Rentabilidad;Rentabilidad_1;40_FxED;integer;1320
+Rentabilidad;Rentabilidad_1;36_Fx PR NCB;integer;1200
+Rentabilidad;Rentabilidad_1;63_MERCADEO_PDV- Descuentos No Habituales;integer;519520
+Rentabilidad;Rentabilidad_1;139_VENTA_Descuentos Lista de Precios;integer;520
+Rentabilidad;Rentabilidad_1;119_TELEVENTA_Tiempos de Venta Televenta NCB;integer;396
+Rentabilidad;Rentabilidad_1;35_Fx Entrega Total;integer;39308
+Rentabilidad;Rentabilidad_1;37_Fx PR;integer;21316
+Rentabilidad;Rentabilidad_1;21_Deudor NCB;integer;24896
+Rentabilidad;Rentabilidad_1;71_Number of Records;integer;364
+Rentabilidad;Rentabilidad_1;33_Fx CO;integer;20416
+Rentabilidad;Rentabilidad_1;18_Canal de Ventas;integer;29224
+RealEstate1;RealEstate1_1;21_Month;integer;18188
+RealEstate1;RealEstate1_1;27_Year;integer;12080
+RealEstate1;RealEstate1_1;16_Price;integer;25909160
+RealEstate1;RealEstate1_1;11_Number of Records;integer;11500
+RealEstate1;RealEstate1_1;22_Calculation_7270508194941839;integer;18188
+Taxpayer;Taxpayer_1;6_bene_unique_cnt;integer;7541536
+Taxpayer;Taxpayer_1;5_bene_day_srvc_cnt;integer;8848292
+Taxpayer;Taxpayer_1;1_Number of Records;integer;5460
+Taxpayer;Taxpayer_1;11_npi;integer;10462008
+Taxpayer;Taxpayer_1;9_line_srvc_cnt;integer;9150872
+Taxpayer;Taxpayer_1;23_nppes_provider_zip;integer;8695104
+Taxpayer;Taxpayer_1;7_hcpcs_code;integer;2945252
+Redfin4;Redfin4_1;9_inventory;integer;2743432
+Redfin4;Redfin4_1;35_period_duration;integer;4136
+Redfin4;Redfin4_1;1_Number of Records;integer;2036
+Redfin4;Redfin4_1;6_homes_sold;integer;2543012
+Redfin4;Redfin4_1;31_new_listings;integer;2660284
+Redfin4;Redfin4_1;48_table_id;integer;545100
+IGlocations2;IGlocations2_1;1_Number of Records;integer;1480
+IGlocations2;IGlocations2_1;6_id;integer;6619184
+IGlocations2;IGlocations2_1;8_like_count;integer;1892012
+TrainsUK2;TrainsUK2_1;11_Planned Orig Stanox Description;string;41289488
+TrainsUK2;TrainsUK2_1;29_v_Sector;string;14657544
+TrainsUK2;TrainsUK2_1;5_Operator;string;11702732
+TrainsUK2;TrainsUK2_1;35_Calculation_6080608165132814;string;18392320
+TrainsUK2;TrainsUK2_1;17_Service Group Code;string;14967336
+TrainsUK2;TrainsUK2_1;3_Financial Year & Period;string;2711764
+TrainsUK2;TrainsUK2_1;8_Planned Dest Stanox Description;string;41504056
+TrainsUK2;TrainsUK2_1;31_c_Origin Time (GBTT) (copy);string;10466460
+TrainsUK2;TrainsUK2_1;30_v_Unique Train ID;string;34871820
+TrainsUK2;TrainsUK2_1;18_Service Group Description;string;44315272
+TrainsUK2;TrainsUK2_1;20_Train ID;string;28646776
+TrainsUK2;TrainsUK2_1;33_Calculation_4220604162631191;string;56707824
+TrainsUK2;TrainsUK2_1;34_Calculation_5580608170646388;string;10466460
+Generico;Generico_1;38_VER ANUNCIO;string;40013548
+Generico;Generico_1;6_Circulacion;string;1573252
+Generico;Generico_1;1_Anunciante;string;32515276
+Generico;Generico_1;35_Soporte;string;43347088
+Generico;Generico_1;5_Categoria;string;34465948
+Generico;Generico_1;18_Franja;string;9060088
+Generico;Generico_1;43_www2;string;25140760
+Generico;Generico_1;32_Producto;string;43488868
+Generico;Generico_1;16_Est;string;986212
+Generico;Generico_1;19_Genero;string;14780172
+Generico;Generico_1;20_Holding;string;13992752
+Generico;Generico_1;42_www1;string;21384388
+Generico;Generico_1;2_Aviso;string;11752036
+Generico;Generico_1;26_Mes;string;13996016
+Generico;Generico_1;9_Concatenar 1;string;40013548
+Generico;Generico_1;4_Cadena;string;4103700
+Generico;Generico_1;24_Marca;string;32744052
+Generico;Generico_1;40_extencion;string;5647316
+Generico;Generico_1;25_Medio;string;8859052
+Generico;Generico_1;34_Sector;string;15620468
+Generico;Generico_1;39_Vehiculo;string;22615300
+Generico;Generico_1;31_PrimeraLinea;string;63018656
+Generico;Generico_1;10_Concatenar 2;string;50023716
+Generico;Generico_1;41_medio2;string;4849836
+Generico;Generico_1;37_Unidad;string;297048
+Generico;Generico_1;36_Subsector;string;26070624
+Redfin1;Redfin1_1;42_state;string;2355468
+Redfin1;Redfin1_1;37_region;string;3845336
+Redfin1;Redfin1_1;38_region_type;string;1221780
+Redfin1;Redfin1_1;43_state_code;string;817280
+Redfin1;Redfin1_1;5_city;string;1436580
+Redfin1;Redfin1_1;36_property_type;string;2723936
+Medicare2;Medicare2_1;22_nppes_provider_street2;string;11915840
+Medicare2;Medicare2_1;13_nppes_entity_code;string;2267456
+Medicare2;Medicare2_1;14_nppes_provider_city;string;20896016
+Medicare2;Medicare2_1;12_nppes_credentials;string;9529276
+Medicare2;Medicare2_1;17_nppes_provider_gender;string;2174720
+Medicare2;Medicare2_1;21_nppes_provider_street1;string;29245948
+Medicare2;Medicare2_1;18_nppes_provider_last_org_name;string;23698168
+Medicare2;Medicare2_1;19_nppes_provider_mi;string;1681632
+Medicare2;Medicare2_1;20_nppes_provider_state;string;2421360
+Medicare2;Medicare2_1;16_nppes_provider_first_name;string;19489816
+Medicare2;Medicare2_1;8_hcpcs_description;string;16269004
+Medicare2;Medicare2_1;24_place_of_service;string;2267572
+Medicare2;Medicare2_1;10_medicare_participation_indicator;string;2267408
+Medicare2;Medicare2_1;15_nppes_provider_country;string;2389956
+Medicare2;Medicare2_1;25_provider_type;string;7118644
+Redfin3;Redfin3_1;40_region;string;4225184
+Redfin3;Redfin3_1;45_state;string;2543096
+Redfin3;Redfin3_1;41_region_type;string;1275196
+Redfin3;Redfin3_1;5_city;string;1582100
+Redfin3;Redfin3_1;46_state_code;string;879976
+Redfin3;Redfin3_1;39_property_type;string;2940184
+SalariesFrance;SalariesFrance_1;54_UIMM_FAMILLES;string;174756
+SalariesFrance;SalariesFrance_1;49_ROME;string;1024820
+SalariesFrance;SalariesFrance_1;2_A129_LIBCOURT;string;1654036
+SalariesFrance;SalariesFrance_1;57_Calculation_490892384732147714;string;1654000
+SalariesFrance;SalariesFrance_1;5_A88;string;395168
+SalariesFrance;SalariesFrance_1;6_A88_LIB;string;1566556
+SalariesFrance;SalariesFrance_1;46_REG_LIB;string;1045416
+SalariesFrance;SalariesFrance_1;36_LIBDOM1;string;1335288
+SalariesFrance;SalariesFrance_1;55_ZE2010;string;769604
+SalariesFrance;SalariesFrance_1;1_A129;string;460788
+SalariesFrance;SalariesFrance_1;37_LIBDOM2;string;1663852
+SalariesFrance;SalariesFrance_1;38_LIBELLES_ROME_BONNE_FORMATION;string;3289004
+SalariesFrance;SalariesFrance_1;3_A129_LIBCOURT_PJ;string;1323064
+SalariesFrance;SalariesFrance_1;4_A129_LIB;string;1762600
+SalariesFrance;SalariesFrance_1;44_NOM_PAGES_JAUNES;string;2291592
+SalariesFrance;SalariesFrance_1;20_CODGEO_PRINCIPAL;string;1059640
+SalariesFrance;SalariesFrance_1;50_ROME_LIB;string;3319036
+SalariesFrance;SalariesFrance_1;39_LIBROME_MINUSCULE;string;3319376
+SalariesFrance;SalariesFrance_1;56_ZE2010_LIB;string;2204804
+SalariesFrance;SalariesFrance_1;47_RENSEIGNE;string;335044
+SalariesFrance;SalariesFrance_1;21_CP_PRINCIPAL;string;1329176
+CMSprovider;CMSprovider_1;19_NPPES_PROVIDER_STREET2;string;11321276
+CMSprovider;CMSprovider_1;13_NPPES_ENTITY_CODE;string;2301736
+CMSprovider;CMSprovider_1;8_HCPCS_DRUG_INDICATOR;string;2301664
+CMSprovider;CMSprovider_1;7_HCPCS_DESCRIPTION;string;15580220
+CMSprovider;CMSprovider_1;16_NPPES_PROVIDER_GENDER;string;2202800
+CMSprovider;CMSprovider_1;15_NPPES_PROVIDER_COUNTRY;string;2415044
+CMSprovider;CMSprovider_1;6_HCPCS_CODE;string;3004604
+CMSprovider;CMSprovider_1;14_NPPES_PROVIDER_CITY;string;15568928
+CMSprovider;CMSprovider_1;12_NPPES_CREDENTIALS;string;9331748
+CMSprovider;CMSprovider_1;17_NPPES_PROVIDER_STATE;string;2422116
+CMSprovider;CMSprovider_1;10_MEDICARE_PARTICIPATION_INDICATOR;string;2301680
+CMSprovider;CMSprovider_1;18_NPPES_PROVIDER_STREET1;string;26170300
+CMSprovider;CMSprovider_1;22_PLACE_OF_SERVICE;string;2301864
+CMSprovider;CMSprovider_1;23_PROVIDER_TYPE;string;4791748
+CommonGovernment;CommonGovernment_1;23_description;string;5570976
+CommonGovernment;CommonGovernment_1;42_prod_or_serv_code;string;6074500
+CommonGovernment;CommonGovernment_1;19_contract_signeddate;string;16221972
+CommonGovernment;CommonGovernment_1;8_award_type_code;string;2825984
+CommonGovernment;CommonGovernment_1;47_quarter;string;2821480
+CommonGovernment;CommonGovernment_1;33_level1_category;string;6344364
+CommonGovernment;CommonGovernment_1;45_psc_code_description;string;20508276
+CommonGovernment;CommonGovernment_1;56_year;string;3280148
+CommonGovernment;CommonGovernment_1;14_cd_contactiontype;string;2826088
+CommonGovernment;CommonGovernment_1;16_co_state;string;3932496
+CommonGovernment;CommonGovernment_1;29_funding_agency_name;string;9734588
+CommonGovernment;CommonGovernment_1;4_ag_name;string;13167560
+CommonGovernment;CommonGovernment_1;51_signeddate;string;19086548
+CommonGovernment;CommonGovernment_1;41_primary_contract_piid;string;35258472
+CommonGovernment;CommonGovernment_1;48_refidvid_agencyid;string;2983116
+CommonGovernment;CommonGovernment_1;3_a_aid_acontid_piid;string;27873832
+CommonGovernment;CommonGovernment_1;54_vend_vendorname;string;37308828
+CommonGovernment;CommonGovernment_1;5_agency_code;string;3087540
+CommonGovernment;CommonGovernment_1;55_whocanuse;string;6707356
+CommonGovernment;CommonGovernment_1;2_a_aid_acontid_agencyid;string;3798388
+CommonGovernment;CommonGovernment_1;53_vend_dunsnumber;string;17017844
+CommonGovernment;CommonGovernment_1;17_code;string;3141272
+CommonGovernment;CommonGovernment_1;12_bureau_code;string;3446100
+CommonGovernment;CommonGovernment_1;15_co_name;string;16672024
+CommonGovernment;CommonGovernment_1;7_award_type;string;4321676
+CommonGovernment;CommonGovernment_1;27_funding_agency;string;3449612
+CommonGovernment;CommonGovernment_1;43_prod_or_serv_code_desc;string;17331572
+CommonGovernment;CommonGovernment_1;18_contract_num;string;25645884
+CommonGovernment;CommonGovernment_1;44_psc_code;string;6074500
+CommonGovernment;CommonGovernment_1;13_bureau_name;string;10355500
+CommonGovernment;CommonGovernment_1;20_contractingofficeagencyid;string;3850420
+CommonGovernment;CommonGovernment_1;36_naics_name;string;18037428
+CommonGovernment;CommonGovernment_1;34_level2_category;string;8804460
+CommonGovernment;CommonGovernment_1;52_vend_contoffbussizedeterm;string;2821284
+CommonGovernment;CommonGovernment_1;35_naics_code;string;9729872
+CommonGovernment;CommonGovernment_1;49_refidvid_piid;string;11371944
+CommonGovernment;CommonGovernment_1;50_short_name;string;5453188
+Euro2016;Euro2016_1;3_lang;string;1027192
+Euro2016;Euro2016_1;5_longitude;string;84880
+Euro2016;Euro2016_1;8_subjectivity;string;2526636
+Euro2016;Euro2016_1;6_polarity;string;2361400
+Euro2016;Euro2016_1;10_tweet;string;58023104
+Euro2016;Euro2016_1;4_latitude;string;83492
+MedPayment1;MedPayment1_1;22_nppes_provider_street2;string;11076764
+MedPayment1;MedPayment1_1;13_nppes_entity_code;string;2267464
+MedPayment1;MedPayment1_1;14_nppes_provider_city;string;17852980
+MedPayment1;MedPayment1_1;12_nppes_credentials;string;9319092
+MedPayment1;MedPayment1_1;17_nppes_provider_gender;string;2174616
+MedPayment1;MedPayment1_1;7_hcpcs_code;string;8886404
+MedPayment1;MedPayment1_1;21_nppes_provider_street1;string;26091244
+MedPayment1;MedPayment1_1;18_nppes_provider_last_org_name;string;20618796
+MedPayment1;MedPayment1_1;19_nppes_provider_mi;string;1681932
+MedPayment1;MedPayment1_1;20_nppes_provider_state;string;2421464
+MedPayment1;MedPayment1_1;16_nppes_provider_first_name;string;17093432
+MedPayment1;MedPayment1_1;8_hcpcs_description;string;16279032
+MedPayment1;MedPayment1_1;24_place_of_service;string;2267576
+MedPayment1;MedPayment1_1;10_medicare_participation_indicator;string;2267408
+MedPayment1;MedPayment1_1;15_nppes_provider_country;string;2389952
+MedPayment1;MedPayment1_1;25_provider_type;string;7054468
+Arade;Arade_1;7_F7;string;24604
+Arade;Arade_1;2_F2;string;8288592
+Arade;Arade_1;6_F6;string;24604
+Arade;Arade_1;1_F1;string;5328356
+Telco;Telco_1;104_PACKAGE_NAME;string;3876288
+MLB;MLB_68;16_league;string;2002940
+MLB;MLB_68;3_awayteam;string;3232676
+MLB;MLB_68;22_p_throws;string;739620
+MLB;MLB_68;13_hometeam;string;3234260
+MLB;MLB_68;10_des;string;3219368
+MLB;MLB_68;6_batted_ball_type;string;837228
+MLB;MLB_68;23_pitcher_name;string;8271304
+MLB;MLB_68;15_inning_side;string;1737996
+MLB;MLB_68;2_atbat_des;string;28850444
+MLB;MLB_68;11_event;string;3715252
+MLB;MLB_68;7_batter_name;string;8808416
+MLB;MLB_68;5_b_height;string;3071160
+MLB;MLB_68;26_stand;string;733868
+MLB;MLB_68;12_gameday_link;string;5754960
+MLB;MLB_68;17_level;string;1700248
+Redfin2;Redfin2_1;42_state;string;2353624
+Redfin2;Redfin2_1;37_region;string;4083288
+Redfin2;Redfin2_1;38_region_type;string;1175620
+Redfin2;Redfin2_1;43_state_code;string;816148
+Redfin2;Redfin2_1;5_city;string;1432248
+Redfin2;Redfin2_1;36_property_type;string;2726448
+NYC;NYC_1;32_Park Facility Name;string;1193608
+NYC;NYC_1;3_Agency;string;4157464
+NYC;NYC_1;42_School Phone Number;string;772180
+NYC;NYC_1;23_Intersection Street 1;string;3284616
+NYC;NYC_1;21_Incident Address;string;23132652
+NYC;NYC_1;47_Status;string;3225704
+NYC;NYC_1;28_Location;string;45054864
+NYC;NYC_1;27_Location Type;string;3074372
+NYC;NYC_1;49_Taxi Company Borough;string;32892
+NYC;NYC_1;14_Cross Street 2;string;14848100
+NYC;NYC_1;11_Complaint Type;string;5019124
+NYC;NYC_1;50_Taxi Pick Up Location;string;91756
+NYC;NYC_1;48_Street Name;string;16013700
+NYC;NYC_1;43_School Region;string;3414528
+NYC;NYC_1;24_Intersection Street 2;string;3884804
+NYC;NYC_1;40_School Not Found;string;715724
+NYC;NYC_1;37_School City;string;3057404
+NYC;NYC_1;45_School Zip;string;3152340
+NYC;NYC_1;31_Park Borough;string;3098792
+NYC;NYC_1;2_Agency Name;string;5019884
+NYC;NYC_1;1_Address Type;string;3160252
+NYC;NYC_1;15_Descriptor;string;9230116
+NYC;NYC_1;25_Landmark;string;37812
+NYC;NYC_1;17_Facility Type;string;4683756
+NYC;NYC_1;5_Bridge Highway Direction;string;56484
+NYC;NYC_1;41_School Number;string;3068040
+NYC;NYC_1;39_School Name;string;1193608
+NYC;NYC_1;46_School or Citywide Complaint;string;25964
+NYC;NYC_1;35_Road Ramp;string;44016
+NYC;NYC_1;36_School Address;string;823884
+NYC;NYC_1;13_Cross Street 1;string;13794544
+NYC;NYC_1;44_School State;string;759384
+NYC;NYC_1;20_Garage Lot Name;string;29136
+NYC;NYC_1;18_Ferry Direction;string;27612
+NYC;NYC_1;19_Ferry Terminal Name;string;47444
+NYC;NYC_1;6_Bridge Highway Name;string;58896
+NYC;NYC_1;4_Borough;string;3098792
+NYC;NYC_1;52_Vehicle Type;string;30620
+NYC;NYC_1;8_City;string;4204980
+NYC;NYC_1;10_Community Board;string;3306516
+NYC;NYC_1;34_Resolution Description;string;10702940
+NYC;NYC_1;38_School Code;string;3056228
+Corporations;Corporations_1;11_founding_date;string;175140
+Corporations;Corporations_1;6_continent;string;52752
+Corporations;Corporations_1;27_website;string;5917284
+Corporations;Corporations_1;3_angelco_account;string;52056
+Corporations;Corporations_1;19_name;string;6498964
+Corporations;Corporations_1;15_last_funding_date;string;299156
+Corporations;Corporations_1;9_facebook_account;string;3687140
+Corporations;Corporations_1;17_location;string;463320
+Corporations;Corporations_1;7_country;string;191220
+Corporations;Corporations_1;26_twitter_account;string;2155360
+Corporations;Corporations_1;16_linkedin_account;string;3717000
+Corporations;Corporations_1;21_region;string;70872
+Corporations;Corporations_1;13_industries;string;133528
+Corporations;Corporations_1;14_keywords;string;216996
+Corporations;Corporations_1;18_long_description;string;9532284
+Corporations;Corporations_1;24_stage;string;157072
+Corporations;Corporations_1;5_city;string;489720
+Corporations;Corporations_1;10_financing_stage;string;2028
+Corporations;Corporations_1;4_business_model;string;35960
+Corporations;Corporations_1;8_crunchbase_account;string;474796
+Corporations;Corporations_1;23_short_descriptiion;string;739116
+Eixo;Eixo_1;51_nome aluno;string;56295152
+Eixo;Eixo_1;17_cod_ibge_do_local_da_oferta;string;3690724
+Eixo;Eixo_1;76_uf_da_ue;string;3627728
+Eixo;Eixo_1;69_subtipo_curso;string;2910852
+Eixo;Eixo_1;34_edicao_catalogo_guia;string;3944352
+Eixo;Eixo_1;61_populacao_campo;string;982108
+Eixo;Eixo_1;75_turno;string;7173392
+Eixo;Eixo_1;65_situacao_da_turma;string;3684852
+Eixo;Eixo_1;1_Calculation_838513981443702785;string;8028712
+Eixo;Eixo_1;40_forma_ingresso;string;5959564
+Eixo;Eixo_1;31_ds_tipo_beneficiario;string;2912640
+Eixo;Eixo_1;68_st_financiavel;string;2333244
+Eixo;Eixo_1;33_ead;string;1751180
+Eixo;Eixo_1;2_Calculation_838513981462429699;string;45614808
+Eixo;Eixo_1;39_escolaridade_catalogo_guia;string;8434380
+Eixo;Eixo_1;36_eixo_tecnologico_catalogo_guia;string;12364464
+Eixo;Eixo_1;77_uf_do_local_da_oferta;string;3628504
+Eixo;Eixo_1;21_cpf aluno;string;36851048
+Eixo;Eixo_1;71_tipo_do_local_da_oferta;string;4119564
+Eixo;Eixo_1;41_instituicao;string;5123724
+Eixo;Eixo_1;74_transferencia_renda;string;5425704
+Eixo;Eixo_1;20_comunidade_quilombola;string;481652
+Eixo;Eixo_1;58_nu_telefone_celular;string;10354284
+Eixo;Eixo_1;43_municipio_da_ue;string;11299152
+Eixo;Eixo_1;4_Cor da Pele;string;8742644
+Eixo;Eixo_1;46_no_modalidade;string;6108956
+Eixo;Eixo_1;49_no_sistema_ensino;string;3943528
+Eixo;Eixo_1;63_seguro_desenprego;string;581880
+Eixo;Eixo_1;57_nu_telefone;string;31423508
+Eixo;Eixo_1;50_no_subdependencia_admin;string;4016772
+Eixo;Eixo_1;54_nome_da_ue;string;18590552
+Eixo;Eixo_1;28_desempregado;string;2121680
+Eixo;Eixo_1;45_no_dependencia_admin;string;5029308
+Eixo;Eixo_1;3_Codigo Diploma_Certificado;string;1170396
+Eixo;Eixo_1;44_municipio_do_local_da_oferta;string;12106100
+Eixo;Eixo_1;15_cod_da_unidade_de_ensino;string;8612648
+Eixo;Eixo_1;29_ds_email;string;13396824
+Eixo;Eixo_1;70_tipo_da_oferta;string;3798400
+Eixo;Eixo_1;8_ch_catalogo_guia;string;4930568
+Eixo;Eixo_1;32_dt_cadastro;string;14073668
+Eixo;Eixo_1;35_edital;string;1667244
+Eixo;Eixo_1;37_eixo_tecnológico;string;13008208
+Eixo;Eixo_1;62_povo_indigena;string;474396
+Eixo;Eixo_1;80_valor_hora_aula_proposto;string;1078692
+Eixo;Eixo_1;55_nome_da_uer;string;8428440
+Eixo;Eixo_1;47_no_parceiro_demandante;string;9775004
+Eixo;Eixo_1;52_nome da sit matricula (situacao detalhada);string;10671168
+Eixo;Eixo_1;56_nome_do_curso;string;17229772
+Eixo;Eixo_1;38_escolaridade do aluno;string;12064500
+Eixo;Eixo_1;42_mantenedora;string;8175376
+Eixo;Eixo_1;60_pcd;string;2471560
+Eixo;Eixo_1;30_ds_identificador_turma;string;21773048
+Eixo;Eixo_1;72_total_conf_freq_aluno;string;1200268
+Eixo;Eixo_1;78_unidade_demandante;string;14664660
+Eixo;Eixo_1;59_oferta_cadastro_online;string;1905492
+Eixo;Eixo_1;25_data_de_conclusao;string;5863500
+Eixo;Eixo_1;53_nome_curso_catalogo_guia;string;16392500
+Eixo;Eixo_1;48_no_programa;string;3190912
+Eixo;Eixo_1;64_sexo do aluno;string;2829392
+PanCreactomy2;PanCreactomy2_1;22_NPPES_PROVIDER_STREET2;string;11174912
+PanCreactomy2;PanCreactomy2_1;19_NPPES_PROVIDER_MI;string;1690196
+PanCreactomy2;PanCreactomy2_1;13_NPPES_ENTITY_CODE;string;2267488
+PanCreactomy2;PanCreactomy2_1;21_NPPES_PROVIDER_STREET1;string;26741460
+PanCreactomy2;PanCreactomy2_1;8_HCPCS_DRUG_INDICATOR;string;2267412
+PanCreactomy2;PanCreactomy2_1;7_HCPCS_DESCRIPTION;string;24054248
+PanCreactomy2;PanCreactomy2_1;26_PROVIDER_TYPE;string;7160064
+PanCreactomy2;PanCreactomy2_1;15_NPPES_PROVIDER_COUNTRY;string;2390528
+PanCreactomy2;PanCreactomy2_1;6_HCPCS_CODE;string;6594516
+PanCreactomy2;PanCreactomy2_1;17_NPPES_PROVIDER_GENDER;string;2175324
+PanCreactomy2;PanCreactomy2_1;25_PLACE_OF_SERVICE;string;2267592
+PanCreactomy2;PanCreactomy2_1;14_NPPES_PROVIDER_CITY;string;18086740
+PanCreactomy2;PanCreactomy2_1;12_NPPES_CREDENTIALS;string;9361284
+PanCreactomy2;PanCreactomy2_1;18_NPPES_PROVIDER_LAST_ORG_NAME;string;21114056
+PanCreactomy2;PanCreactomy2_1;10_MEDICARE_PARTICIPATION_INDICATOR;string;2267424
+PanCreactomy2;PanCreactomy2_1;16_NPPES_PROVIDER_FIRST_NAME;string;17342276
+PanCreactomy2;PanCreactomy2_1;20_NPPES_PROVIDER_STATE;string;2429548
+Motos;Motos_1;38_VER ANUNCIO;string;28306276
+Motos;Motos_1;6_Circulacion;string;974120
+Motos;Motos_1;1_Anunciante;string;22124120
+Motos;Motos_1;35_Soporte;string;29533604
+Motos;Motos_1;44_Anunciante (grupo);string;1782684
+Motos;Motos_1;5_Categoria;string;23383284
+Motos;Motos_1;18_Franja;string;6047852
+Motos;Motos_1;43_www2;string;17175520
+Motos;Motos_1;32_Producto;string;28803620
+Motos;Motos_1;16_Est;string;644560
+Motos;Motos_1;19_Genero;string;10046940
+Motos;Motos_1;20_Holding;string;9561892
+Motos;Motos_1;42_www1;string;14647928
+Motos;Motos_1;2_Aviso;string;8153024
+Motos;Motos_1;26_Mes;string;9564600
+Motos;Motos_1;9_Concatenar 1;string;28306276
+Motos;Motos_1;4_Cadena;string;2339156
+Motos;Motos_1;24_Marca;string;22077028
+Motos;Motos_1;40_extencion;string;4004508
+Motos;Motos_1;25_Medio;string;6718700
+Motos;Motos_1;34_Sector;string;10633624
+Motos;Motos_1;39_Vehiculo;string;15203004
+Motos;Motos_1;31_PrimeraLinea;string;42784936
+Motos;Motos_1;10_Concatenar 2;string;35179564
+Motos;Motos_1;41_medio2;string;3556800
+Motos;Motos_1;37_Unidad;string;210112
+Motos;Motos_1;36_Subsector;string;16460224
+MulheresMil;MulheresMil_1;51_nome aluno;string;56314640
+MulheresMil;MulheresMil_1;17_cod_ibge_do_local_da_oferta;string;5626864
+MulheresMil;MulheresMil_1;76_uf_da_ue;string;3628320
+MulheresMil;MulheresMil_1;69_subtipo_curso;string;2378728
+MulheresMil;MulheresMil_1;34_edicao_catalogo_guia;string;6578780
+MulheresMil;MulheresMil_1;61_populacao_campo;string;985792
+MulheresMil;MulheresMil_1;75_turno;string;7169052
+MulheresMil;MulheresMil_1;65_situacao_da_turma;string;4721572
+MulheresMil;MulheresMil_1;1_Calculation_838513981443702785;string;8087920
+MulheresMil;MulheresMil_1;40_forma_ingresso;string;6035584
+MulheresMil;MulheresMil_1;31_ds_tipo_beneficiario;string;2968800
+MulheresMil;MulheresMil_1;68_st_financiavel;string;2335620
+MulheresMil;MulheresMil_1;33_ead;string;3008724
+MulheresMil;MulheresMil_1;2_Calculation_838513981462429699;string;45707048
+MulheresMil;MulheresMil_1;39_escolaridade_catalogo_guia;string;8212984
+MulheresMil;MulheresMil_1;36_eixo_tecnologico_catalogo_guia;string;12423156
+MulheresMil;MulheresMil_1;77_uf_do_local_da_oferta;string;3628932
+MulheresMil;MulheresMil_1;21_cpf aluno;string;40029868
+MulheresMil;MulheresMil_1;71_tipo_do_local_da_oferta;string;4121800
+MulheresMil;MulheresMil_1;41_instituicao;string;5122340
+MulheresMil;MulheresMil_1;74_transferencia_renda;string;5445728
+MulheresMil;MulheresMil_1;20_comunidade_quilombola;string;479756
+MulheresMil;MulheresMil_1;58_nu_telefone_celular;string;10359304
+MulheresMil;MulheresMil_1;43_municipio_da_ue;string;11531304
+MulheresMil;MulheresMil_1;4_Cor da Pele;string;9823900
+MulheresMil;MulheresMil_1;46_no_modalidade;string;6105940
+MulheresMil;MulheresMil_1;49_no_sistema_ensino;string;3953724
+MulheresMil;MulheresMil_1;63_seguro_desenprego;string;576144
+MulheresMil;MulheresMil_1;57_nu_telefone;string;30897516
+MulheresMil;MulheresMil_1;50_no_subdependencia_admin;string;4013044
+MulheresMil;MulheresMil_1;54_nome_da_ue;string;18599960
+MulheresMil;MulheresMil_1;28_desempregado;string;2129236
+MulheresMil;MulheresMil_1;45_no_dependencia_admin;string;4911844
+MulheresMil;MulheresMil_1;3_Codigo Diploma_Certificado;string;1238900
+MulheresMil;MulheresMil_1;44_municipio_do_local_da_oferta;string;12121168
+MulheresMil;MulheresMil_1;15_cod_da_unidade_de_ensino;string;8614200
+MulheresMil;MulheresMil_1;29_ds_email;string;13348952
+MulheresMil;MulheresMil_1;70_tipo_da_oferta;string;3804988
+MulheresMil;MulheresMil_1;8_ch_catalogo_guia;string;4934916
+MulheresMil;MulheresMil_1;32_dt_cadastro;string;12115656
+MulheresMil;MulheresMil_1;35_edital;string;1632260
+MulheresMil;MulheresMil_1;37_eixo_tecnológico;string;12966080
+MulheresMil;MulheresMil_1;62_povo_indigena;string;472472
+MulheresMil;MulheresMil_1;80_valor_hora_aula_proposto;string;1050964
+MulheresMil;MulheresMil_1;55_nome_da_uer;string;8547496
+MulheresMil;MulheresMil_1;81_Calculation_838513978982854656;string;7503536
+MulheresMil;MulheresMil_1;47_no_parceiro_demandante;string;9655444
+MulheresMil;MulheresMil_1;52_nome da sit matricula (situacao detalhada);string;10682084
+MulheresMil;MulheresMil_1;56_nome_do_curso;string;17260692
+MulheresMil;MulheresMil_1;38_escolaridade do aluno;string;13573580
+MulheresMil;MulheresMil_1;42_mantenedora;string;8006484
+MulheresMil;MulheresMil_1;60_pcd;string;2175816
+MulheresMil;MulheresMil_1;30_ds_identificador_turma;string;21789304
+MulheresMil;MulheresMil_1;72_total_conf_freq_aluno;string;1210596
+MulheresMil;MulheresMil_1;78_unidade_demandante;string;14764872
+MulheresMil;MulheresMil_1;59_oferta_cadastro_online;string;1860380
+MulheresMil;MulheresMil_1;25_data_de_conclusao;string;5813560
+MulheresMil;MulheresMil_1;53_nome_curso_catalogo_guia;string;16366312
+MulheresMil;MulheresMil_1;48_no_programa;string;3235592
+MulheresMil;MulheresMil_1;64_sexo do aluno;string;2828476
+Food;Food_1;4_device;string;2297240
+Food;Food_1;3_application;string;7235448
+Medicare1;Medicare1_1;14_NPPES_PROVIDER_FIRST_NAME;string;22225296
+Medicare1;Medicare1_1;11_GENERIC_NAME;string;9304156
+Medicare1;Medicare1_1;8_DESCRIPTION_FLAG;string;2141992
+Medicare1;Medicare1_1;9_DRUG_NAME;string;9333380
+Medicare1;Medicare1_1;3_BENE_COUNT_GE65_REDACT_FLAG;string;1716332
+Medicare1;Medicare1_1;15_NPPES_PROVIDER_LAST_ORG_NAME;string;26035244
+Medicare1;Medicare1_1;16_NPPES_PROVIDER_STATE;string;2301396
+Medicare1;Medicare1_1;10_GE65_REDACT_FLAG;string;883468
+Medicare1;Medicare1_1;18_SPECIALTY_DESC;string;4580560
+Medicare1;Medicare1_1;13_NPPES_PROVIDER_CITY;string;16610172
+USCensus;USCensus_1;340_Table Name1;string;398652
+USCensus;USCensus_1;324_SOCP;string;891756
+USCensus;USCensus_1;304_RT;string;777784
+USCensus;USCensus_1;244_NAICSP;string;874012
+USCensus;USCensus_1;305_RT1;string;777784
+USCensus;USCensus_1;339_Table Name;string;398652
+Wins;Wins_1;231_tCLASS;string;343636
+Wins;Wins_1;238_tLJKY;string;1056764
+Wins;Wins_1;252_tWK4;string;347256
+Wins;Wins_1;240_tLTRIP;string;2458296
+Wins;Wins_1;233_tFCID;string;444572
+Wins;Wins_1;246_tTPG;string;408800
+Wins;Wins_1;251_tWK3;string;418068
+Wins;Wins_1;243_tOWNER;string;2518432
+Wins;Wins_1;1_Calculation_-2642768498522718196;string;367528
+Wins;Wins_1;239_tLRACETEXT;string;869128
+Wins;Wins_1;248_tTRN;string;1751812
+Wins;Wins_1;241_tLTRK;string;629224
+Wins;Wins_1;242_tLTRN;string;1491312
+Wins;Wins_1;250_tWK2;string;517108
+Wins;Wins_1;236_tLCLASS;string;523360
+Wins;Wins_1;247_tTRK;string;446840
+Wins;Wins_1;62_nIDX;string;344140
+Wins;Wins_1;235_tJKY;string;1505252
+Wins;Wins_1;249_tWK1;string;615516
+Wins;Wins_1;234_tHOR;string;2584424
+RealEstate2;RealEstate2_1;14_Postcode_District;string;13748384
+RealEstate2;RealEstate2_1;23_Calculation_342484700263473152;string;17349980
+RealEstate2;RealEstate2_1;27_town_city url string (copy);string;49506060
+RealEstate2;RealEstate2_1;19_Property_Type;string;2455404
+RealEstate2;RealEstate2_1;4_County (copy);string;14783736
+RealEstate2;RealEstate2_1;15_Postcode_Region;string;5784508
+RealEstate2;RealEstate2_1;7_Duration;string;2388956
+RealEstate2;RealEstate2_1;11_New_Build;string;2368676
+RealEstate2;RealEstate2_1;1_Address_1;string;21238516
+RealEstate2;RealEstate2_1;2_Address_2;string;3730320
+RealEstate2;RealEstate2_1;18_Price_Paid_Transaction_Type;string;2363152
+RealEstate2;RealEstate2_1;16_Postcode_Sector;string;18814100
+RealEstate2;RealEstate2_1;9_Locality;string;16013896
+RealEstate2;RealEstate2_1;22_Transaction_ID;string;163105368
+RealEstate2;RealEstate2_1;24_Calculation_222787466265260036;string;3424516
+RealEstate2;RealEstate2_1;21_Town_City;string;17349884
+RealEstate2;RealEstate2_1;25_Calculation_222787466264023043;string;72456544
+RealEstate2;RealEstate2_1;3_County;string;14783736
+RealEstate2;RealEstate2_1;13_Postcode;string;33006988
+RealEstate2;RealEstate2_1;6_District;string;17011324
+RealEstate2;RealEstate2_1;20_Street;string;41389720
+TrainsUK1;TrainsUK1_4;8_Operator Name;string;4067440
+TrainsUK1;TrainsUK1_4;24_v_Headcode Description;string;15791640
+TrainsUK1;TrainsUK1_4;12_Planned Dest Location Full Name;string;9981044
+TrainsUK1;TrainsUK1_4;13_Planned Origin Location Full Name;string;9994400
+TrainsUK1;TrainsUK1_4;17_Section Start Location Full Name;string;11005332
+TrainsUK1;TrainsUK1_4;26_v_WTT and Section Name and Timing Event;string;14198732
+TrainsUK1;TrainsUK1_4;6_Headcode;string;4684160
+TrainsUK1;TrainsUK1_4;3_Calculation_2890421151640665;string;12136624
+TrainsUK1;TrainsUK1_4;18_Section Start Location Name;string;9240388
+TrainsUK1;TrainsUK1_4;9_Operator;string;1381364
+TrainsUK1;TrainsUK1_4;27_Calculation_2480421151322357;string;2075456
+TrainsUK1;TrainsUK1_4;22_Timetable;string;2215024
+TrainsUK1;TrainsUK1_4;28_Calculation_0430624152715434;string;14273200
+Physicians;Physicians_1;22_nppes_provider_street2;string;11030532
+Physicians;Physicians_1;13_nppes_entity_code;string;2267452
+Physicians;Physicians_1;14_nppes_provider_city;string;17946364
+Physicians;Physicians_1;12_nppes_credentials;string;9299696
+Physicians;Physicians_1;17_nppes_provider_gender;string;2174860
+Physicians;Physicians_1;7_hcpcs_code;string;8885748
+Physicians;Physicians_1;21_nppes_provider_street1;string;26102408
+Physicians;Physicians_1;18_nppes_provider_last_org_name;string;20616808
+Physicians;Physicians_1;19_nppes_provider_mi;string;1682444
+Physicians;Physicians_1;20_nppes_provider_state;string;2420972
+Physicians;Physicians_1;16_nppes_provider_first_name;string;17086368
+Physicians;Physicians_1;8_hcpcs_description;string;16247504
+Physicians;Physicians_1;24_place_of_service;string;2267556
+Physicians;Physicians_1;10_medicare_participation_indicator;string;2267408
+Physicians;Physicians_1;15_nppes_provider_country;string;2389952
+Physicians;Physicians_1;25_provider_type;string;7097392
+HashTags;HashTags_1;13_interaction#hashtags;string;1936268
+HashTags;HashTags_1;65_twitter#user#url;string;980480
+HashTags;HashTags_1;39_twitter#place#country_code;string;12708
+HashTags;HashTags_1;59_twitter#user#name;string;2246980
+HashTags;HashTags_1;33_twitter#lang;string;110712
+HashTags;HashTags_1;56_twitter#user#lang;string;166256
+HashTags;HashTags_1;21_interaction#type;string;349060
+HashTags;HashTags_1;8_interaction#author#username;string;2298976
+HashTags;HashTags_1;6_interaction#author#link;string;2632100
+HashTags;HashTags_1;42_twitter#place#name;string;90412
+HashTags;HashTags_1;61_twitter#user#profile_image_url_https;string;5576100
+HashTags;HashTags_1;2_demographic#gender;string;139212
+HashTags;HashTags_1;35_twitter#media;string;634364
+HashTags;HashTags_1;22_twitter#created_at;string;1760204
+HashTags;HashTags_1;40_twitter#place#full_name;string;102640
+HashTags;HashTags_1;47_twitter#text;string;11645976
+HashTags;HashTags_1;17_interaction#mentions;string;724908
+HashTags;HashTags_1;64_twitter#user#time_zone;string;460356
+HashTags;HashTags_1;36_twitter#mention_ids;string;578076
+HashTags;HashTags_1;43_twitter#place#place_type;string;17836
+HashTags;HashTags_1;24_twitter#domains;string;178124
+HashTags;HashTags_1;20_interaction#source;string;616400
+HashTags;HashTags_1;60_twitter#user#profile_image_url;string;5587268
+HashTags;HashTags_1;15_interaction#link;string;6407172
+HashTags;HashTags_1;5_interaction#author#language;string;166256
+HashTags;HashTags_1;53_twitter#user#geo_enabled;string;285484
+HashTags;HashTags_1;16_interaction#mention_ids;string;578076
+HashTags;HashTags_1;23_twitter#display_urls;string;528436
+HashTags;HashTags_1;48_twitter#user#created_at;string;1974772
+HashTags;HashTags_1;41_twitter#place#id;string;77756
+HashTags;HashTags_1;45_twitter#possibly_sensitive;string;2816
+HashTags;HashTags_1;67_twitter#user#verified;string;314036
+HashTags;HashTags_1;49_twitter#user#description;string;6588996
+HashTags;HashTags_1;34_twitter#links;string;607988
+HashTags;HashTags_1;14_interaction#id;string;5129144
+HashTags;HashTags_1;9_interaction#content;string;11645976
+HashTags;HashTags_1;7_interaction#author#name;string;2246980
+HashTags;HashTags_1;38_twitter#place#country;string;29296
+HashTags;HashTags_1;28_twitter#hashtags;string;1936268
+HashTags;HashTags_1;58_twitter#user#location;string;1412596
+HashTags;HashTags_1;46_twitter#source;string;909400
+HashTags;HashTags_1;10_interaction#created_at;string;1760204
+HashTags;HashTags_1;37_twitter#mentions;string;724908
+HashTags;HashTags_1;3_interaction#author#avatar;string;5587268
+HashTags;HashTags_1;62_twitter#user#screen_name;string;2298976
+HashTags;HashTags_1;25_twitter#filter_level;string;282224
+HashTags;HashTags_1;30_twitter#in_reply_to_screen_name;string;307784
+HashTags;HashTags_1;44_twitter#place#url;string;97944
+Romance;Romance_1;7_link;string;13769944
+Romance;Romance_1;11_term;string;794056
+Romance;Romance_1;10_tags;string;41576988
+Romance;Romance_1;3_caption;string;30807280
+Romance;Romance_1;9_location;string;1964444
+Romance;Romance_1;5_id;string;20206552
+Uberlandia;Uberlandia_1;51_nome aluno;string;56296372
+Uberlandia;Uberlandia_1;76_uf_da_ue;string;3628488
+Uberlandia;Uberlandia_1;69_subtipo_curso;string;3775992
+Uberlandia;Uberlandia_1;34_edicao_catalogo_guia;string;3744432
+Uberlandia;Uberlandia_1;61_populacao_campo;string;999808
+Uberlandia;Uberlandia_1;75_turno;string;7216340
+Uberlandia;Uberlandia_1;65_situacao_da_turma;string;4672316
+Uberlandia;Uberlandia_1;1_Calculation_838513981443702785;string;8071732
+Uberlandia;Uberlandia_1;40_forma_ingresso;string;5978136
+Uberlandia;Uberlandia_1;31_ds_tipo_beneficiario;string;2869872
+Uberlandia;Uberlandia_1;68_st_financiavel;string;2333388
+Uberlandia;Uberlandia_1;33_ead;string;1863104
+Uberlandia;Uberlandia_1;2_Calculation_838513981462429699;string;46376232
+Uberlandia;Uberlandia_1;39_escolaridade_catalogo_guia;string;8311724
+Uberlandia;Uberlandia_1;36_eixo_tecnologico_catalogo_guia;string;12355392
+Uberlandia;Uberlandia_1;77_uf_do_local_da_oferta;string;3629240
+Uberlandia;Uberlandia_1;21_cpf aluno;string;40014756
+Uberlandia;Uberlandia_1;71_tipo_do_local_da_oferta;string;4123184
+Uberlandia;Uberlandia_1;41_instituicao;string;5187036
+Uberlandia;Uberlandia_1;74_transferencia_renda;string;5418572
+Uberlandia;Uberlandia_1;20_comunidade_quilombola;string;491440
+Uberlandia;Uberlandia_1;58_nu_telefone_celular;string;10354172
+Uberlandia;Uberlandia_1;43_municipio_da_ue;string;11405148
+Uberlandia;Uberlandia_1;4_Cor da Pele;string;9065596
+Uberlandia;Uberlandia_1;46_no_modalidade;string;5828124
+Uberlandia;Uberlandia_1;49_no_sistema_ensino;string;3606040
+Uberlandia;Uberlandia_1;63_seguro_desenprego;string;575548
+Uberlandia;Uberlandia_1;57_nu_telefone;string;30187568
+Uberlandia;Uberlandia_1;50_no_subdependencia_admin;string;4020904
+Uberlandia;Uberlandia_1;54_nome_da_ue;string;18623612
+Uberlandia;Uberlandia_1;28_desempregado;string;2130232
+Uberlandia;Uberlandia_1;45_no_dependencia_admin;string;5029428
+Uberlandia;Uberlandia_1;3_Codigo Diploma_Certificado;string;1178340
+Uberlandia;Uberlandia_1;44_municipio_do_local_da_oferta;string;12116612
+Uberlandia;Uberlandia_1;29_ds_email;string;13342540
+Uberlandia;Uberlandia_1;70_tipo_da_oferta;string;3220136
+Uberlandia;Uberlandia_1;32_dt_cadastro;string;12907984
+Uberlandia;Uberlandia_1;35_edital;string;1665840
+Uberlandia;Uberlandia_1;37_eixo_tecnológico;string;13076012
+Uberlandia;Uberlandia_1;62_povo_indigena;string;484312
+Uberlandia;Uberlandia_1;80_valor_hora_aula_proposto;string;1058652
+Uberlandia;Uberlandia_1;55_nome_da_uer;string;8384192
+Uberlandia;Uberlandia_1;81_Calculation_838513978982854656;string;7413464
+Uberlandia;Uberlandia_1;47_no_parceiro_demandante;string;9748788
+Uberlandia;Uberlandia_1;52_nome da sit matricula (situacao detalhada);string;10696064
+Uberlandia;Uberlandia_1;56_nome_do_curso;string;17212352
+Uberlandia;Uberlandia_1;38_escolaridade do aluno;string;13755340
+Uberlandia;Uberlandia_1;42_mantenedora;string;8065440
+Uberlandia;Uberlandia_1;60_pcd;string;2175836
+Uberlandia;Uberlandia_1;30_ds_identificador_turma;string;21737344
+Uberlandia;Uberlandia_1;72_total_conf_freq_aluno;string;1201136
+Uberlandia;Uberlandia_1;78_unidade_demandante;string;14684560
+Uberlandia;Uberlandia_1;59_oferta_cadastro_online;string;2267096
+Uberlandia;Uberlandia_1;25_data_de_conclusao;string;5855068
+Uberlandia;Uberlandia_1;53_nome_curso_catalogo_guia;string;16319272
+Uberlandia;Uberlandia_1;48_no_programa;string;2493828
+Uberlandia;Uberlandia_1;64_sexo do aluno;string;2828352
+Medicare3;Medicare3_1;22_NPPES_PROVIDER_STREET2;string;11379752
+Medicare3;Medicare3_1;19_NPPES_PROVIDER_MI;string;1697564
+Medicare3;Medicare3_1;13_NPPES_ENTITY_CODE;string;2301632
+Medicare3;Medicare3_1;21_NPPES_PROVIDER_STREET1;string;27176064
+Medicare3;Medicare3_1;8_HCPCS_DRUG_INDICATOR;string;2301560
+Medicare3;Medicare3_1;7_HCPCS_DESCRIPTION;string;24284264
+Medicare3;Medicare3_1;26_PROVIDER_TYPE;string;7247568
+Medicare3;Medicare3_1;15_NPPES_PROVIDER_COUNTRY;string;2415056
+Medicare3;Medicare3_1;6_HCPCS_CODE;string;6914956
+Medicare3;Medicare3_1;17_NPPES_PROVIDER_GENDER;string;2202676
+Medicare3;Medicare3_1;25_PLACE_OF_SERVICE;string;2301728
+Medicare3;Medicare3_1;14_NPPES_PROVIDER_CITY;string;18443676
+Medicare3;Medicare3_1;12_NPPES_CREDENTIALS;string;9572832
+Medicare3;Medicare3_1;18_NPPES_PROVIDER_LAST_ORG_NAME;string;21473644
+Medicare3;Medicare3_1;10_MEDICARE_PARTICIPATION_INDICATOR;string;2301572
+Medicare3;Medicare3_1;16_NPPES_PROVIDER_FIRST_NAME;string;17603104
+Medicare3;Medicare3_1;20_NPPES_PROVIDER_STATE;string;2454292
+CityMaxCapita;CityMaxCapita_1;15_Language;string;273040
+CityMaxCapita;CityMaxCapita_1;25_Tweet Text;string;26212752
+CityMaxCapita;CityMaxCapita_1;11_Gender;string;228476
+CityMaxCapita;CityMaxCapita_1;8_First Link in Tweet;string;2338192
+CityMaxCapita;CityMaxCapita_1;30_Username 1;string;3989720
+CityMaxCapita;CityMaxCapita_1;28_User Bio;string;12066988
+CityMaxCapita;CityMaxCapita_1;22_Short Domain;string;424272
+CityMaxCapita;CityMaxCapita_1;21_Region;string;563968
+CityMaxCapita;CityMaxCapita_1;24_State;string;237452
+CityMaxCapita;CityMaxCapita_1;2_City_State;string;1702228
+CityMaxCapita;CityMaxCapita_1;31_Username;string;4332212
+CityMaxCapita;CityMaxCapita_1;1_City_Admin;string;319968
+CityMaxCapita;CityMaxCapita_1;29_User Loc;string;2688144
+CityMaxCapita;CityMaxCapita_1;13_Keyword;string;530720
+CityMaxCapita;CityMaxCapita_1;23_State_Country;string;1981160
+CityMaxCapita;CityMaxCapita_1;3_City;string;1655744
+CityMaxCapita;CityMaxCapita_1;27_Twitter Client;string;932656
+CityMaxCapita;CityMaxCapita_1;18_Long Domain;string;455844
+Provider;Provider_1;22_nppes_provider_street2;string;11926820
+Provider;Provider_1;13_nppes_entity_code;string;2267452
+Provider;Provider_1;14_nppes_provider_city;string;20893300
+Provider;Provider_1;12_nppes_credentials;string;9518228
+Provider;Provider_1;17_nppes_provider_gender;string;2174644
+Provider;Provider_1;21_nppes_provider_street1;string;29299552
+Provider;Provider_1;18_nppes_provider_last_org_name;string;23697404
+Provider;Provider_1;19_nppes_provider_mi;string;1681284
+Provider;Provider_1;20_nppes_provider_state;string;2421932
+Provider;Provider_1;16_nppes_provider_first_name;string;19494928
+Provider;Provider_1;8_hcpcs_description;string;16265328
+Provider;Provider_1;24_place_of_service;string;2267572
+Provider;Provider_1;10_medicare_participation_indicator;string;2267404
+Provider;Provider_1;15_nppes_provider_country;string;2390548
+Provider;Provider_1;25_provider_type;string;7512692
+MedPayment2;MedPayment2_1;22_nppes_provider_street2;string;11055692
+MedPayment2;MedPayment2_1;13_nppes_entity_code;string;2267472
+MedPayment2;MedPayment2_1;14_nppes_provider_city;string;17941884
+MedPayment2;MedPayment2_1;12_nppes_credentials;string;9310656
+MedPayment2;MedPayment2_1;17_nppes_provider_gender;string;2139448
+MedPayment2;MedPayment2_1;7_hcpcs_code;string;6643064
+MedPayment2;MedPayment2_1;21_nppes_provider_street1;string;25963348
+MedPayment2;MedPayment2_1;18_nppes_provider_last_org_name;string;20622728
+MedPayment2;MedPayment2_1;19_nppes_provider_mi;string;1681440
+MedPayment2;MedPayment2_1;20_nppes_provider_state;string;2422216
+MedPayment2;MedPayment2_1;16_nppes_provider_first_name;string;17088892
+MedPayment2;MedPayment2_1;8_hcpcs_description;string;16274560
+MedPayment2;MedPayment2_1;24_place_of_service;string;2267568
+MedPayment2;MedPayment2_1;10_medicare_participation_indicator;string;2267432
+MedPayment2;MedPayment2_1;15_nppes_provider_country;string;2390544
+MedPayment2;MedPayment2_1;25_provider_type;string;7062100
+PanCreactomy1;PanCreactomy1_1;22_NPPES_PROVIDER_STREET2;string;11183832
+PanCreactomy1;PanCreactomy1_1;19_NPPES_PROVIDER_MI;string;1690196
+PanCreactomy1;PanCreactomy1_1;13_NPPES_ENTITY_CODE;string;2267492
+PanCreactomy1;PanCreactomy1_1;21_NPPES_PROVIDER_STREET1;string;26719404
+PanCreactomy1;PanCreactomy1_1;8_HCPCS_DRUG_INDICATOR;string;2267420
+PanCreactomy1;PanCreactomy1_1;7_HCPCS_DESCRIPTION;string;24002940
+PanCreactomy1;PanCreactomy1_1;26_PROVIDER_TYPE;string;7180120
+PanCreactomy1;PanCreactomy1_1;15_NPPES_PROVIDER_COUNTRY;string;2390528
+PanCreactomy1;PanCreactomy1_1;6_HCPCS_CODE;string;9048096
+PanCreactomy1;PanCreactomy1_1;17_NPPES_PROVIDER_GENDER;string;2174724
+PanCreactomy1;PanCreactomy1_1;25_PLACE_OF_SERVICE;string;2267588
+PanCreactomy1;PanCreactomy1_1;14_NPPES_PROVIDER_CITY;string;18087084
+PanCreactomy1;PanCreactomy1_1;12_NPPES_CREDENTIALS;string;9387756
+PanCreactomy1;PanCreactomy1_1;18_NPPES_PROVIDER_LAST_ORG_NAME;string;21124100
+PanCreactomy1;PanCreactomy1_1;10_MEDICARE_PARTICIPATION_INDICATOR;string;2267408
+PanCreactomy1;PanCreactomy1_1;16_NPPES_PROVIDER_FIRST_NAME;string;17319296
+PanCreactomy1;PanCreactomy1_1;20_NPPES_PROVIDER_STATE;string;2429580
+YaleLanguages;YaleLanguages_1;18_LC_NARROW;string;1037772
+YaleLanguages;YaleLanguages_1;17_LC_BROAD;string;559352
+YaleLanguages;YaleLanguages_1;2_BIB_FORMAT;string;312896
+YaleLanguages;YaleLanguages_1;27_PLACE_CODE;string;455504
+YaleLanguages;YaleLanguages_1;26_PATRON_TYPE (Pseudo vs Patron);string;765936
+YaleLanguages;YaleLanguages_1;11_DATE_RANGE_CENTURY;string;511332
+YaleLanguages;YaleLanguages_1;28_Patron Group;string;937632
+YaleLanguages;YaleLanguages_1;22_PATRON_GROUP_DISPLAY;string;1148224
+YaleLanguages;YaleLanguages_1;8_CLASS_LETTER;string;1032040
+YaleLanguages;YaleLanguages_1;21_PATRON_GROUP_CODE;string;1036112
+YaleLanguages;YaleLanguages_1;16_LANGUAGE;string;459376
+YaleLanguages;YaleLanguages_1;7_CLASS_GROUP;string;1040320
+YaleLanguages;YaleLanguages_1;30_Calculation_1810108111146429;string;1935748
+YaleLanguages;YaleLanguages_1;12_DATE_RANGE_DECADE;string;653432
+YaleLanguages;YaleLanguages_1;10_DATE;string;756676
+YaleLanguages;YaleLanguages_1;1_BEGIN_PUB_DATE;string;779104
+YaleLanguages;YaleLanguages_1;6_CLASS_BROAD;string;1806688
+YaleLanguages;YaleLanguages_1;9_CLASS_NARROW;string;2325148
+YaleLanguages;YaleLanguages_1;4_CALL_NO_TYPE;string;275752
+YaleLanguages;YaleLanguages_1;25_PATRON_GROUP_NAME;string;1147112
+TableroSistemaPenal;TableroSistemaPenal_1;2_Año Ingreso;string;651528
+TableroSistemaPenal;TableroSistemaPenal_1;25_TIPO;string;436528
+TableroSistemaPenal;TableroSistemaPenal_1;23_REGIÓN;string;2297140
+TableroSistemaPenal;TableroSistemaPenal_1;18_LATITUD;string;2286284
+TableroSistemaPenal;TableroSistemaPenal_1;9_Calculation_0520821013255406;string;1987056
+TableroSistemaPenal;TableroSistemaPenal_1;3_CLASE;string;1189308
+TableroSistemaPenal;TableroSistemaPenal_1;17_Jurisdicción;string;713600
+TableroSistemaPenal;TableroSistemaPenal_1;1_AGRUPADOR;string;2013272
+TableroSistemaPenal;TableroSistemaPenal_1;22_PAÍS;string;831896
+TableroSistemaPenal;TableroSistemaPenal_1;24_RPA;string;147848
+TableroSistemaPenal;TableroSistemaPenal_1;7_CORTE;string;1289688
+TableroSistemaPenal;TableroSistemaPenal_1;8_CREA RUC;string;946244
+TableroSistemaPenal;TableroSistemaPenal_1;13_DELITO;string;5797652
+TableroSistemaPenal;TableroSistemaPenal_1;20_Mes Ingreso;string;478000
+TableroSistemaPenal;TableroSistemaPenal_1;27_TRIBUNAL;string;3355772
+TableroSistemaPenal;TableroSistemaPenal_1;6_COMUNA;string;2843544
+TableroSistemaPenal;TableroSistemaPenal_1;10_Calculation_0640821194248948;string;1987056
+TableroSistemaPenal;TableroSistemaPenal_1;19_LONGITUD;string;2128724
+TableroSistemaPenal;TableroSistemaPenal_1;14_Forma Inicio;string;1315176
+Rentabilidad;Rentabilidad_1;105_Ruta TA NCB;string;2288
+Rentabilidad;Rentabilidad_1;55_Locación;string;290984
+Rentabilidad;Rentabilidad_1;30_Figura Especifica;string;225456
+Rentabilidad;Rentabilidad_1;11_BODEGA_Costo Especialistas de Operaciones;string;1132
+Rentabilidad;Rentabilidad_1;69_NIT;string;1521516
+Rentabilidad;Rentabilidad_1;19_Ciudad UO;string;291028
+Rentabilidad;Rentabilidad_1;41_GEC NCB;string;6636
+Rentabilidad;Rentabilidad_1;32_Fijo _ Dinámica;string;91388
+Rentabilidad;Rentabilidad_1;127_Tradicional_ Moderno;string;309696
+Rentabilidad;Rentabilidad_1;109_Ruta de Venta NCB;string;14848
+Rentabilidad;Rentabilidad_1;101_Ruta CO;string;146584
+Rentabilidad;Rentabilidad_1;66_Modalidad reparto;string;320892
+Rentabilidad;Rentabilidad_1;56_Locación (copy);string;290984
+Rentabilidad;Rentabilidad_1;20_Descripción de Canal;string;366808
+Rentabilidad;Rentabilidad_1;26_Días de Entrega;string;247368
+Rentabilidad;Rentabilidad_1;107_Ruta de Reparto NCB;string;19320
+Rentabilidad;Rentabilidad_1;112_Sede_Foráneo;string;195828
+Rentabilidad;Rentabilidad_1;72_ON-OFF;string;101428
+Rentabilidad;Rentabilidad_1;102_Ruta ED;string;3728
+Rentabilidad;Rentabilidad_1;115_TELEVENTA OFIC_Costo Televendedor Normal;string;1132
+Rentabilidad;Rentabilidad_1;25_Dias de Visita TA;string;34984
+Rentabilidad;Rentabilidad_1;104_Ruta PR;string;216572
+Rentabilidad;Rentabilidad_1;17_Calle;string;2492700
+Rentabilidad;Rentabilidad_1;45_GUC;string;157916
+Rentabilidad;Rentabilidad_1;51_Jefe de Ventas NCB;string;10172
+Rentabilidad;Rentabilidad_1;48_Implementación Venta;string;261956
+Rentabilidad;Rentabilidad_1;29_Dïas de Entrega NCB;string;5952
+Rentabilidad;Rentabilidad_1;42_GEC;string;107896
+Rentabilidad;Rentabilidad_1;23_Dias de Visita CO;string;109236
+Rentabilidad;Rentabilidad_1;141_GEC (group);string;107552
+Rentabilidad;Rentabilidad_1;140_Zona;string;109460
+Rentabilidad;Rentabilidad_1;99_Razón Social;string;2637344
+Rentabilidad;Rentabilidad_1;67_Municipio;string;416160
+Rentabilidad;Rentabilidad_1;65_Modalidad de Venta;string;82852
+Rentabilidad;Rentabilidad_1;50_Jefatura de Reparto;string;165912
+Rentabilidad;Rentabilidad_1;84_Población Distribuidor GVF_GVI;string;322468
+Rentabilidad;Rentabilidad_1;52_Jefe de Ventas;string;199664
+Rentabilidad;Rentabilidad_1;24_Dias de Visita TA NCB;string;2124
+Rentabilidad;Rentabilidad_1;110_Ruta de Venta;string;294732
+Rentabilidad;Rentabilidad_1;111_Sede Foraneo Sintec;string;176404
+Rentabilidad;Rentabilidad_1;59_MATCH PR con NCB;string;6112
+Rentabilidad;Rentabilidad_1;68_NCB;string;9308
+Rentabilidad;Rentabilidad_1;75_OP. DISTRIBUIDORES_Filtro de Validación Costo Variable;string;108552
+Rentabilidad;Rentabilidad_1;28_Días de Visita PR;string;134644
+Rentabilidad;Rentabilidad_1;116_TELEVENTA OFIC_Tiempos de Venta;string;1132
+Rentabilidad;Rentabilidad_1;22_Deudor;string;1205292
+Rentabilidad;Rentabilidad_1;38_Fx TA NCB;string;2008
+Rentabilidad;Rentabilidad_1;103_Ruta PR NCB;string;14848
+Rentabilidad;Rentabilidad_1;128_UO;string;123004
+Rentabilidad;Rentabilidad_1;31_Figura;string;349792
+Rentabilidad;Rentabilidad_1;108_Ruta de Reparto;string;275196
+Rentabilidad;Rentabilidad_1;70_Nombre del Cliente;string;2421048
+Rentabilidad;Rentabilidad_1;13_BODEGA_Mermas;string;1132
+Rentabilidad;Rentabilidad_1;46_Gerencia;string;127780
+Rentabilidad;Rentabilidad_1;106_Ruta TA;string;52976
+Rentabilidad;Rentabilidad_1;49_Jefatura de Reparto NCB;string;10144
+Rentabilidad;Rentabilidad_1;27_Días de Visita PR NCB;string;9728
+RealEstate1;RealEstate1_1;2_Address 2;string;6236160
+RealEstate1;RealEstate1_1;15_Postcode;string;67231196
+RealEstate1;RealEstate1_1;18_Street;string;84791596
+RealEstate1;RealEstate1_1;17_Property Type;string;9014892
+RealEstate1;RealEstate1_1;13_Postcode Region;string;9909972
+RealEstate1;RealEstate1_1;5_District;string;33352620
+RealEstate1;RealEstate1_1;6_Duration;string;7223780
+RealEstate1;RealEstate1_1;10_New Build?;string;4890676
+RealEstate1;RealEstate1_1;26_Calculation_0390512122057182;string;9378460
+RealEstate1;RealEstate1_1;20_Transaction ID;string;380294384
+RealEstate1;RealEstate1_1;8_Locality;string;38861232
+RealEstate1;RealEstate1_1;14_Postcode Sector;string;37605524
+RealEstate1;RealEstate1_1;23_Calculation_5960512115909696;string;16087468
+RealEstate1;RealEstate1_1;1_Address 1;string;41644808
+RealEstate1;RealEstate1_1;19_Town_City;string;34577920
+RealEstate1;RealEstate1_1;3_County;string;24776112
+RealEstate1;RealEstate1_1;12_Postcode District;string;27376212
+Taxpayer;Taxpayer_1;22_nppes_provider_street2;string;11909288
+Taxpayer;Taxpayer_1;13_nppes_entity_code;string;2267448
+Taxpayer;Taxpayer_1;14_nppes_provider_city;string;20906100
+Taxpayer;Taxpayer_1;12_nppes_credentials;string;9534520
+Taxpayer;Taxpayer_1;17_nppes_provider_gender;string;2174784
+Taxpayer;Taxpayer_1;21_nppes_provider_street1;string;29342000
+Taxpayer;Taxpayer_1;18_nppes_provider_last_org_name;string;23694116
+Taxpayer;Taxpayer_1;19_nppes_provider_mi;string;1681260
+Taxpayer;Taxpayer_1;20_nppes_provider_state;string;2421768
+Taxpayer;Taxpayer_1;16_nppes_provider_first_name;string;19493020
+Taxpayer;Taxpayer_1;8_hcpcs_description;string;16250504
+Taxpayer;Taxpayer_1;24_place_of_service;string;2267560
+Taxpayer;Taxpayer_1;10_medicare_participation_indicator;string;2267408
+Taxpayer;Taxpayer_1;15_nppes_provider_country;string;2390548
+Taxpayer;Taxpayer_1;25_provider_type;string;7070212
+Redfin4;Redfin4_1;42_region_type;string;1275760
+Redfin4;Redfin4_1;47_state_code;string;880100
+Redfin4;Redfin4_1;41_region;string;4322136
+Redfin4;Redfin4_1;40_property_type;string;2938788
+Redfin4;Redfin4_1;5_city;string;1578216
+Redfin4;Redfin4_1;46_state;string;2544100
+IGlocations2;IGlocations2_1;11_media_type;string;744300
+IGlocations2;IGlocations2_1;19_Calculation_8090724143600502;string;1536676
+IGlocations2;IGlocations2_1;14_state;string;869904
+IGlocations2;IGlocations2_1;3_city;string;1381988
+IGlocations2;IGlocations2_1;9_link;string;17943252
+IGlocations2;IGlocations2_1;17_Calculation_3650724144057954;string;1553072
+IGlocations2;IGlocations2_1;4_country;string;572304
+IGlocations2;IGlocations2_1;12_media_url;string;40100076
+IGlocations2;IGlocations2_1;2_caption;string;88218160
+IGlocations2;IGlocations2_1;18_Calculation_4370724142342227;string;515904
+IGlocations2;IGlocations2_1;13_State (copy);string;869904
+IGlocations2;IGlocations2_1;15_username;string;8128428

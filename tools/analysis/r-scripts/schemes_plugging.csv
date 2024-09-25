@@ -1,0 +1,26 @@
+n,variant,size,type
+1,Binary,17319.5,integer
+2,Data Blocks,5606,integer
+3,BtrBlock_nl_OV+FBP+FOR,3780,integer
+4,+DICT,3008,integer
+5,+PBP,2769,integer
+6,+RLE,2463,integer
+7,+Frequency,2443,integer
+8,+Delta,2442,integer
+1,Binary,17600,double
+2,Data Blocks,9708,double
+4,BtrBlock_nl_OV+FOR+FPB+DICT,8859,double
+5,+PBP,8859,double
+6,+RLE,8717,double
+7,+Frequency,8479,double
+8,+Delta,8475,double
+9,+Decimal,6513,double
+10,+Twoway,6447,double
+1,Binary,87756,string
+2,Data Blocks,15702,string
+4,BtrBlock_nl_OV+FBP+FOR+DICT,14239,string
+5,+PBP,13240,string
+6,+RLE,12292,string
+7,+Frequency,12318,string
+8,+Delta,12316,string
+11,+TZT,8021,string

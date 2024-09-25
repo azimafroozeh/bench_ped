@@ -1,0 +1,412 @@
+../tools/datasets/formatted/IGlocations1/1/IGlocations1_1.yaml
+401220	400817	1.00101
+../tools/datasets/formatted/TrainsUK2/1/TrainsUK2_1.yaml
+2349067	2336808	1.00525
+../tools/datasets/formatted/TrainsUK2/2/TrainsUK2_2.yaml
+2348924	2336678	1.00524
+../tools/datasets/formatted/Generico/4/Generico_4.yaml
+1950645	1488340	1.31062
+../tools/datasets/formatted/Generico/3/Generico_3.yaml
+2055331	1564636	1.31362
+../tools/datasets/formatted/Generico/1/Generico_1.yaml
+2032570	1549945	1.31138
+../tools/datasets/formatted/Generico/2/Generico_2.yaml
+1979951	1510156	1.31109
+../tools/datasets/formatted/Generico/5/Generico_5.yaml
+1944237	1483604	1.31048
+../tools/datasets/formatted/Redfin1/4/Redfin1_4.yaml
+346305	346257	1.00014
+../tools/datasets/formatted/Redfin1/3/Redfin1_3.yaml
+343788	343740	1.00014
+../tools/datasets/formatted/Redfin1/1/Redfin1_1.yaml
+343660	343612	1.00014
+../tools/datasets/formatted/Redfin1/2/Redfin1_2.yaml
+343513	343465	1.00014
+../tools/datasets/formatted/Medicare2/1/Medicare2_1.yaml
+214305	212037	1.0107
+../tools/datasets/formatted/Medicare2/2/Medicare2_2.yaml
+214587	212195	1.01127
+../tools/datasets/formatted/Redfin3/1/Redfin3_1.yaml
+355377	355329	1.00014
+../tools/datasets/formatted/Redfin3/2/Redfin3_2.yaml
+354740	354692	1.00014
+../tools/datasets/formatted/SalariesFrance/4/SalariesFrance_4.yaml
+78349	75721	1.03471
+../tools/datasets/formatted/SalariesFrance/11/SalariesFrance_11.yaml
+77880	75252	1.03492
+../tools/datasets/formatted/SalariesFrance/3/SalariesFrance_3.yaml
+78513	75885	1.03463
+../tools/datasets/formatted/SalariesFrance/1/SalariesFrance_1.yaml
+78163	75535	1.03479
+../tools/datasets/formatted/SalariesFrance/10/SalariesFrance_10.yaml
+77663	75035	1.03502
+../tools/datasets/formatted/SalariesFrance/9/SalariesFrance_9.yaml
+77403	74775	1.03515
+../tools/datasets/formatted/SalariesFrance/7/SalariesFrance_7.yaml
+78513	75885	1.03463
+../tools/datasets/formatted/SalariesFrance/2/SalariesFrance_2.yaml
+646709	624321	1.03586
+../tools/datasets/formatted/SalariesFrance/13/SalariesFrance_13.yaml
+78611	75983	1.03459
+../tools/datasets/formatted/SalariesFrance/12/SalariesFrance_12.yaml
+74556	71991	1.03563
+../tools/datasets/formatted/SalariesFrance/8/SalariesFrance_8.yaml
+77656	75080	1.03431
+../tools/datasets/formatted/SalariesFrance/5/SalariesFrance_5.yaml
+77985	75357	1.03487
+../tools/datasets/formatted/SalariesFrance/6/SalariesFrance_6.yaml
+78611	75983	1.03459
+../tools/datasets/formatted/CMSprovider/1/CMSprovider_1.yaml
+171432	170891	1.00317
+../tools/datasets/formatted/CMSprovider/2/CMSprovider_2.yaml
+181206	180640	1.00313
+../tools/datasets/formatted/CommonGovernment/4/CommonGovernment_4.yaml
+4260679	4251899	1.00206
+../tools/datasets/formatted/CommonGovernment/11/CommonGovernment_11.yaml
+4191034	4182466	1.00205
+../tools/datasets/formatted/CommonGovernment/3/CommonGovernment_3.yaml
+4258532	4250247	1.00195
+../tools/datasets/formatted/CommonGovernment/1/CommonGovernment_1.yaml
+4278320	4269813	1.00199
+../tools/datasets/formatted/CommonGovernment/10/CommonGovernment_10.yaml
+4261762	4253529	1.00194
+../tools/datasets/formatted/CommonGovernment/9/CommonGovernment_9.yaml
+4239811	4231259	1.00202
+../tools/datasets/formatted/CommonGovernment/7/CommonGovernment_7.yaml
+4314192	4305445	1.00203
+../tools/datasets/formatted/CommonGovernment/2/CommonGovernment_2.yaml
+4254215	4246018	1.00193
+../tools/datasets/formatted/CommonGovernment/13/CommonGovernment_13.yaml
+4266295	4257693	1.00202
+../tools/datasets/formatted/CommonGovernment/12/CommonGovernment_12.yaml
+4215733	4206848	1.00211
+../tools/datasets/formatted/CommonGovernment/8/CommonGovernment_8.yaml
+4227532	4219052	1.00201
+../tools/datasets/formatted/CommonGovernment/5/CommonGovernment_5.yaml
+4275386	4266396	1.00211
+../tools/datasets/formatted/CommonGovernment/6/CommonGovernment_6.yaml
+4247917	4239328	1.00203
+../tools/datasets/formatted/Euro2016/1/Euro2016_1.yaml
+4796678	4796678	1
+../tools/datasets/formatted/MedPayment1/1/MedPayment1_1.yaml
+220751	218394	1.01079
+../tools/datasets/formatted/Arade/1/Arade_1.yaml
+366	366	1
+../tools/datasets/formatted/Telco/1/Telco_1.yaml
+457	457	1
+../tools/datasets/formatted/MLB/35/MLB_35.yaml
+95122	95122	1
+../tools/datasets/formatted/MLB/34/MLB_34.yaml
+95122	95122	1
+../tools/datasets/formatted/MLB/60/MLB_60.yaml
+95540	95540	1
+../tools/datasets/formatted/MLB/64/MLB_64.yaml
+287982	286974	1.00351
+../tools/datasets/formatted/MLB/38/MLB_38.yaml
+68196	68196	1
+../tools/datasets/formatted/MLB/62/MLB_62.yaml
+95540	95540	1
+../tools/datasets/formatted/MLB/58/MLB_58.yaml
+95540	95540	1
+../tools/datasets/formatted/MLB/33/MLB_33.yaml
+95122	95122	1
+../tools/datasets/formatted/MLB/17/MLB_17.yaml
+69306	66219	1.04662
+../tools/datasets/formatted/MLB/65/MLB_65.yaml
+281066	279977	1.00389
+../tools/datasets/formatted/MLB/22/MLB_22.yaml
+58543	58543	1
+../tools/datasets/formatted/MLB/39/MLB_39.yaml
+65161	65161	1
+../tools/datasets/formatted/MLB/68/MLB_68.yaml
+5348123	5344782	1.00063
+../tools/datasets/formatted/MLB/46/MLB_46.yaml
+95548	95548	1
+../tools/datasets/formatted/MLB/4/MLB_4.yaml
+5858604	5857048	1.00027
+../tools/datasets/formatted/MLB/11/MLB_11.yaml
+71580	71580	1
+../tools/datasets/formatted/MLB/19/MLB_19.yaml
+95547	95547	1
+../tools/datasets/formatted/MLB/32/MLB_32.yaml
+95122	95122	1
+../tools/datasets/formatted/MLB/31/MLB_31.yaml
+95122	95122	1
+../tools/datasets/formatted/MLB/3/MLB_3.yaml
+5822440	5821006	1.00025
+../tools/datasets/formatted/MLB/23/MLB_23.yaml
+59012	59012	1
+../tools/datasets/formatted/MLB/56/MLB_56.yaml
+90181	90181	1
+../tools/datasets/formatted/MLB/37/MLB_37.yaml
+95122	95122	1
+../tools/datasets/formatted/MLB/42/MLB_42.yaml
+92728	92728	1
+../tools/datasets/formatted/MLB/1/MLB_1.yaml
+92132	92132	1
+../tools/datasets/formatted/MLB/51/MLB_51.yaml
+95546	95544	1.00002
+../tools/datasets/formatted/MLB/28/MLB_28.yaml
+70154	70154	1
+../tools/datasets/formatted/MLB/25/MLB_25.yaml
+70278	70278	1
+../tools/datasets/formatted/MLB/15/MLB_15.yaml
+69383	66296	1.04656
+../tools/datasets/formatted/MLB/59/MLB_59.yaml
+95540	95540	1
+../tools/datasets/formatted/MLB/45/MLB_45.yaml
+95548	95548	1
+../tools/datasets/formatted/MLB/43/MLB_43.yaml
+92728	92728	1
+../tools/datasets/formatted/MLB/63/MLB_63.yaml
+269378	268301	1.00401
+../tools/datasets/formatted/MLB/26/MLB_26.yaml
+69297	69297	1
+../tools/datasets/formatted/MLB/29/MLB_29.yaml
+71168	71168	1
+../tools/datasets/formatted/MLB/57/MLB_57.yaml
+48	48	1
+../tools/datasets/formatted/MLB/61/MLB_61.yaml
+95540	95540	1
+../tools/datasets/formatted/MLB/10/MLB_10.yaml
+63739	63739	1
+../tools/datasets/formatted/MLB/44/MLB_44.yaml
+92728	92728	1
+../tools/datasets/formatted/MLB/9/MLB_9.yaml
+63639	63639	1
+../tools/datasets/formatted/MLB/52/MLB_52.yaml
+84	84	1
+../tools/datasets/formatted/MLB/49/MLB_49.yaml
+95546	95544	1.00002
+../tools/datasets/formatted/MLB/20/MLB_20.yaml
+95547	95547	1
+../tools/datasets/formatted/MLB/18/MLB_18.yaml
+69811	66702	1.04661
+../tools/datasets/formatted/MLB/53/MLB_53.yaml
+90181	90181	1
+../tools/datasets/formatted/MLB/27/MLB_27.yaml
+70142	70142	1
+../tools/datasets/formatted/MLB/50/MLB_50.yaml
+95546	95544	1.00002
+../tools/datasets/formatted/MLB/47/MLB_47.yaml
+95548	95548	1
+../tools/datasets/formatted/MLB/67/MLB_67.yaml
+5833665	5832158	1.00026
+../tools/datasets/formatted/MLB/14/MLB_14.yaml
+92132	92132	1
+../tools/datasets/formatted/MLB/24/MLB_24.yaml
+58989	58989	1
+../tools/datasets/formatted/MLB/36/MLB_36.yaml
+95122	95122	1
+../tools/datasets/formatted/MLB/40/MLB_40.yaml
+65145	65145	1
+../tools/datasets/formatted/MLB/7/MLB_7.yaml
+71461	71461	1
+../tools/datasets/formatted/MLB/55/MLB_55.yaml
+90181	90181	1
+../tools/datasets/formatted/MLB/2/MLB_2.yaml
+5871354	5869963	1.00024
+../tools/datasets/formatted/MLB/13/MLB_13.yaml
+92132	92132	1
+../tools/datasets/formatted/MLB/30/MLB_30.yaml
+70235	70235	1
+../tools/datasets/formatted/MLB/66/MLB_66.yaml
+5270880	5219983	1.00975
+../tools/datasets/formatted/MLB/12/MLB_12.yaml
+92132	92132	1
+../tools/datasets/formatted/MLB/8/MLB_8.yaml
+63739	63739	1
+../tools/datasets/formatted/MLB/54/MLB_54.yaml
+90181	90181	1
+../tools/datasets/formatted/MLB/5/MLB_5.yaml
+5365822	5362743	1.00057
+../tools/datasets/formatted/MLB/16/MLB_16.yaml
+69413	66326	1.04654
+../tools/datasets/formatted/MLB/41/MLB_41.yaml
+92728	92728	1
+../tools/datasets/formatted/MLB/48/MLB_48.yaml
+95548	95548	1
+../tools/datasets/formatted/MLB/21/MLB_21.yaml
+95547	95547	1
+../tools/datasets/formatted/MLB/6/MLB_6.yaml
+5347958	5344703	1.00061
+../tools/datasets/formatted/Redfin2/3/Redfin2_3.yaml
+343710	343662	1.00014
+../tools/datasets/formatted/Redfin2/1/Redfin2_1.yaml
+343574	343526	1.00014
+../tools/datasets/formatted/Redfin2/2/Redfin2_2.yaml
+342459	342411	1.00014
+../tools/datasets/formatted/NYC/1/NYC_1.yaml
+1961406	1928097	1.01728
+../tools/datasets/formatted/NYC/2/NYC_2.yaml
+1980270	1947282	1.01694
+../tools/datasets/formatted/Corporations/1/Corporations_1.yaml
+4749179	4689258	1.01278
+../tools/datasets/formatted/Eixo/1/Eixo_1.yaml
+4424092	4393227	1.00703
+../tools/datasets/formatted/PanCreactomy2/1/PanCreactomy2_1.yaml
+280829	277862	1.01068
+../tools/datasets/formatted/PanCreactomy2/2/PanCreactomy2_2.yaml
+284140	281337	1.00996
+../tools/datasets/formatted/Motos/1/Motos_1.yaml
+1949725	1487371	1.31085
+../tools/datasets/formatted/Motos/2/Motos_2.yaml
+2004197	1530405	1.30959
+../tools/datasets/formatted/MulheresMil/1/MulheresMil_1.yaml
+4422644	4393088	1.00673
+../tools/datasets/formatted/Bimbo/1/Bimbo_1.yaml
+0	0	-nan
+../tools/datasets/formatted/Food/1/Food_1.yaml
+16055	16055	1
+../tools/datasets/formatted/Hatred/1/Hatred_1.yaml
+9480446	9468772	1.00123
+../tools/datasets/formatted/Medicare1/1/Medicare1_1.yaml
+98842	90960	1.08665
+../tools/datasets/formatted/Medicare1/2/Medicare1_2.yaml
+99256	91329	1.0868
+../tools/datasets/formatted/USCensus/3/USCensus_3.yaml
+26	26	1
+../tools/datasets/formatted/USCensus/1/USCensus_1.yaml
+26	26	1
+../tools/datasets/formatted/USCensus/2/USCensus_2.yaml
+26	26	1
+../tools/datasets/formatted/Wins/4/Wins_4.yaml
+2286991	1545096	1.48016
+../tools/datasets/formatted/Wins/3/Wins_3.yaml
+2402342	1621003	1.48201
+../tools/datasets/formatted/Wins/1/Wins_1.yaml
+1586723	1585510	1.00077
+../tools/datasets/formatted/Wins/2/Wins_2.yaml
+2233187	1525113	1.46428
+../tools/datasets/formatted/RealEstate2/4/RealEstate2_4.yaml
+6517955	6495136	1.00351
+../tools/datasets/formatted/RealEstate2/3/RealEstate2_3.yaml
+6548654	6525863	1.00349
+../tools/datasets/formatted/RealEstate2/1/RealEstate2_1.yaml
+6509393	6487113	1.00343
+../tools/datasets/formatted/RealEstate2/7/RealEstate2_7.yaml
+6489882	6467171	1.00351
+../tools/datasets/formatted/RealEstate2/2/RealEstate2_2.yaml
+6549393	6526336	1.00353
+../tools/datasets/formatted/RealEstate2/5/RealEstate2_5.yaml
+6552366	6529376	1.00352
+../tools/datasets/formatted/RealEstate2/6/RealEstate2_6.yaml
+6555990	6532962	1.00352
+../tools/datasets/formatted/IUBLibrary/1/IUBLibrary_1.yaml
+208191	208052	1.00067
+../tools/datasets/formatted/TrainsUK1/4/TrainsUK1_4.yaml
+1113988	1097652	1.01488
+../tools/datasets/formatted/TrainsUK1/3/TrainsUK1_3.yaml
+1112033	1095606	1.01499
+../tools/datasets/formatted/TrainsUK1/1/TrainsUK1_1.yaml
+0	0	-nan
+../tools/datasets/formatted/TrainsUK1/2/TrainsUK1_2.yaml
+1094157	1077776	1.0152
+../tools/datasets/formatted/Physicians/1/Physicians_1.yaml
+225927	223536	1.0107
+../tools/datasets/formatted/HashTags/1/HashTags_1.yaml
+33397440	23400415	1.42722
+../tools/datasets/formatted/Romance/1/Romance_1.yaml
+13062717	13062710	1
+../tools/datasets/formatted/Romance/2/Romance_2.yaml
+12803153	12803142	1
+../tools/datasets/formatted/Uberlandia/1/Uberlandia_1.yaml
+4413754	4383754	1.00684
+../tools/datasets/formatted/Medicare3/1/Medicare3_1.yaml
+279998	277513	1.00895
+../tools/datasets/formatted/CityMaxCapita/1/CityMaxCapita_1.yaml
+9487371	9404487	1.00881
+../tools/datasets/formatted/Provider/4/Provider_4.yaml
+213121	210809	1.01097
+../tools/datasets/formatted/Provider/3/Provider_3.yaml
+212871	210473	1.01139
+../tools/datasets/formatted/Provider/1/Provider_1.yaml
+207696	205425	1.01106
+../tools/datasets/formatted/Provider/7/Provider_7.yaml
+213698	211378	1.01098
+../tools/datasets/formatted/Provider/2/Provider_2.yaml
+211330	208910	1.01158
+../tools/datasets/formatted/Provider/8/Provider_8.yaml
+209275	206929	1.01134
+../tools/datasets/formatted/Provider/5/Provider_5.yaml
+207477	205124	1.01147
+../tools/datasets/formatted/Provider/6/Provider_6.yaml
+213628	211364	1.01071
+../tools/datasets/formatted/MedPayment2/1/MedPayment2_1.yaml
+219372	216945	1.01119
+../tools/datasets/formatted/PanCreactomy1/1/PanCreactomy1_1.yaml
+283322	280461	1.0102
+../tools/datasets/formatted/YaleLanguages/4/YaleLanguages_4.yaml
+11134	8467	1.31499
+../tools/datasets/formatted/YaleLanguages/3/YaleLanguages_3.yaml
+12027	9098	1.32194
+../tools/datasets/formatted/YaleLanguages/1/YaleLanguages_1.yaml
+11209	8361	1.34063
+../tools/datasets/formatted/YaleLanguages/2/YaleLanguages_2.yaml
+11184	8364	1.33716
+../tools/datasets/formatted/YaleLanguages/5/YaleLanguages_5.yaml
+11087	8434	1.31456
+../tools/datasets/formatted/TableroSistemaPenal/4/TableroSistemaPenal_4.yaml
+12368	12368	1
+../tools/datasets/formatted/TableroSistemaPenal/3/TableroSistemaPenal_3.yaml
+12552	12552	1
+../tools/datasets/formatted/TableroSistemaPenal/1/TableroSistemaPenal_1.yaml
+21185	20512	1.03281
+../tools/datasets/formatted/TableroSistemaPenal/7/TableroSistemaPenal_7.yaml
+21349	20676	1.03255
+../tools/datasets/formatted/TableroSistemaPenal/2/TableroSistemaPenal_2.yaml
+27247	16488	1.65254
+../tools/datasets/formatted/TableroSistemaPenal/8/TableroSistemaPenal_8.yaml
+737468	737464	1.00001
+../tools/datasets/formatted/TableroSistemaPenal/5/TableroSistemaPenal_5.yaml
+12433	12433	1
+../tools/datasets/formatted/TableroSistemaPenal/6/TableroSistemaPenal_6.yaml
+23892	23892	1
+../tools/datasets/formatted/Rentabilidad/4/Rentabilidad_4.yaml
+4019782	3849312	1.04429
+../tools/datasets/formatted/Rentabilidad/3/Rentabilidad_3.yaml
+4024476	3852921	1.04453
+../tools/datasets/formatted/Rentabilidad/1/Rentabilidad_1.yaml
+4033206	3826715	1.05396
+../tools/datasets/formatted/Rentabilidad/9/Rentabilidad_9.yaml
+4029856	3860115	1.04397
+../tools/datasets/formatted/Rentabilidad/7/Rentabilidad_7.yaml
+4019225	3814893	1.05356
+../tools/datasets/formatted/Rentabilidad/2/Rentabilidad_2.yaml
+3662098	3493448	1.04828
+../tools/datasets/formatted/Rentabilidad/8/Rentabilidad_8.yaml
+4025413	3854487	1.04434
+../tools/datasets/formatted/Rentabilidad/5/Rentabilidad_5.yaml
+4013354	3842026	1.04459
+../tools/datasets/formatted/Rentabilidad/6/Rentabilidad_6.yaml
+4036031	3836015	1.05214
+../tools/datasets/formatted/RealEstate1/1/RealEstate1_1.yaml
+3600352	3578846	1.00601
+../tools/datasets/formatted/RealEstate1/2/RealEstate1_2.yaml
+3612751	3590940	1.00607
+../tools/datasets/formatted/Taxpayer/4/Taxpayer_4.yaml
+208200	205777	1.01177
+../tools/datasets/formatted/Taxpayer/3/Taxpayer_3.yaml
+213247	210883	1.01121
+../tools/datasets/formatted/Taxpayer/1/Taxpayer_1.yaml
+210291	207954	1.01124
+../tools/datasets/formatted/Taxpayer/10/Taxpayer_10.yaml
+211858	209510	1.01121
+../tools/datasets/formatted/Taxpayer/9/Taxpayer_9.yaml
+208264	205763	1.01215
+../tools/datasets/formatted/Taxpayer/7/Taxpayer_7.yaml
+211586	209307	1.01089
+../tools/datasets/formatted/Taxpayer/2/Taxpayer_2.yaml
+212024	209687	1.01115
+../tools/datasets/formatted/Taxpayer/8/Taxpayer_8.yaml
+207877	205474	1.01169
+../tools/datasets/formatted/Taxpayer/5/Taxpayer_5.yaml
+212048	209667	1.01136
+../tools/datasets/formatted/Taxpayer/6/Taxpayer_6.yaml
+212122	209828	1.01093
+../tools/datasets/formatted/Redfin4/1/Redfin4_1.yaml
+354722	354674	1.00014
+../tools/datasets/formatted/IGlocations2/1/IGlocations2_1.yaml
+18602486	18602451	1
+../tools/datasets/formatted/IGlocations2/2/IGlocations2_2.yaml
+18489210	18489175	1
