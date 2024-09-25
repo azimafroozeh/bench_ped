@@ -142,7 +142,7 @@ bool OneValue::decompressNoCopy(u8 *dest, BitmapWrapper *nullmap, const u8 *src,
     auto dest_views = reinterpret_cast<StringPointerArrayViewer::View *>(dest);
     StringPointerArrayViewer::View view = {
             .length = col_struct.length,
-            .offset = tuple_count * sizeof(StringPointerArrayViewer::View)
+            .offset = static_cast<u32>(tuple_count * sizeof(StringPointerArrayViewer::View))
     };
 
     auto dest_view_simd = reinterpret_cast<__m256i *>(dest_views);
