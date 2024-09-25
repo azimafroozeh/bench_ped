@@ -114,3 +114,5 @@ message(STATUS "    GFLAGS_LIBRARY_PATH         = ${GFLAGS_LIBRARY_PATH}")
 message(STATUS "[TEST] settings")
 message(STATUS "    GTEST_INCLUDE_DIR           = ${GTEST_INCLUDE_DIR}")
 message(STATUS "    GTEST_LIBRARY_PATH          = ${GTEST_LIBRARY_PATH}")
+
+include("${CMAKE_SOURCE_DIR}/alp/manual/CMakeLists.txt")
