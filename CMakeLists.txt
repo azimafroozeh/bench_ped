@@ -19,7 +19,7 @@ add_compile_options(-march=native -Wall -Wextra)
 
 if ("${CMAKE_CXX_COMPILER_ID}" STREQUAL "Clang" AND CMAKE_BUILD_TYPE MATCHES Debug)
     add_compile_options(-fstandalone-debug)
-endif()
+endif ()
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
@@ -114,5 +114,16 @@ message(STATUS "    GFLAGS_LIBRARY_PATH         = ${GFLAGS_LIBRARY_PATH}")
 message(STATUS "[TEST] settings")
 message(STATUS "    GTEST_INCLUDE_DIR           = ${GTEST_INCLUDE_DIR}")
 message(STATUS "    GTEST_LIBRARY_PATH          = ${GTEST_LIBRARY_PATH}")
+
+include(FetchContent)
+FetchContent_Declare(
+        alp_repo
+        GIT_REPOSITORY https://github.com/cwida/ALP.git
+        GIT_TAG main #
+)
+
+FetchContent_MakeAvailable(alp_repo)
+include_directories(${alp_repo_SOURCE_DIR}/data/include)
+
 
 include("${CMAKE_SOURCE_DIR}/alp/manual/CMakeLists.txt")
