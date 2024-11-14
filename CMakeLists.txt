@@ -80,9 +80,6 @@ include("${CMAKE_SOURCE_DIR}/tools/local.cmake")
 # Tests
 # ---------------------------------------------------------------------------
 
-# Tester does not link correctly because of tzt_stats
-include("${CMAKE_SOURCE_DIR}/test/local.cmake")
-
 # ---------------------------------------------------------------------------
 # Benchmarks
 # ---------------------------------------------------------------------------
