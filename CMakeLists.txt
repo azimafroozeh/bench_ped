@@ -41,7 +41,7 @@ find_package(Threads REQUIRED)
 set(THREADS_PREFER_PTHREAD_FLAG ON)
 
 include("${CMAKE_SOURCE_DIR}/vendor/aws-sdk.cmake")
-include("${CMAKE_SOURCE_DIR}/vendor/benchmark.cmake")
+#include("${CMAKE_SOURCE_DIR}/vendor/benchmark.cmake")
 include("${CMAKE_SOURCE_DIR}/vendor/googletest.cmake")
 include("${CMAKE_SOURCE_DIR}/vendor/gflags.cmake")
 #include("${CMAKE_SOURCE_DIR}/vendor/rapidjson.cmake")
@@ -72,7 +72,7 @@ include_directories(
 # Sources
 # ---------------------------------------------------------------------------
 
-include("${CMAKE_SOURCE_DIR}/playground/local.cmake")
+#include("${CMAKE_SOURCE_DIR}/playground/local.cmake")
 include("${CMAKE_SOURCE_DIR}/cengine/local.cmake")
 include("${CMAKE_SOURCE_DIR}/tools/local.cmake")
 
@@ -112,17 +112,23 @@ message(STATUS "[TEST] settings")
 message(STATUS "    GTEST_INCLUDE_DIR           = ${GTEST_INCLUDE_DIR}")
 message(STATUS "    GTEST_LIBRARY_PATH          = ${GTEST_LIBRARY_PATH}")
 
-add_compile_definitions(CMAKE_SOURCE_DIR="${CMAKE_SOURCE_DIR}")
 include(FetchContent)
 FetchContent_Declare(
         alp_repo
         GIT_REPOSITORY https://github.com/cwida/ALP.git
-        GIT_TAG main #
+        GIT_TAG repro #
+        GIT_SHALLOW TRUE
 )
 
+set(ALP_ENABLE_CLANG_TIDY OFF CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(alp_repo)
 include_directories(${alp_repo_SOURCE_DIR}/data/include)
 
+# Set ALP_CMAKE_SOURCE_DIR manually
+set(ALP_CMAKE_SOURCE_DIR "${alp_repo_SOURCE_DIR}")
+add_compile_definitions(ALP_CMAKE_SOURCE_DIR="${ALP_CMAKE_SOURCE_DIR}")
+
+# Print the value of ALP_CMAKE_SOURCE_DIR
+message("ALP_CMAKE_SOURCE_DIR: ${ALP_CMAKE_SOURCE_DIR}")
+
 include("${CMAKE_SOURCE_DIR}/alp/manual/CMakeLists.txt")
-
-

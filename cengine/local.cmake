@@ -36,7 +36,7 @@ if (CMAKE_BUILD_TYPE MATCHES Debug)
     #    target_compile_options(cengine PUBLIC -fsanitize=address)
     target_compile_options(cengine PUBLIC -g)
 endif ()
-find_package(BZip2 1.0.6 REQUIRED)
+find_package(BZip2 REQUIRED)
 target_link_libraries(cengine gflags Threads::Threads yaml mmapvector fsst fastpfor BZip2::BZip2 tbb croaring gdouble turbo lz4) #asan
 target_include_directories(cengine PUBLIC ${SPDLOG_INCLUDE_DIR})
 target_include_directories(cengine PUBLIC ${SHARED_INCLUDE_DIRECTORY})

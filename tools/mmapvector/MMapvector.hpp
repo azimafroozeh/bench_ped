@@ -12,6 +12,7 @@
 #include <string_view>
 #include <unordered_map>
 #include <cassert>
+#include <cstdint>
 // -------------------------------------------------------------------------------------
 #define die_if(expr) if (!(expr)) { perror(#expr); assert(false); }
 
