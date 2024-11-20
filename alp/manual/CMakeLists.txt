@@ -1,19 +1,16 @@
-add_executable(bench_ped alp/manual/bench_ped.cpp)
-configure_file(${CMAKE_SOURCE_DIR}/alp_bench/alp_bench.hpp ${CMAKE_CURRENT_BINARY_DIR}/bench_ped.hpp)
-target_include_directories(bench_ped PRIVATE ${CMAKE_CURRENT_BINARY_DIR})
-target_include_directories(bench_ped PRIVATE ${CMAKE_SOURCE_DIR}/shared-headers)
-target_include_directories(bench_ped PRIVATE ${CMAKE_SOURCE_DIR}/cengine)
-target_include_directories(bench_ped PRIVATE ${CMAKE_SOURCE_DIR}/tools/mmapvector)
-target_link_libraries(bench_ped PRIVATE cengine)
-
-
-
+add_executable(bench_pde alp/manual/bench_pde.cpp)
+configure_file(${CMAKE_SOURCE_DIR}/alp_bench/alp_bench.hpp ${CMAKE_CURRENT_BINARY_DIR}/bench_pde.hpp)
+target_include_directories(bench_pde PRIVATE ${CMAKE_CURRENT_BINARY_DIR})
+target_include_directories(bench_pde PRIVATE ${CMAKE_SOURCE_DIR}/shared-headers)
+target_include_directories(bench_pde PRIVATE ${CMAKE_SOURCE_DIR}/cengine)
+target_include_directories(bench_pde PRIVATE ${CMAKE_SOURCE_DIR}/tools/mmapvector)
+target_link_libraries(bench_pde PRIVATE cengine)
 
 
 enable_testing()
-add_executable(test_ped alp/manual/test_ped.cpp)
-target_include_directories(test_ped PRIVATE ${CMAKE_SOURCE_DIR}/shared-headers)
-target_include_directories(test_ped PRIVATE ${CMAKE_SOURCE_DIR}/cengine)
-target_include_directories(test_ped PRIVATE ${CMAKE_SOURCE_DIR}/tools/mmapvector)
-target_link_libraries(test_ped PRIVATE cengine gtest)
-add_test(NAME test_ped_tests COMMAND test_ped_tests)
+add_executable(test_pde alp/manual/test_pde.cpp)
+target_include_directories(test_pde PRIVATE ${CMAKE_SOURCE_DIR}/shared-headers)
+target_include_directories(test_pde PRIVATE ${CMAKE_SOURCE_DIR}/cengine)
+target_include_directories(test_pde PRIVATE ${CMAKE_SOURCE_DIR}/tools/mmapvector)
+target_link_libraries(test_pde PRIVATE cengine gtest)
+add_test(NAME test_pde_tests COMMAND test_pde_tests)
