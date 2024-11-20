@@ -191,7 +191,7 @@ int main()
   benchmark::Benchmark benchmark =
       benchmark::create("pde")
           .save()
-          .at(std::string(SOURCE_DIR) + "../ALP/publication/results/" +
+          .at(std::string(SOURCE_DIR) + "/../ALP/publication/results/" +
               benchmark::CmakeInfo::getCmakeToolchainFile())
           .print()
           .add_extra_info(benchmark::CmakeInfo::getCmakeInfo());
