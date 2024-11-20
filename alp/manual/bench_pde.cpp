@@ -1,4 +1,4 @@
-#include "bench_ped.hpp"
+#include "bench_pde.hpp"
 #include <fstream>
 #include <iostream>
 #include <sstream>
@@ -26,7 +26,7 @@ DEFINE_string(file_list_file, "pbi-double-columns.txt", "file-list");
 DEFINE_int32(cascade_depth, 1, "cascade");
 
 static __attribute__((noinline)) benchmark::BenchmarkReporter::Run
-bench_decoding_ped(alp_bench::Column& dataset,       //
+bench_decoding_pde(alp_bench::Column& dataset,       //
                    cengine::db::v2::d::Decimal& pd,  //
                    cengine::db::DoubleStats& stats,  //
                    double* dst,                      //
@@ -56,7 +56,7 @@ bench_decoding_ped(alp_bench::Column& dataset,       //
 }
 
 static __attribute__((noinline)) benchmark::BenchmarkReporter::Run
-bench_encoding_ped(alp_bench::Column& dataset,       //
+bench_encoding_pde(alp_bench::Column& dataset,       //
                    cengine::db::v2::d::Decimal& pd,  //
                    double* dbl_arr,                  //
                    uint8_t* compressed_arr,          //
@@ -169,7 +169,7 @@ void benchmark_all(benchmark::Benchmark& benchmark)
     stats = cengine::db::DoubleStats::generateStats(dbl_arr, nullptr, size);
 
     /* Benchmark Encoding */
-    benchmark.Run(bench_encoding_ped(dataset, pd, dbl_arr, compressed_arr,
+    benchmark.Run(bench_encoding_pde(dataset, pd, dbl_arr, compressed_arr,
                                      stats, cascade));
 
     /* Encode */
@@ -179,7 +179,7 @@ void benchmark_all(benchmark::Benchmark& benchmark)
     // Init decoding
 
     // Benchmark decoding
-    benchmark.Run(bench_decoding_ped(dataset, pd, stats, dst.data(),
+    benchmark.Run(bench_decoding_pde(dataset, pd, stats, dst.data(),
                                      compressed_arr, cascade));
 
     ifile.close();
