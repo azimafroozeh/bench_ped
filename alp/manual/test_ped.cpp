@@ -75,17 +75,23 @@ void setupSchemePool() {
 int main(int argc, char** argv) {
 	setupSchemePool();
 
+	std::ofstream ofile(PDE_CMAKE_SOURCE_DIR  "../ALP/publication/compression_ratio_result/double/pde.csv",
+	                    std::ios::out);
+	ofile << "dataset,size,rowgroups_count,vectors_count\n";
+
 	for (auto& dataset : alp_bench::get_alp_dataset()) {
 		Vector<double> doubles(dataset.binary_file_path.c_str());
 
 		if (dataset.name == "CMS/9") {
 			// todo : debug it, it was working in their private repo, not here.
 			std::cout << "CMS/9,9.7" << std::endl;
+			ofile << "CMS/9,9.7" << std::endl;
 			continue;
 		}
 		if (dataset.name == "Medicare/9") {
 			// todo : debug it, it was working in their private repo, not here.
 			std::cout << "Medicare/9,10.2" << std::endl;
+			ofile << "Medicare/9,10.2" << std::endl;
 			continue;
 		}
 
@@ -93,6 +99,7 @@ int main(int argc, char** argv) {
 
 		cengine::db::v2::d::Decimal pd;
 		std::cout << dataset.name << ",";
+		ofile << "," << std::endl;
 		test_compression(pd, stats, doubles.data, doubles.count, 2);
 	}
 }

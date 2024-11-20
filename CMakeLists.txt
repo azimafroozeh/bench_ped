@@ -120,6 +120,8 @@ FetchContent_Declare(
         GIT_SHALLOW TRUE
 )
 
+add_compile_definitions(PDE_CMAKE_SOURCE_DIR="${CMAKE_CURRENT_SOURCE_DIR}")
+
 set(ALP_ENABLE_CLANG_TIDY OFF CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(alp_repo)
 include_directories(${alp_repo_SOURCE_DIR}/data/include)
